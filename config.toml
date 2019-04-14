@@ -1,0 +1,334 @@
+baseURL = "http://example.org/"
+languageCode = "de-de"
+title = "Akaflieg Frankfurt"
+theme = ['alpha-church']
+themesDir = "themes"
+
+rssLimit = 5
+
+enableEmoji = true
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag = "tags"
+  preacher = "preachers"
+  series = "series"
+
+#This theme can generate a multi-level menu.
+#Use weight= to specify the order of menu items, and parent= to create a submenu item.
+[menu]
+
+[[menu.main]]
+  name = "Home"
+  weight = 1
+
+  [[menu.main]]
+    name = "Startseite"
+    parent = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Galerie"
+    parent = "Home"
+    url = "/galerie"
+    weight = 2
+
+  [[menu.main]]
+    name = "Sommerkurs 2019"
+    url = "/home/sommerkurs"
+    parent = "Home"
+    weight = 3
+
+  [[menu.main]]
+    name = "Wochenendschulung"
+    url = "/home/wochenendschulung"
+    parent = "Home"
+    weight = 3
+
+  [[menu.main]]
+    name = "Schnupperfliegen"
+    url = "/home/schnupperflug"
+    parent = "Home"
+    weight = 4
+
+  [[menu.main]]
+    name = "Allgemeines"
+    weight = 2
+
+  [[menu.main]]
+    name = "Kosten"
+    url = "/allgemeines/kosten"
+    parent = "Allgemeines"
+    weight = 1
+
+  [[menu.main]]
+    name = "Flugzeugpark"
+    url = "/allgemeines/flugzeugpark"
+    parent = "Allgemeines"
+    weight = 2
+
+  [[menu.main]]
+    name = "Geschichte"
+    url = "/allgemeines/geschichte"
+    parent = "Allgemeines"
+    weight = 3
+
+  [[menu.main]]
+    name = "Reports"
+    url = "/allgemeines/reports"
+    parent = "Allgemeines"
+    weight = 4
+
+  [[menu.main]]
+    name = "Wissenschaft"
+    weight = 3
+
+  [[menu.main]]
+    name = "Flugmeteorologie"
+    parent = "Wissenschaft"
+    url = "/wissenschaft/flugmeteorologie"
+    weight = 1
+
+  [[menu.main]]
+    name = "Flugsicherheit"
+    parent = "Wissenschaft"
+    url = "/wissenschaft/flugsicherheit"
+    weight = 2
+
+  [[menu.main]]
+    name = "Publikationen"
+    parent = "Wissenschaft"
+    url = "/wissenschaft/publikationen"
+    weight = 3
+
+  [[menu.main]]
+    name = "Kontakt"
+    weight = 4
+
+  [[menu.main]]
+    name = "Impressum"
+    url = "/kontakt/impressum"
+    parent = "Kontakt"
+    weight = 1
+
+
+  [[menu.main]]
+    name = "Facebook"
+    url = "https://facebook.com/AkafliegFrankfurt"
+    weight = 5
+
+  [[menu.main]]
+    name = "Intern"
+    weight = 6
+
+  [[menu.main]]
+    name = "Webcam"
+    parent = "Intern"
+    url = "https://fotowebcam.akaflieg-frankfurt.de/webcam/akaflieg/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Termine"
+    url = "/intern/termine"
+    parent = "Intern"
+    weight = 2
+
+  [[menu.main]]
+    name = "Links"
+    url = "/intern/links"
+    parent = "Intern"
+    weight = 3
+
+  [[menu.main]]
+    name = "Downloads"
+    url = "/intern/downloads"
+    parent = "Intern"
+    weight = 4
+
+  [[menu.main]]
+    name = "Vereinsregelungen"
+    url = "/intern/regelungen"
+    parent = "Intern"
+    weight = 5
+
+
+# Paramaters for the whole site
+[params]
+  title = "Akaflieg Frankfurt"
+  subtitle = "Akademische Fliegergruppe der Goethe-Universität Frankfurt am Main"
+  author = "Julius Lübstorf & Marie Schade"
+
+  customCSS = ["example.css"]
+
+  bible_popups = false
+  instant_page = true
+
+  [params.podcast]
+    title = "Listen to Alpha Church"
+    subtitle = ""
+    summary = "Alpha-Church sermons, talks, messages—podcasted."
+    email = "test@example.com"
+    copyright = "Podcast: [CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)"
+    image = "img/podcast-cover.jpg"
+    category = "Religion & Spirituality"
+    sub_category = "Christianity"
+    iTunes = "https://itunes.apple.com/us/podcast/tgc-word-of-the-week/id1034013280"
+    feed = "https://www.thegospelcoalition.org/podcasts/word-of-the-week/feed/?feed=podcast"
+
+
+
+  [params.contact]
+    #Use this section to automate contact form.
+    #Set service to either "netlify" or "formspree"
+    #For formspree, please setup an account at https://formspree.io/
+    #For netlify, please read https://www.netlify.com/docs/form-handling/
+    #
+    #If you use netlify, you'll need to set the confirm_page value (or elase users will see a generic netlify response)
+    #If you use formspree, you'll need to set your formspree email address.
+    service = "netlify"
+    confirm_page = "/contact_thanks"
+    # formspree_email=""
+
+  #Paramaters for the home/landing page
+  [params.landing]
+
+    [params.landing.banner]
+      image = "img/home/cerdanya_nordseite.jpg"
+
+      [[params.landing.banner.button]]
+        url = "/home/sommerkurs"
+        text = "Sommerkurs 2019"
+        type = "special"
+
+        [[params.landing.banner.button]]
+        url = "/galerie"
+        text = "Galerie"
+
+    #Details for the box below the banner
+    [params.landing.services]
+      title = "Wilkommen!"
+      text = "Die Akaflieg Frankfurt ist ein Segelflugverein für Studierende, Hochschulangehörige und alle fliegerisch und wissenschaftlich Interessierten. Wir bieten **praktische und theoretische Segelflugausbildung** an und forschen in den Gebieten Flugmeteorologie und Flugsicherheit.<br/>Bei Interesse besteht die Möglichkeit, an einem unserer **[Sommerkurse](home/sommerkurs)** teilzunehmen, im Rahmen der **[Wochenendschulung](home/wochenendschulung)** einzusteigen oder zu einen **[Schnupperflug](/home/schnupperflug)** auf unserem Platz vorbeizukommen. (Oder hier sowas wie 'komm vorbei' schreiben statt den verlinkten Sachen oder den letzten Satz einfach weglassen)"
+
+    [params.landing.feature_images]
+      #These feature images look best if there's an even number of them.
+      enable = true
+
+      [[params.landing.feature_images.tile]]
+        image = "img/home/sommerkurs.jpg"
+        title = "Sommerkurs"
+        text = "Es besteht die Möglichkeit, unverbindlich den Flugbetrieb kennenzulernen und für kleines Geld mitzufliegen."
+        url = "mailto:vorstand@akaflieg-frankfurt.de"
+        button_text = "Kontakt"
+
+      [[params.landing.feature_images.tile]]
+        image = "img/home/wochenendschulung.jpg"
+        title = "Wochenendschulung"
+        text = "Jedes fliegbare Wochenende innerhalb der Saison kann für die Anfängerschulung genutzt werden."
+        url = "/home/wochenendschulung"
+        button_text="Zur Wochenendschulung"
+
+        [[params.landing.feature_images.tile]]
+          image = "img/home/tobiadam.JPG"
+          title = "Schnupperflug"
+          text = "Es besteht die Möglichkeit, unverbindlich den Flugbetrieb kennenzulernen und für kleines Geld mitzufliegen."
+          url = "/home/schnupperflug"
+          button_text = "Kontakt"
+
+        [[params.landing.feature_images.tile]]
+          image = "img/home/FE_960.png"
+          title = "OLC - Gliding Online Contest"
+          text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen."
+          url = "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=C0&sc=&sp=2019"
+          newtab = "True"
+          button_text="Flüge der Akaflieg ansehen"
+
+
+          #[params.landing.anreise]
+            #title = "Anreise"
+
+        [params.landing.feature_icons]
+          #These feature icons look best if there's an even number of them.
+          enable = true
+
+          #Accent is a colour defined in the CSS file. Choose between 1 and 5
+          [[params.landing.feature_icons.tile]]
+            icon = "fa-plane"
+            icon_pack = "fas"
+            accent = "1"
+            title = "Flugplatz"
+            text = "<p><b>GPS:</b> 50°53’33” N 09°15′ O </p><p><b>Pisten:</b> 03 / 21 | 15 &#47; 33, jeweils ~ 900 m, Gras </p><p><b>Funk:</b> SCHWALMSTADT INFO @ 128,860 MHz</p>"
+            weight = 1
+
+          [[params.landing.feature_icons.tile]]
+            accent = "1"
+            image = "<img style=border-radius:10px; src='/img/home/der_ring.jpg'>"
+            text = "*Flugplatz 'Der Ring' Schwalmstadt Ziegenhain*"
+            weight = 1
+
+          [[params.landing.feature_icons.tile]]
+            accent = "1"
+            image = "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2515.9728494991377!2d9.235755015148898!3d50.90571847954088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bc9f50de664377%3A0x2ea1d51008850a9e!2sAkaflieg+Frankfurt+e.V.+-+Unterkunft+und+Hangar!5e0!3m2!1sde!2sde!4v1552989520292' width='400' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>"
+            text = "*Lage Flugplatz*"
+            weight = 1
+
+          [[params.landing.feature_icons.tile]]
+            icon = "fa-train"
+            icon_pack = "fas"
+            accent = "1"
+            title = "Anreise"
+            text = "<b>... mit dem Auto:</b><br><b>--></b> Parkplätze stehen vor unserer Unterkunft zur Verfügung<br><br><b>... mit dem Zug:</b><br><b>--></b>Ausstieg Bahnhof Treysa (mit hessischem Semesterticket kostenlos zu erreichen) <br><b>--></b> 5km bis Treysa mit dem Fahrrad/[Abholung vereinbaren](/kontakt/impressum)"
+            weight = 1
+
+          [params.landing.feature_icons_2]
+            #These feature icons look best if there's an even number of them.
+            enable = true
+
+          [[params.landing.feature_icons_2.tile]]
+            icon = "fa-tools"
+            icon_pack = "fas"
+            accent = "1"
+            title = "Büro und Werkstatt"
+            text = "<img style=border-radius:10px; src='/img/home/werkstatt_ginnheim.jpg'>"
+            #text = "<b>Zug:</b><br> Ausstieg Bahnhof Treysa (mit Semesterticket kostenlos zu erreichen) <b>--></b> 5km bis Treysa mit dem Fahrrad/Abholung vereinbaren<br><br><b>Auto:</b><br><b>--></b> A5 Ausfahrt Alsfeld-Ost <b>--></b> Beschilderung Richtung Schwalmstadt <b>--></b> nach 10km an der Ampel links nach Loshausen <b>--></b> Loshausen durchfahren <b>--></b> Nach Ortseingang Ziegenhain vor Avia-Tankstelle nach rechts abbiegen"
+            image = "Werkstattarbeit November bis März Di und Fr"
+            weight = 1
+
+          [[params.landing.feature_icons_2.tile]]
+            accent = "1"
+            image = "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2557.529681602843!2d8.6440726!3d50.1325222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd091455d433ff%3A0x4ddc44084c0d4abf!2sAkaflieg+Frankfurt+e.V.+-+Werkstatt!5e0!3m2!1sde!2sde!4v1555053968035!5m2!1sde!2sde' width='400' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>"
+            text = "*Lage Werkstatt und Büro*"
+            weight = 1
+
+
+    #[params.landing.CTA]
+    #  heading = "Kontaktformular"
+    #  message = "We'd love to hear from you."
+
+    [params.footer]
+      copyright = ["**Kontakt:**<br/>vorstand@akaflieg-frankfurt.de",
+                   "Alphaflieg Frankfurt<br/>Ginnheimer Landstraße 39<br/>60487 Frankfurt am Main",
+                   "Bankverbindung",
+                   "[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
+                   "Design: [HTML5 UP](//html5up.net/alpha)",
+                  ]
+
+
+    [[params.links]]
+      service = "Facebook"
+      icon = "fa-facebook"
+      icon_pack = "fab"
+      link = "//facebook.com/AkafliegFrankfurt"
+
+
+    [params.map]
+      # For Open Street Map widgets
+      latitude = "50.905915"
+      longitude = "9.237913"
+      zoom = "17"

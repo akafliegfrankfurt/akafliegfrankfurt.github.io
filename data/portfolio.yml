@@ -1,0 +1,27 @@
+enable : true
+heading : Our
+headingSpan : Works
+filterList :
+  - filterType : photography
+    filterTitle : Photography
+
+  - filterType : design
+    filterTitle : Design
+
+  - filterType : development
+    filterTitle : Development
+
+portfolioItem :
+  - types : design
+    image : images/portfolio/portfolio-1.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Tag Design
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+
+  - types : development
+    image : images/portfolio/portfolio-2.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Sound system
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
