@@ -45,7 +45,7 @@ ___
 
 <div class="row">
 {{% two_columns %}}
-### Nicht im Preis enthalten:
+## Nicht im Preis enthalten:
 + An- und Abreise
 + Verpflegung (i.d.R. ca. 40 Euro pro Woche)
 + Flugtauglichkeitszeugnis
@@ -53,7 +53,7 @@ ___
 {{% /two_columns %}}
 
 {{% two_columns %}}
-### Mitzubringen sind
+## Mitzubringen sind
 + Schlafsack oder Bettzeug
 + festes Schuhwerk
 + wetterfeste Kleidung
