@@ -7,7 +7,8 @@ draft: false
 ---
 <div class="row">
 {{% image_right "/img/banner.jpg" %}}
-Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an, um Interessierten einen Einstieg in den Segelflugsport bieten zu können.<br/>Es sind **keine theoretischen oder praktischen Vorkenntnisse nötig!**<br/>
+Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an, um Interessierten einen Einstieg in den Segelflugsport bieten zu können.
+Es sind **keine theoretischen oder praktischen Vorkenntnisse nötig!**
 Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedingungen ist **der erste Soloflug bereits zum Ende des Kurses möglich**, sonst kann er im Rahmen der regulären Wochenendschulung bis zum Saisonende absolviert werden.
 
 <center>
