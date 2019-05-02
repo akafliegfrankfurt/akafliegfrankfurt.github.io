@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "http://example.org/"
 languageCode = "de-de"
 title = "Akaflieg Frankfurt"
 theme = ['alpha-church']
@@ -141,23 +141,16 @@ googleAnalytics = ""
     weight = 2
 
   [[menu.main]]
-    name = "Links"
+    name = "Links und Downloads"
     url = "/intern/links"
     parent = "Intern"
     weight = 3
 
   [[menu.main]]
-    name = "Downloads"
-    url = "/intern/downloads"
-    parent = "Intern"
-    weight = 4
-
-  [[menu.main]]
     name = "Vereinsregelungen"
     url = "/intern/regelungen"
     parent = "Intern"
-    weight = 5
-
+    weight = 4
 
 # Paramaters for the whole site
 [params]
@@ -200,7 +193,7 @@ googleAnalytics = ""
   [params.landing]
 
     [params.landing.banner]
-      image = "img/home/cerdanya_nordseite.jpg"
+      image = "img/galerie/ziegenhain/ZIG(18).jpg"
 
       [[params.landing.banner.button]]
         url = "/home/sommerkurs"
@@ -214,7 +207,7 @@ googleAnalytics = ""
     #Details for the box below the banner
     [params.landing.services]
       title = "Wilkommen!"
-      text = "Die Akaflieg Frankfurt ist ein Segelflugverein für Studierende, Hochschulangehörige und alle fliegerisch und wissenschaftlich Interessierten. Wir bieten **praktische und theoretische Segelflugausbildung** an und forschen in den Gebieten Flugmeteorologie und Flugsicherheit.<br/>Bei Interesse besteht die Möglichkeit, an einem unserer **[Sommerkurse](home/sommerkurs)** teilzunehmen, im Rahmen der **[Wochenendschulung](home/wochenendschulung)** einzusteigen oder zu einen **[Schnupperflug](/home/schnupperflug)** auf unserem Platz vorbeizukommen. (Oder hier sowas wie 'komm vorbei' schreiben statt den verlinkten Sachen oder den letzten Satz einfach weglassen)"
+      text = "Die Akaflieg Frankfurt ist ein Segelflugverein für Studierende, Hochschulangehörige und alle fliegerisch und wissenschaftlich Interessierten. Wir bieten **praktische und theoretische Segelflugausbildung** an und forschen in den Gebieten Flugmeteorologie und Flugsicherheit.<br/>Bei Interesse besteht die Möglichkeit, an einem unserer **Sommerkurse** teilzunehmen, im Rahmen der **Wochenendschulung** einzusteigen oder zu einen **Schnupperflug** auf unserem Platz vorbeizukommen. (Oder hier sowas wie 'komm vorbei' schreiben statt den verlinkten Sachen oder den letzten Satz einfach weglassen)"
 
     [params.landing.feature_images]
       #These feature images look best if there's an even number of them.
@@ -274,7 +267,7 @@ googleAnalytics = ""
 
           [[params.landing.feature_icons.tile]]
             accent = "1"
-            image = "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2515.9728494991377!2d9.235755015148898!3d50.90571847954088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bc9f50de664377%3A0x2ea1d51008850a9e!2sAkaflieg+Frankfurt+e.V.+-+Unterkunft+und+Hangar!5e0!3m2!1sde!2sde!4v1552989520292' width='400' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>"
+            image = "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2515.9728494991377!2d9.235755015148898!3d50.90571847954088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bc9f50de664377%3A0x2ea1d51008850a9e!2sAkaflieg+Frankfurt+e.V.+-+Unterkunft+und+Hangar!5e0!3m2!1sde!2sde!4v1552989520292' width='350' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>"
             text = "*Lage Flugplatz*"
             weight = 1
 
@@ -302,7 +295,7 @@ googleAnalytics = ""
 
           [[params.landing.feature_icons_2.tile]]
             accent = "1"
-            image = "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2557.529681602843!2d8.6440726!3d50.1325222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd091455d433ff%3A0x4ddc44084c0d4abf!2sAkaflieg+Frankfurt+e.V.+-+Werkstatt!5e0!3m2!1sde!2sde!4v1555053968035!5m2!1sde!2sde' width='400' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>"
+            image = "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2557.529681602843!2d8.6440726!3d50.1325222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd091455d433ff%3A0x4ddc44084c0d4abf!2sAkaflieg+Frankfurt+e.V.+-+Werkstatt!5e0!3m2!1sde!2sde!4v1555053968035!5m2!1sde!2sde' width='350' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>"
             text = "*Lage Werkstatt und Büro*"
             weight = 1
 

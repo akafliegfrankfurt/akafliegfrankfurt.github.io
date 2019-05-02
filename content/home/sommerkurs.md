@@ -6,16 +6,12 @@ layout:
 draft: false
 ---
 <div class="row">
-{{% image_right "/img/banner.jpg" %}}
-Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an, um Interessierten einen Einstieg in den Segelflugsport bieten zu können.
-Es sind **keine theoretischen oder praktischen Vorkenntnisse nötig!**
+{{% image_right "/img/galerie/ziegenhain/ZIG(18).jpg" "Windenstart" %}}
+Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an, um Interessierten einen Einstieg in den Segelflugsport bieten zu können.<br/>Es sind **keine theoretischen oder praktischen Vorkenntnisse nötig!**<br/>
 Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedingungen ist **der erste Soloflug bereits zum Ende des Kurses möglich**, sonst kann er im Rahmen der regulären Wochenendschulung bis zum Saisonende absolviert werden.
 
-<center>
-<form>
-<input type="button" value="Zur Anmeldung" onclick="window.location.href='/home/sommerkurs_anmeldung/'" />
-</form>
-</center>
+{{% button "Zur Anmeldung" "/home/sommerkurs_anmeldung/" %}}
+
 {{% /image_right %}}
 
 </div>
@@ -46,7 +42,7 @@ ___
 
 <div class="row">
 {{% two_columns %}}
-## Nicht im Preis enthalten:
+### Nicht im Preis enthalten:
 + An- und Abreise
 + Verpflegung (i.d.R. ca. 40 Euro pro Woche)
 + Flugtauglichkeitszeugnis
@@ -54,7 +50,7 @@ ___
 {{% /two_columns %}}
 
 {{% two_columns %}}
-## Mitzubringen sind
+### Mitzubringen sind
 + Schlafsack oder Bettzeug
 + festes Schuhwerk
 + wetterfeste Kleidung

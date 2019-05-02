@@ -1,4 +1,4 @@
----
+﻿---
 title: "Flugzeugpark"
 date: 2019-03-14T16:57:54+01:00
 background: "clouds7.jpg"
@@ -12,7 +12,7 @@ draft: false
 
   hier könnte Ihre Werbung stehen
 
-  <center>
+ (test)  <center>
 {{% /image_right %}}
 
 </div>

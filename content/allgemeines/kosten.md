@@ -27,7 +27,8 @@ Flugzeugschlepp (durchgeführt durch FSV Schwalm) | 3,30 Euro / 100m (mind. 13,2
 SZD 51-1 Junior | 15ct (= 9 Euro/h) | 11ct
 LS 4 / DG 300 | 19ct (= 11,40 Euro/h) | 14ct
 ASK 21 | 30ct (= 18 Euro/h) | 17ct
-ASG 32| 54ct (= 32,40 Euro/h)
+Duo Discus | 42ct (= 25,20 Euro/h) | 42ct
+ASG 32|------|------
 **Kostenobergrenze** pro Kalenderjahr | 1700 Euro | 1400 Euro
 + *Zu zahlen sind pro Flug* ***maximal 5 Zeitstunden,*** *die darüber hinaus geflogenen Zeit wird nicht berechnet.*
 + *Für den* ***Ausbildungssbetrieb*** *fallen* ***keine weiteren Kosten*** *an, da unsere Fluglehrer ehrenamtlich schulen.*

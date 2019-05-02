@@ -16,15 +16,8 @@ Um am regulären Flugbetrieb teilnehmen zu können und Flugzeuge unseres Flugzeu
 {{% /two_columns %}}
 
 {{% two_columns %}}
-<center>
-  <form>
-  <input type="button" value="Zum Beitrittsformular" onclick="window.location.href='/home/beitritt/'" />
-  </form>
-
-  <form>
-  <input type="button" value="Schnupperflug anfragen" onclick="window.location.href='/home/schnupperflug/'" />
-  </form>
-</center>
+{{% button "Zum Beitrittsformular" "/home/beitritt/" %}}
+{{% button "Schnupperflug anfragen" "/home/schnupperflug/" %}}
 {{% /two_columns %}}
 </div>
 
