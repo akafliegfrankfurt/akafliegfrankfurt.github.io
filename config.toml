@@ -210,7 +210,7 @@ googleAnalytics = ""
   [params.landing]
 
     [params.landing.banner]
-      image = "/static/img/galerie/ziegenhain/ZIG(18).jpg"
+      image = "/img/galerie/ziegenhain/ZIG(18).jpg"
 
       [[params.landing.banner.button]]
         url = "/home/sommerkurs"
