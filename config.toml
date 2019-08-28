@@ -210,7 +210,7 @@ googleAnalytics = ""
   [params.landing]
 
     [params.landing.banner]
-      image = "/img/galerie/ziegenhain/ZIG(18).jpg"
+      image = "/static/img/galerie/ziegenhain/ZIG(18).jpg"
 
       [[params.landing.banner.button]]
         url = "/home/sommerkurs"
@@ -245,14 +245,14 @@ googleAnalytics = ""
         button_text="Zur Wochenendschulung"
 
         [[params.landing.feature_images.tile]]
-          image = "img/home/tobiadam.JPG"
+          image = "/static/img/home/tobiadam.JPG"
           title = "Schnupperflug"
           text = "Es besteht die Möglichkeit, unverbindlich den Flugbetrieb kennenzulernen und für kleines Geld mitzufliegen."
           url = "/kontakt/impressum"
           button_text = "Kontakt"
 
         [[params.landing.feature_images.tile]]
-          image = "/img/home/FE_960.png"
+          image = "/static/img/home/FE_960.png"
           title = "OLC - Gliding Online Contest"
           text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen.<br><br>"
           url = "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=C0&sc=&sp=2019"
