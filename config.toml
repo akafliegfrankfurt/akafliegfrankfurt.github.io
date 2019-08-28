@@ -210,7 +210,7 @@ googleAnalytics = ""
   [params.landing]
 
     [params.landing.banner]
-      image = "img/galerie/ziegenhain/ZIG(18).jpg"
+      image = "/img/galerie/ziegenhain/ZIG(18).jpg"
 
       [[params.landing.banner.button]]
         url = "/home/sommerkurs"
@@ -231,14 +231,14 @@ googleAnalytics = ""
       enable = true
 
       [[params.landing.feature_images.tile]]
-        image = "img/home/schieben.jpg"
+        image = "/img/home/schieben.jpg"
         title = "Anfängerschulung im Sommerkurs"
         text = "In zwei Wochen den Einstieg in den Flugsport finden, den Steuerknüppel selbst in die Hand nehmen und vom Fußgänger zu Segelflieger werden."
         url = "/home/sommerkurs"
         button_text = "Zur Kursbeschreibung"
 
       [[params.landing.feature_images.tile]]
-        image = "img/home/wochenendschulung.jpg"
+        image = "/img/home/wochenendschulung.jpg"
         title = "Wochenendschulung und Vereinsbetrieb"
         text = "Jedes fliegbare Wochenende innerhalb der Saison wird neben dem regulären Vereinsbetrieb auch für die Schulung genutzt."
         url = "/home/wochenendschulung"
@@ -252,7 +252,7 @@ googleAnalytics = ""
           button_text = "Kontakt"
 
         [[params.landing.feature_images.tile]]
-          image = "img/home/FE_960.png"
+          image = "/img/home/FE_960.png"
           title = "OLC - Gliding Online Contest"
           text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen.<br><br>"
           url = "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=C0&sc=&sp=2019"
