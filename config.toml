@@ -132,7 +132,7 @@ googleAnalytics = ""
   [[menu.main]]
     name = "Facebook"
     parent = "Social Media"
-    url = "https://facebook.com/AkafliegFrankfurt"
+    url = 'https://facebook.com/AkafliegFrankfurt'
     weight = 1
 
   [[menu.main]]
