@@ -245,14 +245,14 @@ googleAnalytics = ""
         button_text="Zur Wochenendschulung"
 
         [[params.landing.feature_images.tile]]
-          image = "/static/img/home/tobiadam.JPG"
+          image = "/img/home/tobiadam.JPG"
           title = "Schnupperflug"
           text = "Es besteht die Möglichkeit, unverbindlich den Flugbetrieb kennenzulernen und für kleines Geld mitzufliegen."
           url = "/kontakt/impressum"
           button_text = "Kontakt"
 
         [[params.landing.feature_images.tile]]
-          image = "/static/img/home/FE_960.png"
+          image = "/img/home/FE_960.png"
           title = "OLC - Gliding Online Contest"
           text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen.<br><br>"
           url = "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=C0&sc=&sp=2019"
