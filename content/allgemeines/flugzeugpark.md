@@ -5,66 +5,66 @@ background: "clouds7.jpg"
 draft: false
 ---
 <div class="row">
-{{% image_right "/img/flugzeugpark/32_del.png" %}}
-  <h1>
-    ASG 32
-  </h1>
+{{% image_right "/img/flugzeugpark/32.JPG" %}}
 
-  hier könnte Ihre Werbung stehen
+# ASG 32 FA
+Einsatzzweck: | Wettbewerbe, Streckenflug und Fortgeschrittenenschulung
+--- | ---
+Hersteller: | Alexander Schleicher Flugzeugbau
+im Verein seit: | April 2019
 
- (test)  <center>
 {{% /image_right %}}
 
 </div>
 
 <div class="row">
 {{% image_left "/img/wj1.JPG" %}}
-<h1>
-LS4-a WJ
-</h1>
 
-hier könnte Ihre Werbung stehen
+# LS4-a WJ
+Einsatzzweck: | Wettbewerbe, Streckenflug und Fortgeschrittenenschulung
+--- | ---
+Hersteller: | Rolladen Schneider Flugzeugbau
+im Verein seit: | 1989
 
-<center>
 {{% /image_left %}}
 
 </div>
 
 <div class="row">
 {{% image_right "/img/tango.jpg" %}}
-  <h1>
-    LS4-a T
-  </h1>
 
-  hier könnte Ihre Werbung stehen
+# LS4-a T
+Einsatzzweck: | Wettbewerbe, Streckenflug und Fortgeschrittenenschulung
+--- | ---
+Hersteller: | Rolladen Schneider Flugzeugbau
+im Verein seit: | 1989
 
-  <center>
 {{% /image_right %}}
 
 </div>
 
 <div class="row">
-{{% image_left "/img/tango.jpg" %}}
-  <h1>
-    SDZ-51-1 Junior
-  </h1>
+{{% image_left "/img/flugzeugpark/lea_junior.JPG" %}}
 
-  marie, das ist einfach DEIN flugzeug
+# SZD-51-1 Junior
+Einsatzzweck: | Anfängerschulung
+--- | ---
+Hersteller: | PZL Bielsko
+im Verein seit: | Mai 2018
 
-  <center>
 {{% /image_left %}}
 
 </div>
 
 <div class="row">
 {{% image_right "/img/flugzeugpark/21_winde.jpg" %}}
-  <h1>
-    ASK 21
-  </h1>
 
-  hier könnte Ihre Werbung stehen
+# ASK 21
+Einsatzzweck: | Anfängerschulung, Kunstflug
+--- | ---
+Hersteller: | Alexander Schleicher Flugzeugbau
+im Verein seit: | 2005
 
-  <center>
 {{% /image_right %}}
 
 </div>

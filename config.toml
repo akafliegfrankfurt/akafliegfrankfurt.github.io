@@ -41,7 +41,7 @@ googleAnalytics = ""
     weight = 2
 
   [[menu.main]]
-    name = "Sommerkurs 2019"
+    name = "Sommerkurs"
     url = "/home/sommerkurs"
     parent = "Home"
     weight = 3
@@ -87,6 +87,12 @@ googleAnalytics = ""
     weight = 4
 
   [[menu.main]]
+    name = "Mitglied werden"
+    url = "/allgemeines/beitritt"
+    parent = "Allgemeines"
+    weight = 5
+
+  [[menu.main]]
     name = "Wissenschaft"
     weight = 3
 
@@ -120,9 +126,20 @@ googleAnalytics = ""
 
 
   [[menu.main]]
-    name = "Facebook"
-    url = "https://facebook.com/AkafliegFrankfurt"
+    name = "Social Media"
     weight = 5
+
+  [[menu.main]]
+    name = "Facebook"
+    parent = "Social Media"
+    url = "https://facebook.com/AkafliegFrankfurt"
+    weight = 1
+
+  [[menu.main]]
+    name = "Instagram"
+    parent = "Social Media"
+    url = "https://www.instagram.com/akafliegfrankfurt/?hl=de"
+    weight = 2
 
   [[menu.main]]
     name = "Intern"
@@ -193,11 +210,11 @@ googleAnalytics = ""
   [params.landing]
 
     [params.landing.banner]
-      image = "img/home/lecd19.jpg"
+      image = "img/galerie/ziegenhain/ZIG(18).jpg"
 
       [[params.landing.banner.button]]
         url = "/home/sommerkurs"
-        text = "Sommerkurs 2019"
+        text = "Sommerkurs"
         type = "special"
 
         [[params.landing.banner.button]]
@@ -207,23 +224,23 @@ googleAnalytics = ""
     #Details for the box below the banner
     [params.landing.services]
       title = "Wilkommen!"
-      text = "Die Akaflieg Frankfurt ist ein Segelflugverein für Studierende, Hochschulangehörige und alle fliegerisch und wissenschaftlich Interessierten. Wir bieten **praktische und theoretische Segelflugausbildung** an und forschen in den Gebieten Flugmeteorologie und Flugsicherheit.<br/>Bei Interesse besteht die Möglichkeit, an einem unserer **Sommerkurse** teilzunehmen, im Rahmen der **Wochenendschulung** einzusteigen oder zu einen **Schnupperflug** auf unserem Platz vorbeizukommen. (Oder hier sowas wie 'komm vorbei' schreiben statt den verlinkten Sachen oder den letzten Satz einfach weglassen)"
+      text = "Die Akaflieg Frankfurt ist ein Segelflugverein für Studierende, Hochschulangehörige und alle fliegerisch und wissenschaftlich Interessierte. Wir bieten **praktische und theoretische Segelflugausbildung** an und forschen in den Gebieten Flugmeteorologie und Flugsicherheit.<br/>Bei Interesse besteht die Möglichkeit, an einem unserer **Sommerkurse** teilzunehmen, im Rahmen der **Wochenendschulung** einzusteigen oder zu einen **Schnupperflug** auf unserem Platz vorbeizukommen."
 
     [params.landing.feature_images]
       #These feature images look best if there's an even number of them.
       enable = true
 
       [[params.landing.feature_images.tile]]
-        image = "img/home/sommerkurs.jpg"
-        title = "Sommerkurs"
-        text = "Es besteht die Möglichkeit, unverbindlich den Flugbetrieb kennenzulernen und für kleines Geld mitzufliegen."
-        url = "mailto:vorstand@akaflieg-frankfurt.de"
-        button_text = "Kontakt"
+        image = "img/home/schieben.jpg"
+        title = "Anfängerschulung im Sommerkurs"
+        text = "In zwei Wochen den Einstieg in den Flugsport finden, den Steuerknüppel selbst in die Hand nehmen und vom Fußgänger zu Segelflieger werden."
+        url = "/home/sommerkurs"
+        button_text = "Zur Kursbeschreibung"
 
       [[params.landing.feature_images.tile]]
         image = "img/home/wochenendschulung.jpg"
-        title = "Wochenendschulung"
-        text = "Jedes fliegbare Wochenende innerhalb der Saison kann für die Anfängerschulung genutzt werden."
+        title = "Wochenendschulung und Vereinsbetrieb"
+        text = "Jedes fliegbare Wochenende innerhalb der Saison wird neben dem regulären Vereinsbetrieb auch für die Schulung genutzt."
         url = "/home/wochenendschulung"
         button_text="Zur Wochenendschulung"
 
@@ -231,13 +248,13 @@ googleAnalytics = ""
           image = "img/home/tobiadam.JPG"
           title = "Schnupperflug"
           text = "Es besteht die Möglichkeit, unverbindlich den Flugbetrieb kennenzulernen und für kleines Geld mitzufliegen."
-          url = "/home/schnupperflug"
+          url = "/kontakt/impressum"
           button_text = "Kontakt"
 
         [[params.landing.feature_images.tile]]
           image = "img/home/FE_960.png"
           title = "OLC - Gliding Online Contest"
-          text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen."
+          text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen.<br><br>"
           url = "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=C0&sc=&sp=2019"
           newtab = "True"
           button_text="Flüge der Akaflieg ansehen"
@@ -289,8 +306,7 @@ googleAnalytics = ""
             accent = "1"
             title = "Büro und Werkstatt"
             text = "<img style=border-radius:10px; src='/img/home/werkstatt_ginnheim.jpg'>"
-            #text = "<b>Zug:</b><br> Ausstieg Bahnhof Treysa (mit Semesterticket kostenlos zu erreichen) <b>--></b> 5km bis Treysa mit dem Fahrrad/Abholung vereinbaren<br><br><b>Auto:</b><br><b>--></b> A5 Ausfahrt Alsfeld-Ost <b>--></b> Beschilderung Richtung Schwalmstadt <b>--></b> nach 10km an der Ampel links nach Loshausen <b>--></b> Loshausen durchfahren <b>--></b> Nach Ortseingang Ziegenhain vor Avia-Tankstelle nach rechts abbiegen"
-            image = "Werkstattarbeit November bis März Di und Fr"
+            image = "Wöchentliche Werkstattarbeit findet von<br/>November bis März<br/>Dienstag und Freitag<br/>ca. 19.30 Uhr bis 21.30 Uhr statt."
             weight = 1
 
           [[params.landing.feature_icons_2.tile]]
@@ -305,11 +321,10 @@ googleAnalytics = ""
     #  message = "We'd love to hear from you."
 
     [params.footer]
-      copyright = ["**Kontakt:**<br/>vorstand@akaflieg-frankfurt.de",
-                   "Alphaflieg Frankfurt<br/>Ginnheimer Landstraße 39<br/>60487 Frankfurt am Main",
-                   "Bankverbindung",
-                   "[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
-                   "Design: [HTML5 UP](//html5up.net/alpha)",
+      copyright = ["**Kontakt:**<br/>*vorstand@akaflieg-frankfurt.de*<br/>Alphaflieg Frankfurt<br/>Ginnheimer Landstraße 39<br/>60487 Frankfurt am Main",
+                   "**Bankverbindung**<br/>Frankfurter Volksbank<br/>IBAN: DE20 5019 0000 6300 8647 57<br/>BIC: FFVBDEFFXXX",
+                   "**Quicklinks:**<br/>[DWD-Segelflugwetter](https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_43)<br/>[Regenradar](https://www.wetteronline.de/regenradar)",
+                   "Design: [HTML5 UP](//html5up.net/alpha)<br/><br/>[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
                   ]
 
 
@@ -318,6 +333,13 @@ googleAnalytics = ""
       icon = "fa-facebook"
       icon_pack = "fab"
       link = "//facebook.com/AkafliegFrankfurt"
+
+
+     [[params.links]]
+      sevice = "Instagram"
+      icon = "fa-instagram"
+      icon_pack = "fab"
+      link = "https://www.instagram.com/akafliegfrankfurt/?hl=de"
 
 
     [params.map]

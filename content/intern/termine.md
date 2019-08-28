@@ -20,8 +20,8 @@ Akaflieg-Sommercamp in Ziegenhain | 15.07.19 | 19.07.19 | Theoretische und prakt
 Sommerfest | 10.08.19 | | Sommerfest anlässlich des 90 jährigen Bestehens der Akaflieg Frankfurt
 Alpenfliegen in Puimoisson | | | Anmeldung bei Alfred Ultsch
 [Jugendvergleichsfliegen](https://jugend.hlb-info.de/jugendvergleichsfliegen): Vorentscheide | 30.08.19 | 01.09.19 | Bensheim, Giessen, Amöneburg, Eschwege
-[Jugendvergleichsfliegen](https://jugend.hlb-info.de/jugendvergleichsfliegen): Hessenentscheid | 06.09.19 | 08.09.19 | Hepppenheim
-[Jugendvergleichsfliegen](https://jugend.hlb-info.de/jugendvergleichsfliegen): Bundesentscheid | 26.09.19 | 29.09.19 | Laucha
+Jugendvergleichsfliegen: Hessenentscheid | 06.09.19 | 08.09.19 | Hepppenheim
+Jugendvergleichsfliegen: Bundesentscheid | 26.09.19 | 29.09.19 | Laucha
 Abfliegen | 26.10.19 |
 Deutscher Segelfliegertag | 02.11.19 | | Freudenstadt
 Hessischer Segelfliegertag |
@@ -31,5 +31,5 @@ Weihnachtsfeier |
 
 **Wer** | **Flugzeug** | **Von** | **Bis** | **Ort**
 ---- | ---- | ---- | ---- | ----
-Marie | LS4 | 02.08.19 | 11.08.19 | Aalen - Juniorenqualifikation
-Julius | DG 300 | 30.05.19 | 07.06.19 | Oerlinghausen - Juniorenqualifikation
+Marie | LS4 | 30.05.19 | 08.06.19 | Oerlinghausen - Juniorenqualifikation
+Julius | DG 300 | 30.05.19 | 08.06.19 | Oerlinghausen - Juniorenqualifikation

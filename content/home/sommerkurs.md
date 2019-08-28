@@ -8,7 +8,7 @@ draft: false
 <div class="row">
 {{% image_right "/img/galerie/ziegenhain/ZIG(18).jpg" "Windenstart" %}}
 Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an, um Interessierten einen Einstieg in den Segelflugsport bieten zu können.<br/>Es sind **keine theoretischen oder praktischen Vorkenntnisse nötig!**<br/>
-Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedingungen ist **der erste Soloflug bereits zum Ende des Kurses möglich**, sonst kann er im Rahmen der regulären Wochenendschulung bis zum Saisonende absolviert werden.
+Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedingungen ist **der erste Soloflug bereits zum Ende des Kurses möglich**, sonst kann er im Rahmen der regulären [Wochenendschulung] (/home/wochenendschulung) bis zum Saisonende absolviert werden.
 
 {{% button "Zur Anmeldung" "/home/sommerkurs_anmeldung/" %}}
 
@@ -92,7 +92,7 @@ _Wieviel und wie lange fliegen wir im Kurs?_
 
 _Wie läuft der Flugbetrieb ab?_
 
-  Wir schulen mit zwei Flugzeugen und zwei Fluglehrern parallel, so daß immer zwei Schüler in der Luft sind. Die anderen haben aber auch alle Hände voll zu tun, da die Windenseile geholt und die Segelflieger von der Landung zum Start zurückgeschoben werden müssen. Langweilig wird Euch dabei bestimmt nicht. Wir erwarten daher von Euch auch eine gewisse Motivation. Morgens um 8 ist Frühstück, danach wird, mit Ausnahme der Mittagspause, bis Sonnenuntergang geflogen.
+  Wir schulen mit zwei Flugzeugen und zwei Fluglehrern parallel, sodass immer zwei Schüler in der Luft sind. Die anderen haben aber auch alle Hände voll zu tun, da die Windenseile geholt und die Segelflieger von der Landung zum Start zurückgeschoben werden müssen. Langweilig wird Euch dabei bestimmt nicht. Wir erwarten daher von Euch auch eine gewisse Motivation. Morgens um 8 ist Frühstück, danach wird, mit Ausnahme der Mittagspause, bis Sonnenuntergang geflogen.
 
 _Können wir alkoholische Getränke trinken?_
 
@@ -106,6 +106,6 @@ _Fliegen? Das kriege ich doch nie hin!_
 
   Pustekuchen. Ehrlich, so kompliziert ist Fliegen wirklich nicht. Die kritischen Phasen Start und Landung muss man oft genug üben, dann klappt’s fast wie von selbst. Das sichere Starten und Landen kann fast jeder lernen; ob man hinterher ein guter Leistungsflieger wird, ist eine andere Geschichte, aber dafür ist der Kurs ja gerade da.
 
-_Ich habe eine Sehschwäche/chronische Krankheit/sonst irgendein Problem_
+_Ich habe eine Sehschwäche/chronische Krankheit/sonstige Beschwerden_
 
-  Bei medizinischen Problemen sind wir überfragt. In Zweifelsfällen empfehlen wir, die Tauglichkeitsprüfung so früh wie möglich durchzuführen.
+In Zweifelsfällen empfehlen wir, die Tauglichkeitsprüfung so früh wie möglich durchzuführen.

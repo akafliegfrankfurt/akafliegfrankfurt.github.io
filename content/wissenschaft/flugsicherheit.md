@@ -15,4 +15,4 @@ Häufige Unfallschwerpunkte im Segelflug sind vor allem Zusammenstöße in der L
 ## Unfallprävention
 
 Zentraler Angelpunkt von fast allen Unfallereignissen ist der **„Faktor Mensch“**. Unter dem Schlagwort der *Human Factors* hat die Berufs- und Militärluftfahrt daher einen Methodenkanon entwickelt, der der Prävention von Unfällen dient. Alfred Ultsch von der Akaflieg Frankfurt hat daher ein Forschungsprojekt gestartet, welches diese Programme dem Luftsport zugänglich machen soll.
-<br>Hierzu wurden Vereinsprogramme unter dem Logo „FLYTOP“ entwickelt, die von den Flugsicherheitsinspektoren in das Schulungsprogramm übernommen wurden. Weitere Details finden sich auf den Seiten von [www.fly-top.de](https://www.fly-top.de).
+<br>Hierzu wurden Vereinsprogramme unter dem Logo „FLYTOP“ entwickelt, die von den Flugsicherheitsinspektoren in das Schulungsprogramm übernommen wurden. Weitere Details finden sich auf den Seiten von [www.fly-top.de](http://www.flytop.org/index.php/de/).

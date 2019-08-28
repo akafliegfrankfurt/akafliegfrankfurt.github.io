@@ -23,7 +23,7 @@ Ginnheimer Landstraße 39 \\
 {{% three_columns %}}
 ### 2. Vorsitzender
 #### [Julius Lübstorf](mailto:vorstand@akaflieg-frankfurt.de)
-![Lübstorf](/img/kontakt/bierjulius.JPG)
+![Lübstorf](/img/kontakt/fliegenjulius.JPG)
 {{% /three_columns %}}
 
 {{% three_columns %}}
@@ -57,4 +57,4 @@ Datenschutzbeauftragter | Mathias Linkerhand (E-Mail: [datenschutz@akaflieg-fran
 - google analytics
 - cookies
 - und sowas
-- <a href="/documents/test.pdf" target="blank">Datenschutzverordnung Akaflieg Frankfurt</a>
+- {{< newtab "Datenschutzverordnung" "/documents/impressum/datenschutz.pdf" >}}

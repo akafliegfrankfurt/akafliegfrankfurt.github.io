@@ -6,3 +6,4 @@ draft: false
 ---
 {{< gallery dir="/img/galerie/ziegenhain/" />}}
 {{< load-photoswipe >}}
+{{% button "Zurück" "/galerie/" %}}

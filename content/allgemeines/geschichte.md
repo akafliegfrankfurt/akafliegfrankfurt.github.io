@@ -43,3 +43,5 @@ Leider steht im gleichen Jahr auch eine räumliche Veränderung an: An Stelle de
 {{% /image_right %}}
 
 Im gleichen Jahr stellt Christine Franke von der Akaflieg Frankfurt zwei deutsche Rekorde in der Clubklasse der Frauen auf: Zielrückkehrstrecke mit 494 km und freie Zielrückkehrstrecke mit 503 km. Siggi Hahn erfliegt einen Klassenrekord in der Doppelsitzerklasse.
+
+**Topaktuelle Bilder und Events der Akaflieg Frankfurt sind auf unserer [Facebook](https://facebook.com/AkafliegFrankfurt) Seite zu finden!**
