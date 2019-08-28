@@ -31,7 +31,7 @@
 							{{ range $index, $key := $tiles }}
 								<div class="6u 12u(narrower)">
 									<section class="box special">
-										<span class="image featured"><img style="border: 4px solid #ffffff" src="{{ $key.image | absURL}}" alt="" /></span>
+										<span class="image featured"><img style="border: 4px solid #ffffff" src="{{ $key.image | relURL}}" alt="" /></span>
 										<h3>{{ $key.title }}</h3>
 										<p>{{ $key.text | markdownify }}</p>
 										{{ if $key.button_text }}
