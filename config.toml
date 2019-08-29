@@ -20,12 +20,12 @@ googleAnalytics = ""
   preacher = "preachers"
   series = "series"
 
-#This theme can generate a multi-level menu.
-#Use weight= to specify the order of menu items, and parent= to create a submenu item.
+#multi-level menu: Use weight= to specify the order of menu items, and parent= to create a submenu item
 [menu]
 
 [[menu.main]]
   name = "Home"
+  pre = "<img src='/img/aka_logo.ico' alt='logo'>"
   weight = 1
 
   [[menu.main]]
@@ -57,34 +57,40 @@ googleAnalytics = ""
     weight = 2
 
   [[menu.main]]
-    name = "Kosten"
-    url = "/allgemeines/kosten"
+    name = "Flugzeugpark"
+    url = "/allgemeines/flugzeugpark"
     parent = "Allgemeines"
     weight = 1
 
   [[menu.main]]
-    name = "Flugzeugpark"
-    url = "/allgemeines/flugzeugpark"
+    name = "Kosten"
+    url = "/allgemeines/kosten"
     parent = "Allgemeines"
     weight = 2
+
+  [[menu.main]]
+    name = "Flugbetrieb"
+    url = "/allgemeines/flugbetrieb"
+    parent = "Allgemeines"
+    weight = 3
 
   [[menu.main]]
     name = "Geschichte"
     url = "/allgemeines/geschichte"
     parent = "Allgemeines"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Reports"
     url = "/allgemeines/reports"
     parent = "Allgemeines"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Mitglied werden"
     url = "/allgemeines/beitritt"
     parent = "Allgemeines"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "Wissenschaft"
@@ -174,34 +180,7 @@ googleAnalytics = ""
 
   customCSS = ["example.css"]
 
-  bible_popups = false
   instant_page = true
-
-  [params.podcast]
-    title = "Listen to Alpha Church"
-    subtitle = ""
-    summary = "Alpha-Church sermons, talks, messages—podcasted."
-    email = "test@example.com"
-    copyright = "Podcast: [CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)"
-    image = "img/podcast-cover.jpg"
-    category = "Religion & Spirituality"
-    sub_category = "Christianity"
-    iTunes = "https://itunes.apple.com/us/podcast/tgc-word-of-the-week/id1034013280"
-    feed = "https://www.thegospelcoalition.org/podcasts/word-of-the-week/feed/?feed=podcast"
-
-
-
-  [params.contact]
-    #Use this section to automate contact form.
-    #Set service to either "netlify" or "formspree"
-    #For formspree, please setup an account at https://formspree.io/
-    #For netlify, please read https://www.netlify.com/docs/form-handling/
-    #
-    #If you use netlify, you'll need to set the confirm_page value (or elase users will see a generic netlify response)
-    #If you use formspree, you'll need to set your formspree email address.
-    service = "netlify"
-    confirm_page = "/contact_thanks"
-    # formspree_email=""
 
   #Paramaters for the home/landing page
   [params.landing]
@@ -221,7 +200,8 @@ googleAnalytics = ""
     #Details for the box below the banner
     [params.landing.services]
       title = "Wilkommen!"
-      text = "Die Akaflieg Frankfurt ist ein Segelflugverein für Studierende, Hochschulangehörige und alle fliegerisch und wissenschaftlich Interessierte. Wir bieten **praktische und theoretische Segelflugausbildung** an und forschen in den Gebieten Flugmeteorologie und Flugsicherheit.<br/>Bei Interesse besteht die Möglichkeit, an einem unserer **Sommerkurse** teilzunehmen, im Rahmen der **Wochenendschulung** einzusteigen oder zu einen **Schnupperflug** auf unserem Platz vorbeizukommen."
+      image = "/img/aka_logo.ico"
+      text = "Die Akaflieg Frankfurt ist ein Segelflugverein für Studierende, Hochschulangehörige und alle fliegerisch und wissenschaftlich Interessierten. Wir bieten **praktische und theoretische Segelflugausbildung** an und forschen in den Gebieten Flugmeteorologie und Flugsicherheit.<br/>Bei Interesse besteht die Möglichkeit, an einem unserer **Sommerkurse** teilzunehmen, im Rahmen der **Wochenendschulung** einzusteigen oder zu einen **Schnupperflug** auf unserem Platz vorbeizukommen."
 
     [params.landing.feature_images]
       #These feature images look best if there's an even number of them.
@@ -312,11 +292,6 @@ googleAnalytics = ""
             text = "*Lage Werkstatt und Büro*"
             weight = 1
 
-
-    #[params.landing.CTA]
-    #  heading = "Kontaktformular"
-    #  message = "We'd love to hear from you."
-
     [params.footer]
       copyright = ["**Kontakt:**<br/>*vorstand@akaflieg-frankfurt.de*<br/>Alphaflieg Frankfurt<br/>Ginnheimer Landstraße 39<br/>60487 Frankfurt am Main",
                    "**Bankverbindung**<br/>Frankfurter Volksbank<br/>IBAN: DE20 5019 0000 6300 8647 57<br/>BIC: FFVBDEFFXXX",
@@ -340,7 +315,25 @@ googleAnalytics = ""
 
 
     [params.map]
-      # For Open Street Map widgets
+      # For Open Street Map widgets (partial map - currently not in use)
       latitude = "50.905915"
       longitude = "9.237913"
       zoom = "17"
+
+# Optional contact form (currently not in use)
+
+#[params.landing.CTA]
+#  heading = "Kontaktformular"
+#  message = "We'd love to hear from you."
+
+[params.contact]
+#Use this section to automate contact form.
+#Set service to either "netlify" or "formspree"
+#For formspree, please setup an account at https://formspree.io/
+#For netlify, please read https://www.netlify.com/docs/form-handling/
+#
+#If you use netlify, you'll need to set the confirm_page value (or elase users will see a generic netlify response)
+#If you use formspree, you'll need to set your formspree email address.
+service = "netlify"
+confirm_page = "/contact_thanks"
+# formspree_email=""

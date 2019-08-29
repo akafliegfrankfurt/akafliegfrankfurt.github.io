@@ -6,8 +6,10 @@ draft: false
 ---
 Die Forschung im Bereich der Flugsicherheit der Akaflieg Frankfurt konzentriert sich vor allem auf folgende Untersuchungsgegenstände:
 
+{{% image_right "/img/wissenschaft/flytop_logo.jpg" %}}
 + Sicherheit Erhöhung der Sicherheit im Segelflug in Ausbildung und Leistungsflug, mit Schwerpunkt Windenstart
-+ Unfallprävention Erforschung und Anwendung von praxisorientierten Methoden zur Unfallprävention in der nicht kommerziellen Luftfahrt (FLYTOP)
++ Unfallprävention Erforschung und Anwendung von praxisorientierten Methoden zur Unfallprävention in der nicht kommerziellen Luftfahrt ([FLYTOP](http://www.flytop.org/index.php/de/))
+{{% /image_right %}}
 
 Häufige Unfallschwerpunkte im Segelflug sind vor allem Zusammenstöße in der Luft, unkontrollierte Fluglagen sowie Start- und Landeunfälle (s. Untersuchungsberichte der Bundesstelle für Flugunfalluntersuchung).
 <br>Zur Zeit entwickeln wir daher ein Dokumentationssystem für Geschwindigkeits- und Höhenverlauf im Windenstart. In der kommenden Saison wollen wir damit standardisierte Windenstarts in unseren Sommerkurs charakterisieren. Dazu sollen die Schulflugzeuge jeweils mit einem Telemetrie-System und einem Datenlogger ausgestattet werden. Aus der großen Zahl der Ausbildungsstarts sollen dann eine Windenstart-Datenbank erstellt und der Windenstartverlauf charakterisiert werden.

@@ -1,0 +1,14 @@
+<section>
+    <div class="row">
+      {{ range readDir "/static/img/galerie/"}}
+        <div class="6u 12u(mobilep)">
+          <figure>
+            <center>
+              <a href="/galerie/{{ .Name }}"> <img width=200 height=200 style=border-radius:10px; src="/img/galerie/{{ .Name }}/titel.jpg" /></a>
+              <figcaption style=text-transform:capitalize;><b>{{ .Name }}</b></figcaption>
+            </center>
+          </figure>
+        </div>
+      {{ end }}
+  </div>
+</section>
