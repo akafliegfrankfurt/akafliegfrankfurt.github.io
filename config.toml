@@ -53,12 +53,6 @@ googleAnalytics = ""
     weight = 3
 
   [[menu.main]]
-    name = "Schnupperfliegen"
-    url = "/home/schnupperflug"
-    parent = "Home"
-    weight = 4
-
-  [[menu.main]]
     name = "Allgemeines"
     weight = 2
 
@@ -132,13 +126,15 @@ googleAnalytics = ""
   [[menu.main]]
     name = "Facebook"
     parent = "Social Media"
-    url = 'https://facebook.com/AkafliegFrankfurt'
+    url = "https://facebook.com/AkafliegFrankfurt"
+    post = "_blank"
     weight = 1
 
   [[menu.main]]
     name = "Instagram"
     parent = "Social Media"
     url = "https://www.instagram.com/akafliegfrankfurt/?hl=de"
+    post = "_blank"
     weight = 2
 
   [[menu.main]]
@@ -149,6 +145,7 @@ googleAnalytics = ""
     name = "Webcam"
     parent = "Intern"
     url = "https://fotowebcam.akaflieg-frankfurt.de/webcam/akaflieg/"
+    post = "_blank"
     weight = 1
 
   [[menu.main]]
