@@ -74,7 +74,7 @@ LX Eos | ASG 32
 **Link** | **Beschreibung**
 --- | ---
 {{% newtab "Wissenswertes für Windenfahrer" "/documents/links/so_geht_die_winde.pdf" %}} | So funktioniert unsere Winde
-{{< newtab "Schleppgeschwindigkeiten" "/documents/links/schleppgeschwindigkeiten.pdf" >}} |
+{{< newtab "Schleppgeschwindigkeiten" "/documents/links/schleppgeschwindigkeiten.pdf" >}} | Flugzeugspezifische Anforderungen an den Windenstart
 {{< newtab "Startwindenfahrerbestimmungen" "/documents/links/Startwindenfahrerbestimmungen_2017.pdf" >}} | Voraussetzungen für Windenfahreranwärter des DAeC
 {{< newtab "Sicherer Windenstart" "/documents/links/Flyer_Windenstart.pdf" >}} | Flyer des DAeC
 

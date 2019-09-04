@@ -228,7 +228,7 @@ googleAnalytics = ""
         button_text="Zur Wochenendschulung"
 
         [[params.landing.feature_images.tile]]
-          image = "/img/home/tobiadam.jpg"
+          image = "/img/home/wochenendschulung.jpg"
           title = "Schnupperflug"
           text = "Es besteht die Möglichkeit, unverbindlich den Flugbetrieb kennenzulernen und für kleines Geld mitzufliegen."
           url = "/kontakt/impressum"
