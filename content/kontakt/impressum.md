@@ -54,7 +54,4 @@ Jugendwart | Paul Quander
 Datenschutzbeauftragter | Mathias Linkerhand (E-Mail: [datenschutz@akaflieg-frankfurt.de](mailto:datenschutz@akaflieg-frankfurt.de))
 
 ## Datenschutzhinweise
-- google analytics
-- cookies
-- und sowas
 - {{< newtab "Datenschutzverordnung" "/documents/impressum/datenschutz.pdf" >}}
