@@ -5,7 +5,7 @@ background: "clouds1.jpg"
 draft: false
 ---
 
-{{% image_right "/img/flugbetrieb/flugbetrieb.jpg" %}}
+{{% image_right "/img/flugbetrieb/aufstellung.jpg" %}}
 *Seitenüberblick:*
 
 1. [Flugbetrieb und Wochenendschulung](#Wochenendschulung)
@@ -54,7 +54,7 @@ Viele Vereinsmitglieder verbringen gern das ganze Wochenende auf dem Flugplatz. 
 {{% /image_right %}}
 
 {{% image "/img/flugbetrieb/unterkunft.jpg" %}}
-{{% image_right "/img/flugbetrieb/flugbetrieb.jpg" %}}
+{{% image_right "/img/flugbetrieb/fliegerhalle.jpg" %}}
 {{% image "/img/flugbetrieb/schiebung.jpg" %}}
 {{% /image_right %}}
 
