@@ -16,7 +16,6 @@ Unter dem Motto "Fliegen – Familie – Forschung/Beruf: Wir wollen alles!" fan
 Es freut uns sehr, dass eine der beiden Geförderten Elena Mascus ist, die nun in der vor uns liegenden Saison 2018 die ASW19 "VS" bewegen darf. Dass Swaantje Geyers ASW19 in dieser Saison von Elena in Ziegenhain geflogen werden wird, ist aus mehreren Gründen bemerkenswert.
 <br>**Erstens**, wegen Elenas fliegerischen Werdegangs: Elena hat 2015 im Sommerkurs der Akaflieg das Segelfliegen gelernt, 2016 ihren Schein gemacht und 2017 ihr erstes angemeldetes 500km-FAI-Dreieck geflogen.
 <br>**Zweitens**, wegen Swaantjes Biographie: Swaantje hat 1979, 36 Jahre vor Elena, genau wie diese das Segelfliegen in einem Sommerkurs der Akaflieg Frankfurt in Ziegenhain gelernt und später auf zahlreichen internationalen Wettbewerben reüssiert, bevor sie vor fast 2 Jahren viel zu früh ihrer schweren Krankheit erlag.
-
 {{% image "/img/reports/foerderflugzeug/vs2.png"%}}
 {{% /image_right %}}
 
