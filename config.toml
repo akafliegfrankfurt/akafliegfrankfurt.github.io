@@ -237,7 +237,7 @@ googleAnalytics = ""
         [[params.landing.feature_images.tile]]
           image = "/img/home/FE_960.png"
           title = "OLC - Online Gliding Contest"
-          text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen.<br><br>"
+          text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen."
           url = "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=C0&sc=&sp=2019"
           newtab = "True"
           button_text="Flüge der Akaflieg ansehen"

@@ -4,7 +4,7 @@ date: 2019-03-14T15:47:53+01:00
 background: "wiese2.jpg"
 draft: false
 ---
-{{% image_right "/img/home/start_leppo.JPG" %}}
+{{% image_right "/img/sommerkurs/start_leppo.JPG" %}}
 Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an, um Interessierten einen Einstieg in den Segelflugsport bieten zu können.<br/>Es sind **keine theoretischen oder praktischen Vorkenntnisse nötig!**<br/>
 Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedingungen ist **der erste Soloflug bereits zum Ende des Kurses möglich**, sonst kann er im Rahmen der regulären [Wochenendschulung](/ueber_uns/flugbetrieb/#wochenendschulung) bis zum Saisonende absolviert werden.
 
@@ -58,7 +58,9 @@ ___
 
 # Kursinformationen
 
+{{% image_right "/img/sommerkurs/unterkunft_sommerkurs.jpg" %}}
 Es besteht die Möglichkeit, vor der Unterkunft zu zelten. In begrenzter Zahl gibt es auch Übernachtungsmöglichkeiten in der Unterkunft (Schlafsack mitbringen!), sodass für die Unterbringung keine Kosten anfallen. Für Verpflegung fallen noch einmal gut 80 Euro an. Für das Essen seid Ihr dabei selber zuständig: täglich werden zwei Kursteilnehmer „auserkoren“, die gesamte Mannschaft zu verpflegen. Auch das klappt in der Regel recht gut. Da wir Euch an Kurstagen von morgens bis abends auf Trab halten, werdet Ihr kaum Gelegenheit haben, anderweitig Geld auszugeben.
+{{% /image_right %}}
 
 Um am Ende des Kurses alleine fliegen zu dürfen, müsst Ihr in einer ärztlichen Untersuchung Eure Tauglichkeit nachweisen. Ohne diesen Nachweis könntet Ihr zwar am Kurs teilnehmen, aber wir dürften Euch, auch wenn die Fluglehrer von Eurer Fähigkeit überzeugt sind, nicht alleine fliegen lassen. Es empfiehlt sich daher, die entsprechende Prüfung vor dem Kurs durchzuführen, denn es wäre tragisch, wenn Ihr nach dem Schnupperkurs zwar begeistert fliegt, aber aus medizinischen Gründen nicht weitermachen könnt.
 <br>Die Untersuchung besteht aus einem Sehtest, der deutlich aufwendiger ist als zum Beispiel für den Führerschein. Eine Brille ist dabei kein Hindernis. Weiter überprüft der Arzt in einem Blut- und Leistungstest, ob irgendwelche hindernden Gründe vorliegen. Aber keine Angst, so wild ist das ganze nicht. Die „fliegerärztliche Untersuchung“ ('*Medical*') muss von einem speziellen Fliegerarzt durchgeführt werden; Adressen könnt Ihr bei uns erfragen.
