@@ -41,9 +41,12 @@ _**Gebirgssegelflug**_ |
 # Nützliches
 **Link** | **Beschreibung**
 ---| ---
+[Glidernet](https://live.glidernet.org/#c=50.69364,9.22915&z=8.804621158829693&s=1) | Flugbewegungen Live
 [Segelflug.de](https://www.segelflug.de/) | Segelflug in DE; Segelflugzeug(ver)kauf
 [Streckenflug.at](https://streckenflug.at) |Segelflug-News und Berichte
 [Copilot](https://copilot.segelflug.aero/) | Anmeldeportal zu Wettbewerben des deutschen Streckensegelflugs
+[Strepla](https://www.strepla.de/scs/) | Wettbewerbsergebnisse
+[SoaringSpot](https://www.soaringspot.com/de/) | Wettbewerbsergebnisse
 [XC Soar](http://www.xcsoar.org/) | Open Source Flugnavigationssoftware
 [XC Planner](https://xcplanner.appspot.com/) | Kostenlose Streckenplanungssoftware
 [Unfälle und Ursachen](https://www.bfu-web.de/DE/Home/homepage_node.html) | Unfallberichte der BFU
