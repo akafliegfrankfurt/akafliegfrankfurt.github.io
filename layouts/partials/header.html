@@ -12,9 +12,6 @@
     	{{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
 		{{- end -}}
 		{{ .Hugo.Generator }}
-		{{ with .Site.Params.Podcast.itunes }}
-			<meta name="apple-itunes-app" content="app-id={{ replaceRE "https\\:\\/\\/itunes\\.apple\\.com\\/[a-z]{2}\\/podcast\\/[a-z\\-]*\\/id(\\d{10}).*" "$1" . }}" />
-		{{ end }}
 		{{ template "_internal/opengraph.html" . }}
 		{{ template "_internal/twitter_cards.html" . }}
 		{{- $css := .Site.Data.libs.css -}}
@@ -30,5 +27,4 @@
 		{{- range .Site.Params.customCSS -}}
     	<link rel="stylesheet" href="{{ . | absURL }}">
   	{{- end -}}
-	<!--	<script src="/js/target_blank.js"></script> -->
 	</head>

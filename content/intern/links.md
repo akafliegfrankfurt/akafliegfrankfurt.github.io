@@ -22,7 +22,7 @@ _**Wetter allgemein**_ |
 --- | ---
 [Wettervoraussage](https://www.wetteronline.de/wetter/schwalmstadt) | Wetteraussichten Schwalmstadt Ziegenhain
 [Regenradar](https://www.wetteronline.de/regenradar) | Niederschlagsradar von Wetteronline.de
-[IR Satellitenfilm](https://www.wetteronline.de/?gid=euro&pcid=pc_sat_image&pid=p_sat_image&sid=CloudMask) | IR Satellitenfilm von Wetteronline.de
+[IR Satellitenfilm](https://de.sat24.com/de/de) | IR Satellitenfilm von Sat24
 [Wetterkarten](https://www.zamg.ac.at/cms/de/wetter/wetterkarte) | Aktuelle Wetterkarten der Zentralanstalt für Meteorologie und Geodynamik (Österreich)
 |
 _**Gebirgssegelflug**_ |
@@ -42,6 +42,7 @@ _**Gebirgssegelflug**_ |
 **Link** | **Beschreibung**
 ---| ---
 [Segelflug.de](https://www.segelflug.de/) | Segelflug in DE; Segelflugzeug(ver)kauf
+[Streckenflug.at](https://streckenflug.at) |Segelflug-News und Berichte
 [Copilot](https://copilot.segelflug.aero/) | Anmeldeportal zu Wettbewerben des deutschen Streckensegelflugs
 [XC Soar](http://www.xcsoar.org/) | Open Source Flugnavigationssoftware
 [XC Planner](https://xcplanner.appspot.com/) | Kostenlose Streckenplanungssoftware
@@ -88,6 +89,7 @@ LX Eos | ASG 32
 # Regelwerke
 **Link** | **Beschreibung**
 --- | ---
+[Abfrage von NOTAMs](https://secais.dfs.de/pilotservice/user/login/login_edit.jsp) | Notams des DFS *(Login erforderlich)*
 {{< newtab "SBO" "/documents/links/SBO2009Sept.pdf" >}} | Segelflugbetriebsordnung des DAeC
 {{< newtab "Segelfluggeländeordnung" "/documents/links/Segelfluggelaendeordnung.pdf" >}} | Segelfluggeländeordnung Schwalmstadt "Der Ring"
 

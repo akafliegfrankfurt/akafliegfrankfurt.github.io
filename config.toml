@@ -301,8 +301,8 @@ googleAnalytics = ""
     [params.footer]
       copyright = ["**Kontakt:**<br/>*vorstand@akaflieg-frankfurt.de*<br/>Alphaflieg Frankfurt<br/>Ginnheimer Landstraße 39<br/>60487 Frankfurt am Main",
                    "**Bankverbindung**<br/>Frankfurter Volksbank<br/>IBAN: DE20 5019 0000 6300 8647 57<br/>BIC: FFVBDEFFXXX",
-                   "**Quicklinks:**<br/>[DWD-Segelflugwetter](https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_43)<br/>[Regenradar](https://www.wetteronline.de/regenradar)",
-                   "Design: [HTML5 UP](//html5up.net/alpha)<br/><br/>[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
+                   "**Quicklinks:**<br>[DWD-Segelflugwetter](https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_43)<br>[Regenradar](https://www.wetteronline.de/regenradar)<br>[Wavemap-Download](http://comtim.de/wavemap/)<br>[NOTAMs](https://secais.dfs.de/pilotservice/user/login/login_edit.jsp)",
+                   "Design:<br>[HTML5 UP](//html5up.net/) ([CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/))",
                   ]
 
 
