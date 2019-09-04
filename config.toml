@@ -228,7 +228,7 @@ googleAnalytics = ""
         button_text="Zur Wochenendschulung"
 
         [[params.landing.feature_images.tile]]
-          image = "/img/home/wochenendschulung.jpg"
+          image = "/img/home/windenstart.jpg"
           title = "Schnupperflug"
           text = "Es besteht die Möglichkeit, unverbindlich den Flugbetrieb kennenzulernen und für kleines Geld mitzufliegen."
           url = "/kontakt/impressum"
@@ -241,10 +241,6 @@ googleAnalytics = ""
           url = "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=C0&sc=&sp=2019"
           newtab = "True"
           button_text="Flüge der Akaflieg ansehen"
-
-
-          #[params.landing.anreise]
-            #title = "Anreise"
 
         [params.landing.feature_icons]
           #These feature icons look best if there's an even number of them.

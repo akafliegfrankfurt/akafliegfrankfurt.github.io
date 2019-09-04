@@ -54,7 +54,7 @@ Viele Vereinsmitglieder verbringen gern das ganze Wochenende auf dem Flugplatz. 
 {{% /image_right %}}
 
 {{% image "/img/flugbetrieb/unterkunft.jpg" %}}
-{{% image_right "/img/flugbetrieb/halle.jpg" %}}
+{{% image_right "/img/flugbetrieb/flugbetrieb.jpg" %}}
 {{% image "/img/flugbetrieb/schiebung.jpg" %}}
 {{% /image_right %}}
 
