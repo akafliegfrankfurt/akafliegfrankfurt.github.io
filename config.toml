@@ -25,7 +25,6 @@ googleAnalytics = ""
 
 [[menu.main]]
   name = "Home"
-  pre = "<img src='/img/aka_logo.ico' alt='logo'>"
   weight = 1
 
   [[menu.main]]
@@ -48,48 +47,48 @@ googleAnalytics = ""
 
   [[menu.main]]
     name = "Wochenendschulung"
-    url = "/home/wochenendschulung"
+    url = "/ueber_uns/flugbetrieb#Wochenendschulung"
     parent = "Home"
     weight = 3
 
   [[menu.main]]
-    name = "Allgemeines"
+    name = "Über Uns"
     weight = 2
 
   [[menu.main]]
     name = "Flugzeugpark"
-    url = "/allgemeines/flugzeugpark"
-    parent = "Allgemeines"
+    url = "/ueber_uns/flugzeugpark"
+    parent = "Über Uns"
     weight = 1
 
   [[menu.main]]
     name = "Kosten"
-    url = "/allgemeines/kosten"
-    parent = "Allgemeines"
+    url = "/ueber_uns/kosten"
+    parent = "Über Uns"
     weight = 2
 
   [[menu.main]]
     name = "Flugbetrieb"
-    url = "/allgemeines/flugbetrieb"
-    parent = "Allgemeines"
+    url = "/ueber_uns/flugbetrieb"
+    parent = "Über Uns"
     weight = 3
 
   [[menu.main]]
     name = "Geschichte"
-    url = "/allgemeines/geschichte"
-    parent = "Allgemeines"
+    url = "/ueber_uns/geschichte"
+    parent = "Über Uns"
     weight = 4
 
   [[menu.main]]
     name = "Reports"
-    url = "/allgemeines/reports"
-    parent = "Allgemeines"
+    url = "/ueber_uns/reports"
+    parent = "Über Uns"
     weight = 5
 
   [[menu.main]]
     name = "Mitglied werden"
-    url = "/allgemeines/beitritt"
-    parent = "Allgemeines"
+    url = "/ueber_uns/beitritt"
+    parent = "Über Uns"
     weight = 6
 
   [[menu.main]]
@@ -144,6 +143,13 @@ googleAnalytics = ""
     weight = 2
 
   [[menu.main]]
+    name = "Youtube"
+    parent = "Social Media"
+    url = "https://www.youtube.com/user/AkafliegFrankfurt"
+    post = "_blank"
+    weight = 3
+
+  [[menu.main]]
     name = "Intern"
     weight = 6
 
@@ -167,7 +173,7 @@ googleAnalytics = ""
     weight = 3
 
   [[menu.main]]
-    name = "Vereinsregelungen"
+    name = "(Vereins-)Regelungen"
     url = "/intern/regelungen"
     parent = "Intern"
     weight = 4
@@ -186,7 +192,7 @@ googleAnalytics = ""
   [params.landing]
 
     [params.landing.banner]
-      image = "/img/galerie/ziegenhain/ZIG(18).jpg"
+      image = "/img/home/banner_1246.jpg"
 
       [[params.landing.banner.button]]
         url = "/home/sommerkurs"
@@ -200,7 +206,7 @@ googleAnalytics = ""
     #Details for the box below the banner
     [params.landing.services]
       title = "Wilkommen!"
-      image = "/img/aka_logo.ico"
+      image = "/img/home/aka_logo.ico"
       text = "Die Akaflieg Frankfurt ist ein Segelflugverein für Studierende, Hochschulangehörige und alle fliegerisch und wissenschaftlich Interessierten. Wir bieten **praktische und theoretische Segelflugausbildung** an und forschen in den Gebieten Flugmeteorologie und Flugsicherheit.<br/>Bei Interesse besteht die Möglichkeit, an einem unserer **Sommerkurse** teilzunehmen, im Rahmen der **Wochenendschulung** einzusteigen oder zu einen **Schnupperflug** auf unserem Platz vorbeizukommen."
 
     [params.landing.feature_images]
@@ -230,7 +236,7 @@ googleAnalytics = ""
 
         [[params.landing.feature_images.tile]]
           image = "/img/home/FE_960.png"
-          title = "OLC - Gliding Online Contest"
+          title = "OLC - Online Gliding Contest"
           text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen.<br><br>"
           url = "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=C0&sc=&sp=2019"
           newtab = "True"
@@ -270,7 +276,7 @@ googleAnalytics = ""
             icon_pack = "fas"
             accent = "1"
             title = "Anreise"
-            text = "<b>... mit dem Auto:</b><br><b>--></b> Parkplätze stehen vor unserer Unterkunft zur Verfügung<br><br><b>... mit dem Zug:</b><br><b>--></b>Ausstieg Bahnhof Treysa (mit hessischem Semesterticket kostenlos zu erreichen) <br><b>--></b> 5km bis Treysa mit dem Fahrrad/[Abholung vereinbaren](/kontakt/impressum)"
+            text = "<b>... mit dem Auto:</b><br><b>--></b> Parkplätze stehen vor unserer Unterkunft zur Verfügung<br><br><b>... mit dem Zug:</b><br><b>--></b>Ausstieg Bahnhof Treysa (mit hessischem Semesterticket kostenlos zu erreichen) <br><b>--></b> 5km von Treysa zum Flugplatz mit dem Fahrrad/[Abholung vereinbaren](/kontakt/impressum)"
             weight = 1
 
           [params.landing.feature_icons_2]
@@ -283,7 +289,7 @@ googleAnalytics = ""
             accent = "1"
             title = "Büro und Werkstatt"
             text = "<img style=border-radius:10px; src='/img/home/werkstatt_ginnheim.jpg'>"
-            image = "Wöchentliche Werkstattarbeit findet von<br/>November bis März<br/>Dienstag und Freitag<br/>ca. 19.30 Uhr bis 21.30 Uhr statt."
+            image = "Wöchentliche Werkstattarbeit:<br/>November bis März<br/>Dienstag und Freitag<br/>ca. 19.30 Uhr bis 21.30 Uhr"
             weight = 1
 
           [[params.landing.feature_icons_2.tile]]
@@ -313,6 +319,14 @@ googleAnalytics = ""
       icon_pack = "fab"
       link = "https://www.instagram.com/akafliegfrankfurt/?hl=de"
 
+    [[params.links]]
+     sevice = "Youtube"
+     icon = "fa-youtube"
+     icon_pack = "fab"
+     link = "https://www.youtube.com/user/AkafliegFrankfurt"
+
+
+# Currently not in use:
 
     [params.map]
       # For Open Street Map widgets (partial map - currently not in use)
@@ -320,8 +334,7 @@ googleAnalytics = ""
       longitude = "9.237913"
       zoom = "17"
 
-# Optional contact form (currently not in use)
-
+# Optional contact form
 #[params.landing.CTA]
 #  heading = "Kontaktformular"
 #  message = "We'd love to hear from you."

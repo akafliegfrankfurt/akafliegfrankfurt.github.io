@@ -17,24 +17,24 @@ Ginnheimer Landstraße 39 \\
 {{% three_columns %}}
 ### 1. Vorsitzender
 #### [Uwe März](mailto:vorstand@akaflieg-frankfurt.de)
-![März](/img/kontakt/uwe.JPG)
+{{% image  "/img/impressum/uwe2.jpg" %}}
 {{% /three_columns %}}
 
 {{% three_columns %}}
 ### 2. Vorsitzender
 #### [Julius Lübstorf](mailto:vorstand@akaflieg-frankfurt.de)
-![Lübstorf](/img/kontakt/fliegenjulius.JPG)
+{{% image  "/img/impressum/julius2.jpg" %}}
 {{% /three_columns %}}
 
 {{% three_columns %}}
 ### Geschäftsführerin
 #### [Marie Schade](mailto:vorstand@akaflieg-frankfurt.de)
-![Schade](/img/kontakt/marie.jpg)
+{{% image  "/img/impressum/puimarie2.jpg" %}}
 {{% /three_columns %}}
 </div>
 
 ### Kontakt:
-E-Mail: **[vorstand@akaflieg-frankfurt.de](mailto:vorstand@akaflieg-frankfurt.de)**
+E-Mail *(bevorzugt)*: **[vorstand@akaflieg-frankfurt.de](mailto:vorstand@akaflieg-frankfurt.de)**
 <br>Flugplatztelefon: [06691/5405](tel:+4966915405)
 <br>Werkstatttelefon: [069/79824-528](tel:+496979824528)
 

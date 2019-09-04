@@ -3,7 +3,7 @@
 	<head>
 		<title>{{ .Site.Params.title }}</title>
 		<meta name="description" content="Akademische Fliegergruppe der Goethe Universität Frankfurt am Main">
-		<link rel="icon" type="image/vdn.microsoft.icon" href="/img/aka_logo.ico">
+		<link rel="icon" type="image/vdn.microsoft.icon" href="/img/home/aka_logo.ico">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		{{ with .Site.Params.subtitle }}<meta name="description" content="{{ . }}">{{ end }}
@@ -31,14 +31,4 @@
     	<link rel="stylesheet" href="{{ . | absURL }}">
   	{{- end -}}
 	<!--	<script src="/js/target_blank.js"></script> -->
-		<style>
-		.crpage ul{
-			float: left;
-		}
-		.crpage ul li{
-			width: 50%;
-			float: left;
-			color: red;
-		}
-		</style>
 	</head>

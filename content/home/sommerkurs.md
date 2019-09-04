@@ -2,23 +2,17 @@
 title: "Sommerkurs"
 date: 2019-03-14T15:47:53+01:00
 background: "wiese2.jpg"
-layout:
 draft: false
 ---
-<div class="row">
-{{% image_right "/img/galerie/ziegenhain/ZIG(18).jpg" "Windenstart" %}}
+{{% image_right "/img/home/start_leppo.JPG" %}}
 Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an, um Interessierten einen Einstieg in den Segelflugsport bieten zu können.<br/>Es sind **keine theoretischen oder praktischen Vorkenntnisse nötig!**<br/>
-Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedingungen ist **der erste Soloflug bereits zum Ende des Kurses möglich**, sonst kann er im Rahmen der regulären [Wochenendschulung] (/home/wochenendschulung) bis zum Saisonende absolviert werden.
+Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedingungen ist **der erste Soloflug bereits zum Ende des Kurses möglich**, sonst kann er im Rahmen der regulären [Wochenendschulung](/ueber_uns/flugbetrieb/#wochenendschulung) bis zum Saisonende absolviert werden.
 
 {{% button "Zur Anmeldung" "/home/sommerkurs_anmeldung/" %}}
 
 {{% /image_right %}}
 
-</div>
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aHpMFq7XPA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+{{% frame "https://www.youtube.com/embed/aHpMFq7XPA8" "560" "315" %}} <!--Video Sommerkurs 2015-->
 
 <div class="row">
 {{% two_columns %}}
@@ -46,7 +40,7 @@ ___
 + An- und Abreise
 + Verpflegung (i.d.R. ca. 40 Euro pro Woche)
 + Flugtauglichkeitszeugnis
-+ zusätzliche Starts (werden zu [Akaflieg-Tarifen](/allgemeines/kosten) abrechnet)
++ zusätzliche Starts (werden zu [Akaflieg-Tarifen](/ueber_uns/kosten) abrechnet)
 {{% /two_columns %}}
 
 {{% two_columns %}}

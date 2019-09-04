@@ -30,12 +30,12 @@ ASK 21 | 30ct (= 18 Euro/h) | 17ct (= 10,20 Euro/h)
 ASG 32| 53,33ct (= 32 Euro/h) | 53,33ct (= 32 Euro/h)
 **Kostenobergrenze** pro Kalenderjahr | 1700 Euro | 1400 Euro
 + *Zu zahlen sind pro Flug* ***maximal 5 Zeitstunden,*** *die darüber hinaus geflogenen Zeit wird nicht berechnet.*
-+ *Für den* ***Ausbildungssbetrieb*** *fallen neben den Kosten für Flugzeit des Ausbidlungsflugzeugs* ***keine weiteren Kosten*** *an, da unsere Fluglehrer ehrenamtlich schulen.*
++ *Für den* ***Ausbildungssbetrieb*** *fallen neben den Kosten für Flugzeit des Ausbildungsflugzeugs* ***keine weiteren Kosten*** *an.*
 + *Außergewöhnlich aktiven Fliegern wird ein* ***'Kostenairbag'*** *gewährt und maximal der Betrag der Kostenobergrenze berechnet.*
 
 # Arbeitsstunden
 {{% image_right "/img/kosten/campusaktion.JPG" %}}
-+ Arbeitsstunden können während der Saison durch über den **Flugbetrieb hinausgehende Tätigkeiten** (z.B. Hallentor streichen) und Engagement bei Veranstaltungen (z.B. Ausstellung der Flieger auf dem Campus) und im Winter durch **Werkstattarbeit** geleistet werden.
++ Arbeitsstunden können während der Saison durch über den **Flugbetrieb hinausgehende Tätigkeiten** (z.B. Hallentor streichen) und Engagement bei Veranstaltungen (z.B. besonderes Engagement bei der Ausstellung der Flieger auf dem Campus) und im Winter durch **Werkstattarbeit** geleistet werden.
 + **Über die maximale Stundenzahl geleistete Arbeitstunden** können zu Mindestlohnniveau **an die Fluggebühren angerechnet** werden (Anrechnung aller Stunden eines Kalenderjahres).
 + Nicht geleistete Arbeitsstunden werden zu Mindestlohnniveau in Rechnung gestellt.
 {{% /image_right %}}
@@ -66,4 +66,12 @@ keine Funktion | (Anzahl Starts + Anzahl Flugstunden) * 2 | 40 Stunden
 Für Teilnehmer des **Sommerkurses** fallen für die Dauer des Lehrgangs außer der Kursgebühr an sich **keine Mitgliedsbeiträge oder weitere Flugkosten** an!
 <br/>*Bis zum Saisonende des jeweiligen Jahres können Kursschüler, wenn sie über die 50 Kursstarts hinaus fliegen möchten, ohne Mitgliedbeiträge zahlen zu müssen zu regulären Akaflieg Tarifen am Vereinsflugbetrieb teilnehmen.*
 
-{{% image "/img/kosten/T.jpg" %}}
+{{% image "/img/kosten/T_2.jpg" %}}
+
+# Wohnwagenstellgebühren
+{{% image_right "/img/kosten/wowa.jpg" %}}
+ **Stellgebühr Allgemein** | 260 Euro
+----|----
+**Stellgebühr Funktionär** | 130 Euro
+**Rabatt für Kursfunktionäre** | 50%
+{{% /image_right %}}

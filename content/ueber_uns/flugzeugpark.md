@@ -4,7 +4,6 @@ date: 2019-03-14T16:57:54+01:00
 background: "clouds7.jpg"
 draft: false
 ---
-test
 <div class="row">
 {{% image_right "/img/flugzeugpark/32.JPG" %}}
 
@@ -19,7 +18,7 @@ im Verein seit: | April 2019
 </div>
 
 <div class="row">
-{{% image_left "/img/wj1.JPG" %}}
+{{% image_left "/img/flugzeugpark/wj1.JPG" %}}
 
 # LS4-a WJ
 Einsatzzweck: | Wettbewerbe, Streckenflug und Fortgeschrittenenschulung
@@ -32,13 +31,13 @@ im Verein seit: | 1989
 </div>
 
 <div class="row">
-{{% image_right "/img/tango.jpg" %}}
+{{% image_right "/img/flugzeugpark/tango.jpg" %}}
 
 # LS4-a T
 Einsatzzweck: | Wettbewerbe, Streckenflug und Fortgeschrittenenschulung
 --- | ---
 Hersteller: | Rolladen Schneider Flugzeugbau
-im Verein seit: | 1989
+im Verein seit: | 1999
 
 {{% /image_right %}}
 

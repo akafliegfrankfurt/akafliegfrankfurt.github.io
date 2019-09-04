@@ -4,6 +4,16 @@ date: 2019-03-14T17:04:02+01:00
 background: "clouds7.jpg"
 draft: false
 ---
+
+# 2019
+Die Akaflieg Frankfurt zeigt, dass man auch als "nicht bauende" akademische Fliegergruppe in der Wissenschaft gut positioniert sein kann. Auf gleich zwei wichtigen Veranstaltungen der Segelflugwelt waren die Frankfurter aktiv:
+{{% image_right "/img/reports/ostiv_fra_19/ostiv_19_01.jpg" %}}
+
++ Zunächst begrüßten die Frankfurter Akaflieger am 07. und 08.03. 2019 zusammen mit Prof. Joachim Curtius vom Institut für Atmosphäre und Umwelt der Goethe Universität das **OSTIV MET Panel** (also die meteorologische Sektion der technisch-wissenschaftlichen Organisation der Segelfliegerei) auf dem Campus Riedberg. Hier ging es um Messergebnisse und Modelle der Feinstruktur von Thermik und atmosphärischen Schwerewellen, Aerosole und ihre Auswirkungen auf das Wetter, wie auch Wetter- und Klimamodellierung.
+{{% /image_right %}}
+
++ Zeitgleich fand das **IGC/FAI General Meeting** in Istanbul – also das eher sportlich ausgerichtete Treffen der internationalen Segelflugkommission und des internationalen Luftsportverbands – statt. Dort wurden Fortschritte im Bereich moderner Flugsicherheitsmethoden vorgestellt (FLYTOP bzw. OSTIV Training and Safety Panel). In deren Folge wird das OSTIV TSP zukünftig einen ständigen Sitz in der IGC Safety Group erhalten und die Methoden weltweit in Wettbewerbe einfließen – schon für die Saison 2020 sollen IGC Stewards und Organisatoren von ausgesuchten Wettbewerben entsprechend geschult werden.
+
 # 2018
 + Fine structure of thermals in arid climate: Results of glider-based in-flight measurements, Alfred Ultsch und Christof Maul, XXXIV. OSTIV Congress, Hosin/CZ, 28.7.-3.8.2018
 + Safety as an additional subject in pilot training, Alfred Ultsch, XXXIV. OSTIV Congress, Hosin/CZ, 28.7.-3.8.2018

@@ -3,6 +3,7 @@ title: "OSTIV Met Panel Goethe Uni Frankfurt"
 date: 2019-03-08T17:03:32+01:00
 background: "clouds7.jpg"
 images: ["/img/reports/ostiv_fra_19/ostiv_19_01.jpg"]
+report: true
 draft: false
 ---
 _von Christof Maul_
