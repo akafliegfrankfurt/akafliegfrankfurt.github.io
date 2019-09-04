@@ -4,7 +4,7 @@
   </div>
 
   <div class="6u 12u(mobilep)">
-    <img style=border-radius:10px; src="{{ .Get 0 }}" alt="Alt-Text" title="{{ .Get 1 }}" />
+    <img style=border-radius:10px; src="{{ .Get 0 | relURL}}" alt="Alt-Text" title="{{ .Get 1 | markdownify}}" />
 
   </div>
 </div>
