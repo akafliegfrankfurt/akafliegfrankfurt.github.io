@@ -21,4 +21,4 @@ Zwei Tage lang informierten mindestens drei Akaflieger zeitgleich über die (Seg
 {{% photo_caption "/img/reports/Tag_der_Luftfahrt/Tag-der-Luftfahrt-2017-@-Fraport-3.jpg" "60%" "… und angehende Flugzeugmechaniker." %}}
 
 *Ein kleiner Zeitraffer-Clip von der WJ:*
-{{% frame "https://www.youtube.com/embed/rxRT4qYmD_w" %}}
+{{% frame "https://www.youtube-nocookie.com/embed/rxRT4qYmD_w" %}}
