@@ -268,7 +268,7 @@ googleAnalytics = ""
 
           [[params.landing.feature_icons.tile]]
             accent = "1"
-            image = "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2515.9728494991377!2d9.235755015148898!3d50.90571847954088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bc9f50de664377%3A0x2ea1d51008850a9e!2sAkaflieg+Frankfurt+e.V.+-+Unterkunft+und+Hangar!5e0!3m2!1sde!2sde!4v1552989520292' width='350' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>"
+            image = "<div class='map-container'><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2515.9728494991377!2d9.235755015148898!3d50.90571847954088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bc9f50de664377%3A0x2ea1d51008850a9e!2sAkaflieg+Frankfurt+e.V.+-+Unterkunft+und+Hangar!5e0!3m2!1sde!2sde!4v1552989520292' width='350' height='450' frameborder='0' style='border:0' allowfullscreen></iframe></div>"
             text = "*Lage Flugplatz*"
             weight = 1
 
@@ -295,7 +295,7 @@ googleAnalytics = ""
 
           [[params.landing.feature_icons_2.tile]]
             accent = "1"
-            image = "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2557.529681602843!2d8.6440726!3d50.1325222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd091455d433ff%3A0x4ddc44084c0d4abf!2sAkaflieg+Frankfurt+e.V.+-+Werkstatt!5e0!3m2!1sde!2sde!4v1555053968035!5m2!1sde!2sde' width='350' height='450' frameborder='0' style='border:0' allowfullscreen></iframe>"
+            image = "<div class='map-container'><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2557.529681602843!2d8.6440726!3d50.1325222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd091455d433ff%3A0x4ddc44084c0d4abf!2sAkaflieg+Frankfurt+e.V.+-+Werkstatt!5e0!3m2!1sde!2sde!4v1555053968035!5m2!1sde!2sde' width='350' height='450' frameborder='0' style='border:0' allowfullscreen></iframe></div>"
             text = "*Lage Werkstatt und Büro*"
             weight = 1
 

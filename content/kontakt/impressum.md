@@ -56,6 +56,6 @@ Datenschutzbeauftragter | Mathias Linkerhand (E-Mail: [datenschutz@akaflieg-fran
 
 <a name="Datenschutz"></a>
 ## Datenschutzhinweise
-- {{< newtab "Dateverarbeitung (Website) nach DSGVO" "/documents/impressum/webseite_datenschutz.pdf" >}}
+- {{< newtab "Datenverarbeitung (Website) nach DSGVO" "/documents/impressum/website_datenschutz.pdf" >}}
 - {{< newtab "Datenschutzverordnung der Akaflieg Frankfurt e.V." "/documents/impressum/verein_datenschutz.pdf" >}}
 - {{< newtab "Übersicht der Datenverarbeitungstätigkeiten der Akaflieg Frankfurt" "/documents/impressum/Verarbeitungstaetigkeiten_akafliegfrankfurt.pdf" >}}
