@@ -8,6 +8,7 @@ _Inhaltlich verantwortlich gemäß §6 MDStV:_ \\
 Akaflieg Frankfurt \\
 Ginnheimer Landstraße 39 \\
 60487 Frankfurt
+<br>-->[Datenschutz](#Datenschutz)
 
 # Ansprechpartner und Kontaktdaten
 
@@ -53,5 +54,8 @@ Flugsicherheit |  Andreas Goshöfer
 Jugendwart | Paul Quander
 Datenschutzbeauftragter | Mathias Linkerhand (E-Mail: [datenschutz@akaflieg-frankfurt.de](mailto:datenschutz@akaflieg-frankfurt.de))
 
+<a name="Datenschutz"></a>
 ## Datenschutzhinweise
-- {{< newtab "Datenschutzverordnung" "/documents/impressum/datenschutz.pdf" >}}
+- {{< newtab "Dateverarbeitung (Website) nach DSGVO" "/documents/impressum/webseite_datenschutz.pdf" >}}
+- {{< newtab "Datenschutzverordnung der Akaflieg Frankfurt e.V." "/documents/impressum/verein_datenschutz.pdf" >}}
+- {{< newtab "Übersicht der Datenverarbeitungstätigkeiten der Akaflieg Frankfurt" "/documents/impressum/Verarbeitungstaetigkeiten_akafliegfrankfurt.pdf" >}}

@@ -11,6 +11,11 @@ enableEmoji = true
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
+[privacy]
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
 [blackfriday]
   plainIDAnchors = true
   hrefTargetBlank = true
@@ -298,7 +303,7 @@ googleAnalytics = ""
       copyright = ["**Kontakt:**<br/>*vorstand@akaflieg-frankfurt.de*<br/>Alphaflieg Frankfurt<br/>Ginnheimer Landstraße 39<br/>60487 Frankfurt am Main",
                    "**Bankverbindung**<br/>Frankfurter Volksbank<br/>IBAN: DE20 5019 0000 6300 8647 57<br/>BIC: FFVBDEFFXXX",
                    "**Quicklinks:**<br>[DWD-Segelflugwetter](https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_43)<br>[Regenradar](https://www.wetteronline.de/regenradar)<br>[Wavemap-Download](http://comtim.de/wavemap/)<br>[NOTAMs](https://secais.dfs.de/pilotservice/user/login/login_edit.jsp)",
-                   "Design:<br>[HTML5 UP](//html5up.net/) ([CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/))",
+                   "**Datenschutz:**<br><a href='/documents/impressum/website_datenschutz.pdf' target='_blank'>Datenverarbeitungshinweise ansehen</a><br><br>**Designvorlage**:<br>[HTML5 UP](//html5up.net/) ([CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/))"
                   ]
 
 

@@ -22,6 +22,7 @@ draft: false
 **1957** sind seit der Wiedergründung bereits 4.500 Flüge mit insgesamt 1.200 Flugstunden absolviert worden, inzwischen in Egelsbach südlich von Frankfurt. Die Taufe zweier neuer Flugzeuge in diesem Jahr, eines Doppel- und eines Einsitzers, nur möglich durch große Eigenleistung der Mitglieder, stoßen auf großes Medieninteresse innerhalb und außerhalb der Universität.
 {{% /image_left %}}
 
+
 **1961** ist der Rhein-Main-Airport gewachsen und hat die Geschäftsflieger nach Egelsbach verdrängt. Für die Segelflieger wird der Platz immer knapper, und so steht ein erneuter Umzug an. Trotz der großen Entfernung zu Frankfurt entscheiden sich die Akaflieger für das Segelfluggelände „Der Ring“ in Ziegenhain/Schwalmstadt in Nordhessen. Der dortige Verein, die Flugsportvereinigung Schwalm e.V., geht auf erste Pioniere im Jahr 1933 zurück; mit ihm verbindet uns inzwischen eine langjährige Freundschaft.
 
 **1973** zieht die Akaflieg in eine neue, vom Land Hessen speziell für die Akaflieg erbaute Werkstatt auf dem Gelände des Zentrums für Hochschulsport an der Ginnheimer Landstraße. Die verbesserten räumlichen Gegebenheiten erlauben eine Ausweitung des Schul- und Forschungsbetriebs, so dass neben jährlich ca. 20 Flugschülern in Sommerkursen auch die Wochenendschulung verstärkt werden kann.  Raum kann auch im Bereich der segelflugbezogenen Forschung mit der Erfindung des elektrischen Variometers durch eine Gruppe um Erwin Borgschulte und unter wissenschaftlicher

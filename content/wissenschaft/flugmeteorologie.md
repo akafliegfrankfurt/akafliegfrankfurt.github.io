@@ -17,8 +17,7 @@ _Seitenüberblick:_
 
 ___
 
-<a name="Forschungsschwerpunkte">
-</a>
+<a name="Forschungsschwerpunkte"></a>
 # Forschungsschwerpunkte
 
 Die Flugmeteorologische Forschung der Akaflieg Frankfurt konzentriert sich vor allem auf folgende Untersuchungsgegenstände:
