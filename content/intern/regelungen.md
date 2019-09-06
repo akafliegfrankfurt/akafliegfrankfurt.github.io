@@ -23,7 +23,9 @@ ASG 32 | <ul><li>Gültiger SPL</li><li>Windenfahrerschein</li></ul> | Gemäß du
 
 # Regelungen zu Erwerb & Erhaltung von Lizenzen
 
+
 ## Voraussetzungen zum SPL-Lizenzerwerb
+{{% image_right "/img/regelungen/vario.jpg" %}}
 + Mindestalter 16 Jahre
 + Mindestens 15 Flugstunden, davon
 + ... mindestens 10 Stunden Flugausbildung mit Lehrer
@@ -39,6 +41,7 @@ Innerhalb der letzten 24 Monate:
 + 5 Stunden Flugzeit als PIC
 + 15 Starts
 + 2 Schulungsflüge mit Lehrberechtigtem
+{{% /image_right %}}
 
 ## Gültigkeitszeitraum des Medicals
 + bis zum 30. Lebensjahr: 5 Jahre
