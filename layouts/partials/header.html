@@ -2,11 +2,10 @@
 <html>
 	<head>
 		<title>{{ .Site.Params.title }}</title>
-		<meta name="description" content="Akademische Fliegergruppe der Goethe Universität Frankfurt am Main">
+		{{ with .Site.Params.subtitle }}<meta name="description" content="{{ . }}">{{ end }}
 		<link rel="icon" type="image/vdn.microsoft.icon" href="/img/home/aka_logo.ico">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		{{ with .Site.Params.subtitle }}<meta name="description" content="{{ . }}">{{ end }}
 		{{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
 		{{- with .OutputFormats.Get "rss" -}}
     	{{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}

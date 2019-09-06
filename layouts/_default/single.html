@@ -2,7 +2,6 @@
 			{{ "<!-- Main -->" | safeHTML }}
 
 			<div style="background-image: url('/img/backgrounds/{{.Params.background}}'); background-size: 100%; background-attachment: fixed; background-position: center; background-repeat: no-repeat">
-
 				<section id="main" class="container">
 					<header style= "background-color:white;">
 						<h2>{{ .Params.title }}</h2>
@@ -32,9 +31,7 @@
 								{{ if .Params.report }} <input type="button" value="Zur Reportübersicht" onclick="window.location.href='/ueber_uns/reports'" /> {{ end }}
 							</form>
 						</center>
-						</div>
-					</div>
+					</div>		
 				</section>
-
-				</div>
+			</div>
 {{ end }}
