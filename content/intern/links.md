@@ -52,6 +52,12 @@ _**Gebirgssegelflug**_ |
 [Unfälle und Ursachen](https://www.bfu-web.de/DE/Home/homepage_node.html) | Unfallberichte der BFU
 [Liste der Fliegerärzte](http://www2.lba.de/webdb/showtab.jsp?table=flareg) | Auflistung aller fliegerärztlichen Untersuchungsstellen in Deutschland
 http://chmaul.de/ | Sammlung verschiedener nützlicher Weblinks, zusammengetragen von Christof Maul
+[Ordner Intern](https://drive.google.com/open?id=1YFySrCrhZF1w79rgOONtUHzQjm88o9yH) | Enthält: Einteilung
+**Zugriff zu 'Ordner Intern' mit @akaflieg-frankfurt.de Zugangsdaten:**
+
++ [hier](https://accounts.google.com/AddSession/identifier?service=wise&continue=https%3A%2F%2Fdrive.google.com%2Faccounts%3FcontinueUrl%3Dhttps%3A%2F%2Fdrive.google.com%2Fopen%3Fid%253D1YFySrCrhZF1w79rgOONtUHzQjm88o9yH&continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1YFySrCrhZF1w79rgOONtUHzQjm88o9yH&flowName=GlifWebSignIn&flowEntry=AddSession)
++ Mit vorname.nachname@akaflieg-frankfurt.de anmelden
++ *Passwortanfragen zum Account jederzeit gern an vorstand@akaflieg-frankfurt.de*
 
 # Verbände
 **Link** | **Beschreibung**
@@ -73,7 +79,7 @@ LX Eos | ASG 32
 # Winde
 **Link** | **Beschreibung**
 --- | ---
-{{% newtab "Wissenswertes für Windenfahrer" "/documents/links/so_geht_die_winde.pdf" %}} | So funktioniert unsere Winde
+{{< newtab "Wissenswertes für Windenfahrer" "/documents/links/so_geht_die_winde.pdf" >}} | So funktioniert unsere Winde
 {{< newtab "Schleppgeschwindigkeiten" "/documents/links/schleppgeschwindigkeiten.pdf" >}} | Flugzeugspezifische Anforderungen an den Windenstart
 {{< newtab "Startwindenfahrerbestimmungen" "/documents/links/Startwindenfahrerbestimmungen_2017.pdf" >}} | Voraussetzungen für Windenfahreranwärter des DAeC
 {{< newtab "Sicherer Windenstart" "/documents/links/Flyer_Windenstart.pdf" >}} | Flyer des DAeC
