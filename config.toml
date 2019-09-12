@@ -210,9 +210,9 @@ googleAnalytics = ""
 
     #Details for the box below the banner
     [params.landing.services]
-      title = "Wilkommen!"
+      title = "Willkommen!"
       image = "/img/home/aka_logo.ico"
-      text = "Die Akaflieg Frankfurt ist ein Segelflugverein für Studierende, Hochschulangehörige und alle fliegerisch und wissenschaftlich Interessierten. Wir bieten **praktische und theoretische Segelflugausbildung** an und forschen in den Gebieten Flugmeteorologie und Flugsicherheit.<br/>Bei Interesse besteht die Möglichkeit, an einem unserer **Sommerkurse** teilzunehmen, im Rahmen der **Wochenendschulung** einzusteigen oder zu einen **Schnupperflug** auf unserem Platz vorbeizukommen."
+      text = "Die Akaflieg Frankfurt ist ein Segelflugverein für Studierende, Hochschulangehörige und alle fliegerisch und wissenschaftlich Interessierten. Wir bieten **praktische und theoretische Segelflugausbildung** an und forschen in den Gebieten Flugmeteorologie und Flugsicherheit. <br/>Bei Interesse besteht die Möglichkeit, an einem unserer **Sommerkurse** teilzunehmen, im Rahmen der **Wochenendschulung** einzusteigen oder zu einen **Schnupperflug** auf unserem Platz vorbeizukommen."
 
     [params.landing.feature_images]
       #These feature images look best if there's an even number of them.

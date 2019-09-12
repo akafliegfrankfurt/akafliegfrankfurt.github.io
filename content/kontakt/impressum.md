@@ -3,6 +3,10 @@ title: "Impressum"
 date: 2019-03-14T17:04:43+01:00
 background: "clouds7.jpg"
 draft: false
+aliases:
+    - /service/impressum/
+    - /service/datenschutz/
+    - /verein/kontakt/
 ---
 _Inhaltlich verantwortlich gemäß §6 MDStV:_ \\
 Akaflieg Frankfurt \\

@@ -3,6 +3,8 @@ title: "Geschichte"
 date: 2019-03-14T16:58:30+01:00
 background: "clouds7.jpg"
 draft: false
+aliases:
+        - /verein/geschichte/
 ---
 {{% image_right "/img/geschichte/anfang.jpg" %}}
 **1929**, nur 15 Jahre nach der Gründung der Universität Frankfurt als Stiftungsuniversität, schließen sich begeisterte Studenten zusammen, um eine akademische Fliegergruppe zu gründen. Sie beginnen in Eigeninitiative, ein erstes Schulflugzeug zu bauen und beeindrucke damit ihre Professoren, die sie von nun an finanziell und ideell unterstützen.

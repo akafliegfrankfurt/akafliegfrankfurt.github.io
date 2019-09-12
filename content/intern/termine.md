@@ -3,6 +3,8 @@ title: "Termine"
 date: 2019-03-14T19:43:28+01:00
 background: "clouds7.jpg"
 draft: false
+aliases:
+        - /start/termine/
 ---
 
 ### Terminplan

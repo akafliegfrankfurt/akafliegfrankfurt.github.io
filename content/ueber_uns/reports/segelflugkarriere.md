@@ -7,6 +7,8 @@ images: ["/img/reports/segelfliegerkarrieren/landung.JPG"]
 report: true
 tags: []
 draft: false
+aliases:
+        - /segelfliegen/segelfliegerkarriere/
 ---
 *von Tobias K.*
 

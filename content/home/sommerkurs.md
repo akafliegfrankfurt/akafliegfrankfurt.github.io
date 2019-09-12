@@ -3,6 +3,9 @@ title: "Sommerkurs"
 date: 2019-03-14T15:47:53+01:00
 background: "wiese2.jpg"
 draft: false
+aliases:
+    - /segelfliegen/sommerkurse/
+
 ---
 {{% image_right "/img/sommerkurs/start_leppo.JPG" %}}
 Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an, um Interessierten einen Einstieg in den Segelflugsport bieten zu können.<br/>Es sind **keine theoretischen oder praktischen Vorkenntnisse nötig!**<br/>

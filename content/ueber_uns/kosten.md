@@ -3,6 +3,8 @@ title: "Kosten"
 date: 2019-03-14T16:56:48+01:00
 background: "clouds7.jpg"
 draft: false
+aliases:
+        - /verein/kosten/
 ---
 # Startgebühren
 
