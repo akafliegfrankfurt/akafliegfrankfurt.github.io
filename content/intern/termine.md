@@ -26,7 +26,7 @@ Jugendvergleichsfliegen: Hessenentscheid | 06.09.19 | 08.09.19 | Hepppenheim
 Jugendvergleichsfliegen: Bundesentscheid | 26.09.19 | 29.09.19 | Laucha
 Abfliegen | 26.10.19 |
 Deutscher Segelfliegertag | 02.11.19 | | Freudenstadt
-Hessischer Segelfliegertag |
+Hessischer Segelfliegertag | 09.11.19 | | Michelstadt-Vielbrunn 
 Weihnachtsfeier |
 
 ### Vorgemerkte Mitglieder für Flugzeugnutzung
