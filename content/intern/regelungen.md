@@ -68,3 +68,14 @@ nach Lizenzerwerb:
 + gültige Segelfluglizenz
 + 200 Starts als PIC
 + 100 Flugstunden als PIC
+
+# Regelungen zur Windenfahrerschulung
+**Voraussetzungen Windenfahrerschein:**
+
++ 30 geflogene Windenstarts
++ Mindestalter 16 Jahre (15 Jahre zu Ausbildungsbeginn)
++ 100 beaufsichtigte Schlepps im Zuge der Windenfahrerausbildung
++ Schulung an mindestens 10 verschiedenen Tagen
++ bestandenen theoretische und praktische Windenfahrerprüfung (3 Windenstarts, beaufsichtigt durch den Ausbildungsleiter)
+
+Vereinsintern gilt zusätzlich, dass bei einer bestandenen Windenfahrerprüfung innerhalb eines Jahres nach der A-Prüfung im entsprechenden Jahr nur maximal 20 statt 40 Arbeitsstunden (= Arbeiststunden-Soll eines eingeteilten Funktionärs) zu absolvieren sind.

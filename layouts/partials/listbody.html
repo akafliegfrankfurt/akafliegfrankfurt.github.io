@@ -10,6 +10,7 @@
       <time class="date-meta">({{ .Date.Format "Jan 2, 2006" }})</time>
       <br>
       {{ .Summary | plainify | safeHTML }}
+      <br><br>
       {{ if .Truncated }}
             <a class="button small alt" href="{{ .Permalink }}" >
                 Read more<i class="fas fa-angle-double-right"></i>
@@ -17,7 +18,6 @@
       {{ end }} {{/* if */}}
       <center>
         <div class="6u">
-          <br>
            <span class="image fit"><img src="{{ index .Params.images 0 | absURL }}" alt="image"></span>
         </div>
       </center>
