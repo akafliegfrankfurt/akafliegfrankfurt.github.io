@@ -43,10 +43,12 @@ E-Mail *(bevorzugt)*: **[vorstand@akaflieg-frankfurt.de](mailto:vorstand@akaflie
 <br>Flugplatztelefon: [06691/5405](tel:+4966915405)
 <br>Werkstatttelefon: [069/79824-528](tel:+496979824528)
 
+<a name="Ansprechpartner"></a>
+
 ## Ansprechpartner
 **Funktion** | **Name**
 ---- | ----
-Ausbildsungsleiter | Christof Maul (E-Mail: [ausbildung@akaflieg-frankfurt.de](mailto:ausbildung@akaflieg-frankfurt.de))
+Ausbildungsleiter & Segelflugreferent | Christof Maul (E-Mail: [ausbildung@akaflieg-frankfurt.de](mailto:ausbildung@akaflieg-frankfurt.de))
 Technische Leitung | Thomas Gerber
 Kassierer | Tim Vogel
 Wissenschaft | Prof. Dr. Alfred Ultsch
