@@ -49,7 +49,7 @@ E-Mail *(bevorzugt)*: **[vorstand@akaflieg-frankfurt.de](mailto:vorstand@akaflie
 **Funktion** | **Name**
 ---- | ----
 Ausbildungsleiter & Segelflugreferent | Christof Maul (E-Mail: [ausbildung@akaflieg-frankfurt.de](mailto:ausbildung@akaflieg-frankfurt.de))
-Technische Leitung | Thomas Gerber
+Technische Leitung | Dr. Thomas Gerber
 Kassierer | Tim Vogel
 Wissenschaft | Prof. Dr. Alfred Ultsch
 PR & Marketing | Tobias Kemmerer
