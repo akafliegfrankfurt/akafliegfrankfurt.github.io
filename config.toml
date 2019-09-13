@@ -301,8 +301,7 @@ googleAnalytics = ""
 
     [params.footer]
       copyright = ["**Kontakt:**<br/>*vorstand@akaflieg-frankfurt.de*<br/>Akaflieg Frankfurt<br/>Ginnheimer Landstraße 39<br/>60487 Frankfurt am Main",
-                   "<br>**Quicklinks:**<br>[DWD-Segelflugwetter](https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_43)<br>[Regenradar](https://www.wetteronline.de/regenradar)<br>[Wavemap-Download](http://comtim.de/wavemap/)<br>[NOTAMs](https://secais.dfs.de/pilotservice/user/login/login_edit.jsp)<br>[Einteilung](https://drive.google.com/open?id=0BzAWGqmKU_2qbVRIV1dKMjR1a21LcUIzOU1yWHMyOGVYZnJj) *(@akaflieg-frankfurt.de nutzen!)*",
-                   "<br>*[Akaflieg-Account <br>'vorname.nachname@akaflieg-frankfurt.de' <br>zum Gerät hinzufügen](https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=AddSession)*<br><br>--> Passwortanfrage an <br>vorstand@akaflieg-frankfurt.de",
+                   "<br>**Quicklinks:**<br>[DWD-Segelflugwetter](https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_43)<br>[Regenradar](https://www.wetteronline.de/regenradar)<br>[Wavemap-Download](http://comtim.de/wavemap/)<br>[NOTAMs](https://secais.dfs.de/pilotservice/user/login/login_edit.jsp)<br>[Einteilung](https://drive.google.com/open?id=1YFySrCrhZF1w79rgOONtUHzQjm88o9yH) *(@akaflieg-frankfurt.de nutzen  <br>- [Infos zur Account-Einrichtung](/intern/links#Account-Info))*",
                    "<br>**Datenschutz:**<br><a href='/documents/impressum/website_datenschutz.pdf' target='_blank'>Datenverarbeitungshinweise ansehen</a><br><br>**Designvorlage**:<br>[HTML5 UP](//html5up.net/) ([CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/))"
                   ]
 

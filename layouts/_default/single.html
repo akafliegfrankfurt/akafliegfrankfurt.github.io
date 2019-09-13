@@ -10,7 +10,7 @@
 						{{ end }}
 					</header>
 
-					<div class="box">
+					<div class="box" style="overflow:auto">
 						{{ with .Params.images }}
 							<span class="image featured"><img style="border: 4px solid #ffffff" src="{{ index . 0 | relURL }}" alt=""></span>
 						{{ end }}
@@ -31,7 +31,7 @@
 								{{ if .Params.report }} <input type="button" value="Zur Reportübersicht" onclick="window.location.href='/ueber_uns/reports'" /> {{ end }}
 							</form>
 						</center>
-					</div>		
+					</div>
 				</section>
 			</div>
 {{ end }}
