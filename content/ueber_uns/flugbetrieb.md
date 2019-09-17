@@ -5,6 +5,7 @@ background: "clouds1.jpg"
 draft: false
 aliases:
         - /segelfliegen/wie-werde-ich-segelflieger/
+        - /qr
 ---
 
 {{% image_right "/img/flugbetrieb/aufstellung.jpg" %}}
