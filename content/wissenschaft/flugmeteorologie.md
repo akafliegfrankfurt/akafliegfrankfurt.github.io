@@ -58,6 +58,6 @@ Strömt Luft mit hoher Geschwindigkeit gegen und über ein großes Hindernis, ka
 
 ![Atmophärische Schwerewelle](/img/wissenschaft/welle.png)
 
-{{% frame "https://www.youtube-nocookie.com/embed/HkBsMW8ApX4" %}}
+{{% video_frame "https://www.youtube-nocookie.com/embed/HkBsMW8ApX4" %}}
 ---
-{{% frame "https://www.youtube-nocookie.com/embed/3zN22p-Ufeg" %}}
+{{% video_frame "https://www.youtube-nocookie.com/embed/3zN22p-Ufeg" %}}

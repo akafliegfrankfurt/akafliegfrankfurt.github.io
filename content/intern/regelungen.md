@@ -19,7 +19,7 @@ LS4 | <ul> <li>Flugauftrag</li><li>Windenfahrerschein</li><li>50 Alleinstarts</l
 ASK 21 | Gültiger SPL | Gültiger SPL
 SZD-51-1 Junior | Gültiger SPL | <ul><li>Gültiger SPL</li> <li>Windenfahrerschein</li></ul>
 LS4 / DG300| <ul><li>Gültiger SPL</li><li>Windenfahrerschein</li></ul> | <ul><li>Gültiger SPL</li><li> Windenfahrerschein </li> <li>3 dokumentierte Ziellandungen</li></ul>
-ASG 32 | <ul><li>Gültiger SPL</li><li>Windenfahrerschein</li></ul> | Gemäß durch [Segelflugreferent](/kontakt/impressum#Ansprechpartner) benannter Pilotenliste
+ASG 32 | <ul><li>Gültiger SPL</li><li>Windenfahrerschein</li></ul> | Gemäß durch [Segelflugreferent](/kontakt#Ansprechpartner) benannter Pilotenliste
 
 # Regelungen zu Erwerb & Erhaltung von Lizenzen
 

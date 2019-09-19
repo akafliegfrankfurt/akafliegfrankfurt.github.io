@@ -23,17 +23,17 @@ aliases:
 **Wochenendschulung**
 <br>Alternativ zum Einstieg in die Segelfliegerei durch einen [Anfängerkurs](/home/sommerkurs) ist es auch möglich, eine Segelflugsausbildung im Zuge unseres **regulären Flugbetriebes** zu beginnen.
 Geflogen wird bei uns regelmäßig an allen Wochenenden von **April bis Oktober.**<br>
-Unsere Einteilung stellt sicher, dass an jedem Wochenende ein Fluglehrer vor Ort ist, der sich dann um die Flugschüler kümmert. In vielen Fällen sind auch andere Fluglehrer vor Ort, die man bei Bedarf sicher auch zum Aushelfen überreden kann. Als Flugschüler kannst Du also sicher sein, dass Du nicht alleine auf dem Platz stehst. Allein bei fraglichem Wetter empfiehlt es sich, freitags kurz bei uns [anzurufen oder per E-Mail nachzufragen](/kontakt/impressum), ob geflogen wird.
+Unsere Einteilung stellt sicher, dass an jedem Wochenende ein Fluglehrer vor Ort ist, der sich dann um die Flugschüler kümmert. In vielen Fällen sind auch andere Fluglehrer vor Ort, die man bei Bedarf sicher auch zum Aushelfen überreden kann. Als Flugschüler kannst Du also sicher sein, dass Du nicht alleine auf dem Platz stehst. Allein bei fraglichem Wetter empfiehlt es sich, freitags kurz bei uns [anzurufen oder per E-Mail nachzufragen](/kontakt), ob geflogen wird.
 <br>Einen detaillierten **Überblick über Ausbildungsverlauf und eine grobe Kostenschätzung** vom Fußgänger bis zur Segelfluglizenz gibt es {{% newtab "hier" "/documents/flugbetrieb/ausbildungsverlauf.pdf" %}}.
 
 <div class="row">
 {{% two_columns %}}
-Um am regulären Flugbetrieb teilnehmen zu können und Flugzeuge unseres Flugzeugparks nutzen zu können, ist eine **Vereinsmitgliedschaft** nötig. Wer erst einmal herausfinden möchte, ob die Segelfliegerei der richtige Sport für ihn ist, ist herzlich eingeladen, uns auf dem Flugplatz für einen **Schnupperflug** zu besuchen (Anfragen nehmen wir gerne per [Email](/kontakt/impressum) entgegen).
+Um am regulären Flugbetrieb teilnehmen zu können und Flugzeuge unseres Flugzeugparks nutzen zu können, ist eine **Vereinsmitgliedschaft** nötig. Wer erst einmal herausfinden möchte, ob die Segelfliegerei der richtige Sport für ihn ist, ist herzlich eingeladen, uns auf dem Flugplatz für einen **Schnupperflug** zu besuchen (Anfragen nehmen wir gerne per [Email](/kontakt) entgegen).
 {{% /two_columns %}}
 
 {{% two_columns %}}
-{{% button "Zum Beitrittsformular" "/ueber_uns/beitritt/" %}}
-{{% button "Schnupperflug anfragen" "/kontakt/impressum/" %}}
+{{% button "Zum Beitrittsformular" "/ueber_uns/beitritt" %}}
+{{% button "Schnupperflug anfragen" "/kontakt" %}}
 {{% /two_columns %}}
 </div>
 

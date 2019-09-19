@@ -14,7 +14,7 @@ Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedin
 
 {{% /image_right %}}
 
-{{% frame "https://www.youtube-nocookie.com/embed/aHpMFq7XPA8" %}} <!--Video Sommerkurs 2015-->
+{{% video_frame "https://www.youtube-nocookie.com/embed/aHpMFq7XPA8" %}} <!--Video Sommerkurs 2015-->
 
 <div class="row">
 {{% two_columns %}}

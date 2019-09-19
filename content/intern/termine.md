@@ -11,7 +11,7 @@ aliases:
 
 **Ereignis** | **Von** | **Bis** | **Beschreibung**
 ---- | ---- | ---- | ----
-Jahreshaupversammlung | 22.02.19 |
+Jahreshauptversammlung | 22.02.19 |
 [OSTIV Met Panel-Tagung](https://ostiv.org/files/ostiv-docs/met/CFP2019.pdf) | 07.03.19 | 08.03.19 | OSTIV Met Panel-Tagung bei der Meteorologie der Goethe-Universität Frankfurt
 Akaflieg Frankfurt Wave Research Camp 2018 | 24.03.19 | 06.04.19 | für Scheininhaber und fortgeschrittene Flugschüler
 Anfliegen | 30.03.19 | | Anfliegen in Schwalmstadt-Ziegenhain
@@ -26,7 +26,7 @@ Jugendvergleichsfliegen: Hessenentscheid | 06.09.19 | 08.09.19 | Hepppenheim
 Jugendvergleichsfliegen: Bundesentscheid | 26.09.19 | 29.09.19 | Laucha
 Abfliegen | 26.10.19 |
 Deutscher Segelfliegertag | 02.11.19 | | Freudenstadt
-Hessischer Segelfliegertag | 09.11.19 | | Michelstadt-Vielbrunn 
+Hessischer Segelfliegertag | 09.11.19 | | Michelstadt-Vielbrunn
 Weihnachtsfeier |
 
 ### Vorgemerkte Mitglieder für Flugzeugnutzung
