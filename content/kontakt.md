@@ -37,7 +37,6 @@ Di & Fr 19.30-21.30)*
 *Lage Werkstatt und Büro*
 <br>
 {{% /three_columns %}}
-
 </div>
 
 ## Offizielle
@@ -46,19 +45,19 @@ Di & Fr 19.30-21.30)*
 {{% three_columns %}}
 ### 1. Vorsitzender
 #### [Uwe März](mailto:vorstand@akaflieg-frankfurt.de)
-{{% image  "/img/ansprechpartner/uwe2.jpg" %}}
+{{% image  "/img/kontakt/uwe2.jpg" %}}
 {{% /three_columns %}}
 
 {{% three_columns %}}
 ### 2. Vorsitzender
 #### [Julius Lübstorf](mailto:vorstand@akaflieg-frankfurt.de)
-{{% image  "/img/ansprechpartner/julius2.jpg" %}}
+{{% image  "/img/kontakt/julius2.jpg" %}}
 {{% /three_columns %}}
 
 {{% three_columns %}}
 ### Geschäftsführerin
 #### [Marie Schade](mailto:vorstand@akaflieg-frankfurt.de)
-{{% image  "/img/ansprechpartner/puimarie2.jpg" %}}
+{{% image  "/img/kontakt/puimarie2.jpg" %}}
 {{% /three_columns %}}
 </div>
 

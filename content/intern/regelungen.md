@@ -4,6 +4,14 @@ date: 2019-03-14T19:44:57+01:00
 background: "clouds7.jpg"
 draft: false
 ---
+*Seitenüberblick:*
+
+1. [Flugzeugnutzung](#Flugzeugnutzung)
+2. [Lizenz(-berechtigungen) & Medical](#Lizenz)
+3. [Windenfahrerschulung](#Winde)
+
+<a name="Flugzeugnutzung"></a>
+
 # Regelungen zur Flugzeugnutzung
 
 ## Flugschüler
@@ -21,8 +29,9 @@ SZD-51-1 Junior | Gültiger SPL | <ul><li>Gültiger SPL</li> <li>Windenfahrersch
 LS4 / DG300| <ul><li>Gültiger SPL</li><li>Windenfahrerschein</li></ul> | <ul><li>Gültiger SPL</li><li> Windenfahrerschein </li> <li>3 dokumentierte Ziellandungen</li></ul>
 ASG 32 | <ul><li>Gültiger SPL</li><li>Windenfahrerschein</li></ul> | Gemäß durch [Segelflugreferent](/kontakt#Ansprechpartner) benannter Pilotenliste
 
-# Regelungen zu Erwerb & Erhaltung von Lizenzen
+<a name="Lizenz"></a>
 
+# Regelungen zu Erwerb & Erhaltung von Lizenzen
 
 ## Voraussetzungen zum SPL-Lizenzerwerb
 {{% image_right "/img/regelungen/vario.jpg" %}}
@@ -51,7 +60,7 @@ Innerhalb der letzten 24 Monate:
 + ... 1 Jahr für SPL
 
 ## Voraussetzungen zur Mitnahme von Passagieren
-nach Lizenserwerb:
+nach Lizenzerwerb:
 
 + 10 Stunden Flugzeit als PIC
 <br>ODER
@@ -68,6 +77,8 @@ nach Lizenzerwerb:
 + gültige Segelfluglizenz
 + 200 Starts als PIC
 + 100 Flugstunden als PIC
+
+<a name="Winde"></a>
 
 # Regelungen zur Windenfahrerschulung
 **Voraussetzungen Windenfahrerschein:**

@@ -7,6 +7,23 @@ aliases:
         - /service/download/
         - /service/links/
 ---
+{{% image_left "/img/regelungen/vario.jpg" %}}
+*Seitenüberblick:*
+
+1. [Wetter](#Wetter)
+2. [Ausbildung](#Ausbildung)
+3. [Nützliches](#Nuetzliches)
+4. [Ordner-Intern (enthält Einteilung etc.)](#Ordner-Intern)
+5. [Verbände](#Verbaende)
+6. [Anleitungen-Instrumente](#Instrumente)
+7. [Winde](#Winde)
+8. [Anhänger](#Anhaenger)
+9. [Regelwerke](#Regelwerke)
+10. [Flugplätze](#Flugplaetze)
+{{% /image_left %}}
+
+<a name="Wetter"></a>
+
 # Wetter
 
 {{% image_right "/img/links/hammerwetter.jpg" %}}
@@ -32,6 +49,8 @@ _**Gebirgssegelflug**_ |
 [Wavemap-Download](http://comtim.de/wavemap/) | Download von aktuellen Wavemaps (bspw. zum Anzeigen von Wellengebieten in XCSoar) im .txt Format
 [TherMap](http://www.aerodrome-gruyere.ch/thermap/d.htm) | Thermikkarte für die Alpen
 
+<a name="Ausbildung"></a>
+
 # Ausbildung
 **Link** | **Beschreibung**
 ---| ---
@@ -40,6 +59,8 @@ _**Gebirgssegelflug**_ |
 [Prüfer](https://www.lba.de/DE/Luftfahrtpersonal/AnerkannteFlugpruefer/Anerkannte_Flugpruefer_node.html) | Liste aller anerkannter LBA-Prüfer
 [Trainingsbarometer](https://trainingsbarometer.de/) | Tool zur Bestimmung des aktuellen Trainingsstands
 {{< newtab "Gebirgssegelflug - ein Risiko?" "/documents/links/Gebirgsflug_2007.pdf" >}} | Hinweise für das sichere Fliegen im Gebirge vom Büro Flugsicherheit des DAeC
+
+<a name="Nuetzliches"></a>
 
 # Nützliches
 **Link** | **Beschreibung**
@@ -57,14 +78,20 @@ _**Gebirgssegelflug**_ |
 http://chmaul.de/ | Sammlung verschiedener nützlicher Weblinks, zusammengetragen von Christof Maul
 [Ordner Intern](https://drive.google.com/open?id=1YFySrCrhZF1w79rgOONtUHzQjm88o9yH) | Enthält: Einteilung
 
-<a name="Account-Info"></a>
+<a name="Ordner-Intern"></a>
 
-### Zugriff 'Ordner Intern'
-Zugriff zu **'Ordner Intern'** nur mit **@akaflieg-frankfurt.de Zugangsdaten** möglich:
+# Interne Dokumente
+[Ordner Intern](https://drive.google.com/open?id=1YFySrCrhZF1w79rgOONtUHzQjm88o9yH) | Enthält: Einteilung
+--- | ---
+Zugriff zu **'Ordner Intern'** ist nur mit **@akaflieg-frankfurt.de Zugangsdaten** möglich. \\
+<br>
+*Einrichtung:*
 
 + **Desktop**: [hier](https://accounts.google.com/AddSession/identifier?service=wise&continue=https%3A%2F%2Fdrive.google.com%2Faccounts%3FcontinueUrl%3Dhttps%3A%2F%2Fdrive.google.com%2Fopen%3Fid%253D1YFySrCrhZF1w79rgOONtUHzQjm88o9yH&continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1YFySrCrhZF1w79rgOONtUHzQjm88o9yH&flowName=GlifWebSignIn&flowEntry=AddSession) klicken und mit vorname.nachname@akaflieg-frankfurt.de anmelden
 + **Mobil**: [hier](https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=AddSession) Akaflieg-Account 'vorname.nachname@akaflieg-frankfurt.de' zum Gerät hinzufügen
 + *Passwortanfragen zum Account können jederzeit gern an vorstand@akaflieg-frankfurt.de gerichtet werden*
+
+<a name="Verbaende"></a>
 
 # Verbände
 **Link** | **Beschreibung**
@@ -74,6 +101,8 @@ Zugriff zu **'Ordner Intern'** nur mit **@akaflieg-frankfurt.de Zugangsdaten** m
 [Luftsportjugend Hessen](https://jugend.hlb-info.de/bereich/luftsportjugend-im-hlb) | Informationen zu Veranstaltungen der Hessischen Luftsportjugend
 [Deutsche Nationalmannschaft](https://segelflug.aero/web/index.php/home-nationalmannschaft/) | Informationen zur Nationalmannschaft, sowie EM und WM
 
+<a name="Instrumente"></a>
+
 # Bedienungsanleitungen (Instrumente)
 **Link** | **Beschreibung**
 --- | ---
@@ -82,6 +111,8 @@ Zugriff zu **'Ordner Intern'** nur mit **@akaflieg-frankfurt.de Zugangsdaten** m
 LX Eos | ASG 32
 
 <!-- {{< newtab "LX Eos" "/documents/links/documentname.pdf" >}} | ASG 32 -->
+
+<a name="Winde"></a>
 
 # Winde
 **Link** | **Beschreibung**
@@ -96,11 +127,15 @@ LX Eos | ASG 32
 {{% image "/img/links/windenlkw.JPG" %}}
 {{% /image_right %}}
 
+<a name="Anhaenger"></a>
+
 # Anhänger
 **Link** | **Beschreibung**
 --- | ---
 {{< newtab "Oberflächenpflege" "/documents/links/Oberflaechenpflege.pdf" >}} | Spindelberger Cobratrailer Pflegehinweise
 {{< newtab "Kabelbelegung" "/documents/links/kabelbelegung_haenger.gif" >}} | Kabelbelegungsplan Flugzeuganhänger
+
+<a name="Regelwerke"></a>
 
 # Regelwerke
 **Link** | **Beschreibung**
@@ -108,6 +143,8 @@ LX Eos | ASG 32
 [Abfrage von NOTAMs](https://secais.dfs.de/pilotservice/user/login/login_edit.jsp) | Notams des DFS *(Login erforderlich)*
 {{< newtab "SBO" "/documents/links/SBO2009Sept.pdf" >}} | Segelflugbetriebsordnung des DAeC
 {{< newtab "Segelfluggeländeordnung" "/documents/links/Segelfluggelaendeordnung.pdf" >}} | Segelfluggeländeordnung Schwalmstadt "Der Ring"
+
+<a name="Flugplaetze"></a>
 
 # Flugplätze
 **Link** | **Beschreibung**

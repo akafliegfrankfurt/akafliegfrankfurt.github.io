@@ -81,7 +81,7 @@ Die **Gebirgsfliegerei** ist auch für erfahrene Piloten eine Herausforderung un
 ### Wettbewerbssegelflug
 
 Wie in anderen Sportarten auch bieten **Wettbewerbe** im Segelflug die Möglichkeit, regional, auf Bundesebene und international mit anderen Segelflugpiloten in Kontakt zu treten, voneinander zu lernen, sich zu messen und gemeinsam von verschiedensten Flugplätzen Deutschlands und der Welt aus zu fliegen.
-<br>Dabei gibt es beispielsweise Wettbewerbe im Strecken- oder Kunstflug in verschiedenen Klassen für verschiedene Segelflugzeugtypen.
+<br>Dabei gibt es beispielsweise Wettbewerbe im Strecken- oder Kunstflug in verschiedenen Klassen für verschiedene Segelflugzeugtypen. \\
 Eine ausführliche Beschreibung des Wettbewerbsablaufs, der Wettbewerbsklassen und -aufgaben gibt es {{% newtab "hier" "/documents/flugbetrieb/wettbewerbe.pdf" %}}.
 {{% /image_right %}}
 
