@@ -6,8 +6,12 @@ draft: false
 ---
 
 # 2019
-+ Ausrichtung des **OSTIV MET Panel** (meteorologische Sektion der technisch-wissenschaftlichen Organisation der Segelfliegerei) auf dem Campus Riedberg gemeinsam mit Prof. Joachim Curtius vom Institut für Atmosphäre und Umwelt der Goethe Universität mit den Themen Messergebnisse und Modelle der Feinstruktur von Thermik und atmosphärischen Schwerewellen, Aerosole und ihre Auswirkungen auf das Wetter, wie auch Wetter- und Klimamodellierung, 07. und 08.03. 2019
++ *{{< newtab "Highlichts der Wellensaison 2018/2019" "/documents/publikationen/mtl19.pdf" >}}*, Christof Maul, Mittelgebirgs-Leewellen-Forum, Institut für Meteorologie und Klimatologie, Leibniz-Universität Hannover, 2.3.2019
++ [OSTIV Meteorolgy Panel](https://ostiv.org/sections/scientific-section/meteorological-panel.html), Frankfurt, 07./08.03.2019: **Measuring the fine structure of thermals**, Alfred Ultsch und Christof Maul \\
+--> Ausrichtung des **OSTIV MET Panels** (meteorologische Sektion der technisch-wissenschaftlichen Organisation der Segelfliegerei) auf dem Campus Riedberg gemeinsam mit Prof. Joachim Curtius vom Institut für Atmosphäre und Umwelt der Goethe Universität mit den Themen Messergebnisse und Modelle der Feinstruktur von Thermik und atmosphärischen Schwerewellen, Aerosole und ihre Auswirkungen auf das Wetter, wie auch Wetter- und Klimamodellierung
 + **IGC/FAI General Meeting** in Istanbul – Treffen der internationalen Segelflugkommission und des internationalen Luftsportverbands. Themen: Fortschritte im Bereich moderner Flugsicherheitsmethoden (FLYTOP bzw. OSTIV Training and Safety Panel), Ergebnis: OSTIV TSP erhält zukünftig einen ständigen Sitz in der IGC Safety Group um ihre Methoden weltweit in Wettbewerbe einfließen zu lassen (Schulungsbeginn für Stewards und Wettbewerbsorganisatoren für Saison 2020)
++ Wellenflug in der Flugausbildung, Christof Maul, Flughlehrer-Auffrischungsseminar, Schwalmstadt, 28.09.2019
++ Amazing lift, awful sink - Wellen über Schottland, Christof Maul, Hessischer Segelfliegertag, Michelstadt-Vielbrunn, 09.11.2019
 
 # 2018
 + Fine structure of thermals in arid climate: Results of glider-based in-flight measurements, Alfred Ultsch und Christof Maul, XXXIV. OSTIV Congress, Hosin/CZ, 28.7.-3.8.2018

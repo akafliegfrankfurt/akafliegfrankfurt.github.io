@@ -6,6 +6,20 @@ draft: false
 aliases:
         - /verein/kosten/
 ---
+{{% image_right "/img/kosten/T_2.jpg" %}}
+
+*Seitenüberblick:*
+
+1. [Startgebühren](#Startgebuehren)
+2. [Fluggebühren](#Fluggebuehren)
+3. [Arbeitsstunden](#Arbeitsstunden)
+4. [Mitgliedsbeiträge](#Mitgliedsbeitraege)
+5. [Wohnwagenstellgebühren](#Wohnwagenstellgebuehren)
+
+{{% /image_right %}}
+
+<a name="Startgebuehren"> </a>
+
 # Startgebühren
 
 **Startart** | **Preis**
@@ -23,6 +37,8 @@ Flugzeugschlepp (durchgeführt durch FSV Schwalm) | 3,30 Euro / 100m (mind. 13,2
 {{% /two_columns %}}
 </div>
 
+<a name="Fluggebuehren"> </a>
+
 # Fluggebühren
 **Flugzeugtyp** | **Preis/Minute** | **Preis/Minute (Schüler/Student)**
 ----|----|----
@@ -34,6 +50,8 @@ ASG 32| 53,33ct (= 32 Euro/h) | 53,33ct (= 32 Euro/h)
 + *Zu zahlen sind pro Flug* ***maximal 5 Zeitstunden,*** *die darüber hinaus geflogenen Zeit wird nicht berechnet.*
 + *Für den* ***Ausbildungssbetrieb*** *fallen neben den Kosten für Flugzeit des Ausbildungsflugzeugs* ***keine weiteren Kosten*** *an.*
 + *Außergewöhnlich aktiven Fliegern wird ein* ***'Kostenairbag'*** *gewährt und maximal der Betrag der Kostenobergrenze berechnet.*
+
+<a name="Arbeitsstunden"> </a>
 
 # Arbeitsstunden
 {{% image_right "/img/kosten/campusaktion.JPG" %}}
@@ -50,6 +68,8 @@ Flugleiter | Anzahl Starts + Anzahl Flugstunden | 20 Stunden
 keine Funktion | (Anzahl Starts + Anzahl Flugstunden) * 2 | 40 Stunden
 
 {{% image "/img/kosten/werkstatt_ginnheim.jpg" %}}
+
+<a name="Mitgliedsbeitraege"> </a>
 
 # Mitgliedsbeiträge
 **Aktiv (Schüler/Student)** | 150 Euro
@@ -68,7 +88,7 @@ keine Funktion | (Anzahl Starts + Anzahl Flugstunden) * 2 | 40 Stunden
 Für Teilnehmer des **Sommerkurses** fallen für die Dauer des Lehrgangs außer der Kursgebühr an sich **keine Mitgliedsbeiträge oder weitere Flugkosten** an!
 <br/>*Bis zum Saisonende des jeweiligen Jahres können Kursschüler, wenn sie über die 50 Kursstarts hinaus fliegen möchten, ohne Mitgliedbeiträge zahlen zu müssen zu regulären Akaflieg Tarifen am Vereinsflugbetrieb teilnehmen.*
 
-{{% image "/img/kosten/T_2.jpg" %}}
+<a name="Wohnwagenstellgebuehren"> </a>
 
 # Wohnwagenstellgebühren
 {{% image_right "/img/kosten/wowa.jpg" %}}
