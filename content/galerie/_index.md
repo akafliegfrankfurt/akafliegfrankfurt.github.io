@@ -8,7 +8,3 @@ aliases:
 ---
 {{< galerie_root >}}
 <br><br>--> weitere Bilder auf [Facebook](https://www.facebook.com/AkafliegFrankfurt/) ansehen
-
-<div id="div1"> </div>
-<script src="https://unpkg.com/axios/dist/axios.min.js"> </script>
-<script src="/js/get_googlephotos.js"> </script>
