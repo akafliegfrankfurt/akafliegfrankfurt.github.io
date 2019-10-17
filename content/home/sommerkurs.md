@@ -30,7 +30,6 @@ Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedin
 + 50 Schulstarts
 + Übernachtung in unserer Unterkunft
 + Deutschlandweit gültiger Ausbildungsnachweis
-+ Flugbuch
 {{% /two_columns %}}
 </div>
 

@@ -1,4 +1,4 @@
-baseURL = "https://akaweb001.z6.web.core.windows.net"
+baseURL = "https://www.akaflieg-frankfurt.de"
 languageCode = "de-de"
 title = "Akaflieg Frankfurt"
 theme = ['alpha-church']
