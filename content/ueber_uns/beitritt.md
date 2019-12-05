@@ -6,5 +6,5 @@ draft: false
 aliases:
         - /verein/anmeldung/
 ---
-<!--<iframe src="https://docs.google.com/forms/d/1Y10kUhL4sSoedbRs_Gh5aJwUI7_mmX9EnSwm3x2R9AU/viewform" width="940" height="3000"></iframe>-->
-{{% formular "https://docs.google.com/forms/d/1Y10kUhL4sSoedbRs_Gh5aJwUI7_mmX9EnSwm3x2R9AU/viewform" %}}
+<iframe src="https://docs.google.com/forms/d/1Y10kUhL4sSoedbRs_Gh5aJwUI7_mmX9EnSwm3x2R9AU/viewform" width="940" height="3000"></iframe>
+<!--{{% formular "https://docs.google.com/forms/d/1Y10kUhL4sSoedbRs_Gh5aJwUI7_mmX9EnSwm3x2R9AU/viewform" %}}-->
