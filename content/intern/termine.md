@@ -27,11 +27,10 @@ Jugendvergleichsfliegen: Bundesentscheid | 26.09.19 | 29.09.19 | Laucha
 Abfliegen | 26.10.19 |
 Deutscher Segelfliegertag | 02.11.19 | | Freudenstadt
 Hessischer Segelfliegertag | 09.11.19 | | Michelstadt-Vielbrunn
-Weihnachtsfeier | voraussichtlich 13.12.2019 | | 
+Weihnachtsfeier | 13.12.2019, 19.00 Uhr | ca. 22.30 Uhr | Campus Ginnheim
 
 ### Vorgemerkte Mitglieder für Flugzeugnutzung
 
 **Wer** | **Flugzeug** | **Von** | **Bis** | **Ort**
 ---- | ---- | ---- | ---- | ----
-Marie | LS4 | 30.05.19 | 08.06.19 | Oerlinghausen - Juniorenqualifikation
-Julius | DG 300 | 30.05.19 | 08.06.19 | Oerlinghausen - Juniorenqualifikation
+Paul + Alu | ASG32 | 16.05.20 | 23.05.20 | Ohlstädter Vergleichsfliegen
