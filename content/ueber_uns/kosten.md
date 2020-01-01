@@ -47,7 +47,7 @@ LS 4 / DG 300 | 19ct (= 11,40 Euro/h) | 14ct (= 8,40 Euro/h)
 ASK 21 | 30ct (= 18 Euro/h) | 17ct (= 10,20 Euro/h)
 ASG 32| 53,33ct (= 32 Euro/h) | 53,33ct (= 32 Euro/h)
 **Kostenobergrenze** pro Kalenderjahr | 1700 Euro | 1400 Euro
-+ *Zu zahlen sind pro Flug* ***maximal 5 Zeitstunden,*** *die darüber hinaus geflogenen Zeit wird nicht berechnet.*
++ *Zu zahlen sind pro Flug* ***maximal 5 Zeitstunden (ASG32 maximal 6 Zeitstunden),*** *die darüber hinaus geflogenen Zeit wird nicht berechnet.*
 + *Für den* ***Ausbildungssbetrieb*** *fallen neben den Kosten für Flugzeit des Ausbildungsflugzeugs* ***keine weiteren Kosten*** *an.*
 + *Außergewöhnlich aktiven Fliegern wird ein* ***'Kostenairbag'*** *gewährt und maximal der Betrag der Kostenobergrenze berechnet.*
 

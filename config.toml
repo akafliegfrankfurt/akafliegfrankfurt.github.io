@@ -254,7 +254,7 @@ googleAnalytics = ""
             icon_pack = "fas"
             accent = "1"
             title = "Flugplatz"
-            text = "<p><b>GPS:</b> 50°53’33” N 09°15′ O </p><p><b>Pisten:</b> 03 / 21 | 15 &#47; 33, jeweils ~ 900 m, Gras </p><p><b>Funk:</b> SCHWALMSTADT INFO @ 128,860 MHz</p>**Telefon** (an Flugsaisonwochenenden erreichbar): <br> [06691/5405](tel:+4966915405)"
+            text = "<p><b>GPS:</b> 50°53’33” N 09°15′ O </p><p><b>Pisten:</b> 03 / 21 | 15 &#47; 33, jeweils ~ 900 m, Gras </p><p><b>Funk:</b> SCHWALMSTADT INFO @ 128,860 MHz</p><strong>Telefon</strong> (an Flugsaisonwochenenden erreichbar): <br> <a href='tel:+4966915405'>06691/5405</a>" 
             weight = 1
 
           [[params.landing.feature_icons.tile]]
@@ -287,7 +287,7 @@ googleAnalytics = ""
             accent = "1"
             title = "Büro und Werkstatt"
             text = "<img style=border-radius:10px; src='/img/home/werkstatt_ginnheim.jpg'>"
-            image = "Wöchentliche Werkstattarbeit:<br/>November bis März<br/>Dienstag und Freitag<br/>ca. 19.30 Uhr bis 21.30 Uhr<br>Telefon: [06691/5405](tel:+4966915405)"
+            image = "Wöchentliche Werkstattarbeit:<br/>November bis März<br/>Dienstag und Freitag<br/>ca. 19.30 Uhr bis 21.30 Uhr<br>Telefon: [069/79824-528](tel:+496979824528)"
             weight = 1
 
           [[params.landing.feature_icons_2.tile]]
