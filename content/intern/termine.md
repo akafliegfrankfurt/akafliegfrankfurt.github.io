@@ -11,23 +11,9 @@ aliases:
 
 **Ereignis** | **Von** | **Bis** | **Beschreibung**
 ---- | ---- | ---- | ----
-Jahreshauptversammlung | 22.02.19 |
-[OSTIV Met Panel-Tagung](https://ostiv.org/files/ostiv-docs/met/CFP2019.pdf) | 07.03.19 | 08.03.19 | OSTIV Met Panel-Tagung bei der Meteorologie der Goethe-Universität Frankfurt
-Akaflieg Frankfurt Wave Research Camp 2018 | 24.03.19 | 06.04.19 | für Scheininhaber und fortgeschrittene Flugschüler
-Anfliegen | 30.03.19 | | Anfliegen in Schwalmstadt-Ziegenhain
-Night of Science | | | Mit Flugzeug & Vortrag auf dem Campus Riedberg
-Kunstflugwoche | 29.06.19 | 07.07.19 | Die FSV Schwalm veranstaltet ihre Kunstflugwoche. In dieser Zeit ist nur F-Schlepp möglich.
-Akaflieg-Sommercamp in Ziegenhain | 15.07.19 | 19.07.19 | Theoretische und praktische Weiterbildung für fortgeschrittene Flugschüler sowie Gelegenheit zur Windenschulung
-[Sommerkurs 2019](/home/sommerkurs/) in Ziegenhain | 12.08.19 | 23.08.19 | Weitere Informationen im Abschnitt [Sommerkurs 2019](/home/sommerkurs/)
-Sommerfest | 10.08.19 | | Sommerfest anlässlich des 90 jährigen Bestehens der Akaflieg Frankfurt
-Alpenfliegen in Puimoisson | | | Anmeldung bei Alfred Ultsch
-[Jugendvergleichsfliegen](https://jugend.hlb-info.de/jugendvergleichsfliegen): Vorentscheide | 30.08.19 | 01.09.19 | Bensheim, Giessen, Amöneburg, Eschwege
-Jugendvergleichsfliegen: Hessenentscheid | 06.09.19 | 08.09.19 | Hepppenheim
-Jugendvergleichsfliegen: Bundesentscheid | 26.09.19 | 29.09.19 | Laucha
-Abfliegen | 26.10.19 |
-Deutscher Segelfliegertag | 02.11.19 | | Freudenstadt
-Hessischer Segelfliegertag | 09.11.19 | | Michelstadt-Vielbrunn
-Weihnachtsfeier | 13.12.2019, 19.00 Uhr | ca. 22.30 Uhr | Campus Ginnheim
+Theory Retreat | 14.02.20 | 16.02.20 | Theorieschulung in Zwingenberg, Anmeldung bei Christof Maul
+Akaflieg Frankfurt Wave Research Camp 2020 | 15.03.20 | 27.03.20 | für Scheininhaber und fortgeschrittene Flugschüler
+Anfliegen | 28.03.20 | | Anfliegen in Schwalmstadt-Ziegenhain
 
 ### Vorgemerkte Mitglieder für Flugzeugnutzung
 
