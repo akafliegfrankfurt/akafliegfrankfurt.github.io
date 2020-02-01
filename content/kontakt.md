@@ -10,18 +10,18 @@ aliases:
 <div class="row">
 
 {{% three_columns %}}
-**Postanschrift:** \\
-Akaflieg Frankfurt e.V. \\
-Ginnheimer Landstraße 39 \\
-60487 Frankfurt \\
+**Postanschrift:**<br>
+Akaflieg Frankfurt e.V.<br>
+Ginnheimer Landstraße 39 <br>
+60487 Frankfurt
 <br>
-**E-Mail** *(bevorzugt)*: \\
-**[vorstand@akaflieg-frankfurt.de](mailto:vorstand@akaflieg-frankfurt.de)** \\
+**E-Mail** *(bevorzugt)*: <br>
+**[vorstand@akaflieg-frankfurt.de](mailto:vorstand@akaflieg-frankfurt.de)** <br>
 <br>
-Flugplatztelefon: [06691/5405](tel:+4966915405) \\
-*(erreichbar an Flugsaisonwochenenden)* \\
-Werkstatttelefon: [069/79824-528](tel:+496979824528) \\
-*(erreichbar November-März \\
+Flugplatztelefon: [06691/5405](tel:+4966915405) <br>
+*(erreichbar an Flugsaisonwochenenden)* <br>
+Werkstatttelefon: [069/79824-528](tel:+496979824528) <br>
+*(erreichbar November-März <br>
 Di & Fr 19.30-21.30)*
 <br><br>
 {{% /three_columns %}}

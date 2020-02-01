@@ -11,6 +11,7 @@ aliases:
 
 **Ereignis** | **Von** | **Bis** | **Beschreibung**
 ---- | ---- | ---- | ----
+Jahreshauptversammlung | 28.02.20 |  | 
 Theory Retreat | 14.02.20 | 16.02.20 | Theorieschulung in Zwingenberg, Anmeldung bei Christof Maul
 Akaflieg Frankfurt Wave Research Camp 2020 | 15.03.20 | 27.03.20 | für Scheininhaber und fortgeschrittene Flugschüler
 Anfliegen | 28.03.20 | | Anfliegen in Schwalmstadt-Ziegenhain
