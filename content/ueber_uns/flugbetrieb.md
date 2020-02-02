@@ -43,7 +43,9 @@ Die andere Startart ist der Flugzeugschlepp, bei dem das Segelflugzeug mit einem
 
 {{% image_left "/img/flugbetrieb/700er.jpg" %}}
 Während der Ausbildung wird man überwiegend kürzere Flüge absolvieren, aber bei gutem Wetter sind der Flugzeit kaum Grenzen gesetzt. Dauerflüge von 5 Stunden sind keine Seltenheit; die Cracks in unserem Verein fliegen gerne Überlandstrecken von bis zu 500km und weiter.<br>
+
 *{{< newtab ">Flüge der Akaflieg Frankfurt ansehen" "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=C0&sc=&sp=2019" >}}*
+
 {{% /image_left %}}
 
 <a name="Vereinsleben">

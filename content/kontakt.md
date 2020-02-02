@@ -10,6 +10,7 @@ aliases:
 <div class="row">
 
 {{% three_columns %}}
+
 **Postanschrift:**<br>
 Akaflieg Frankfurt e.V.<br>
 Ginnheimer Landstraße 39 <br>
