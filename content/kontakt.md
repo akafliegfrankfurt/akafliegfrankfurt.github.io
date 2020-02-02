@@ -11,10 +11,10 @@ aliases:
 
 {{% three_columns %}}
 
-**Postanschrift:**<br>
-Akaflieg Frankfurt e.V.<br>
-Ginnheimer Landstraße 39 <br>
-60487 Frankfurt
+**Postanschrift:**
+<br>Akaflieg Frankfurt e.V.
+<br>Ginnheimer Landstraße 39
+<br>60487 Frankfurt
 <br>
 **E-Mail** *(bevorzugt)*: <br>
 **[vorstand@akaflieg-frankfurt.de](mailto:vorstand@akaflieg-frankfurt.de)** <br>
