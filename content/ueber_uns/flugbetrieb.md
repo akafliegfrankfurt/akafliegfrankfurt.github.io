@@ -20,6 +20,7 @@ aliases:
 
 <a name="Flugbetrieb">
 </a>
+
 **Wochenendschulung**
 <br>Alternativ zum Einstieg in die Segelfliegerei durch einen [Anfängerkurs](/home/sommerkurs) ist es auch möglich, eine Segelflugsausbildung im Zuge unseres **regulären Flugbetriebes** zu beginnen.
 Geflogen wird bei uns regelmäßig an allen Wochenenden von **April bis Oktober.**<br>
@@ -42,7 +43,7 @@ Die andere Startart ist der Flugzeugschlepp, bei dem das Segelflugzeug mit einem
 
 {{% image_left "/img/flugbetrieb/700er.jpg" %}}
 Während der Ausbildung wird man überwiegend kürzere Flüge absolvieren, aber bei gutem Wetter sind der Flugzeit kaum Grenzen gesetzt. Dauerflüge von 5 Stunden sind keine Seltenheit; die Cracks in unserem Verein fliegen gerne Überlandstrecken von bis zu 500km und weiter.<br>
-*[>Flüge der Akaflieg Frankfurt ansehen](https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=C0&sc=&sp=2019)*
+*{{< newtab ">Flüge der Akaflieg Frankfurt ansehen" "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=C0&sc=&sp=2019" >}}*
 {{% /image_left %}}
 
 <a name="Vereinsleben">
@@ -63,6 +64,7 @@ Viele Vereinsmitglieder verbringen gern das ganze Wochenende auf dem Flugplatz. 
 
 <a name="Exkursionen">
 </a>
+
 ## Segelflug fernab des Heimatflugplatzes
 
 {{% image_right "/img/flugbetrieb/fahrt.jpg" %}}
@@ -81,8 +83,8 @@ Die **Gebirgsfliegerei** ist auch für erfahrene Piloten eine Herausforderung un
 ### Wettbewerbssegelflug
 
 Wie in anderen Sportarten auch bieten **Wettbewerbe** im Segelflug die Möglichkeit, regional, auf Bundesebene und international mit anderen Segelflugpiloten in Kontakt zu treten, voneinander zu lernen, sich zu messen und gemeinsam von verschiedensten Flugplätzen Deutschlands und der Welt aus zu fliegen.
-<br>Dabei gibt es beispielsweise Wettbewerbe im Strecken- oder Kunstflug in verschiedenen Klassen für verschiedene Segelflugzeugtypen. \\
-Eine ausführliche Beschreibung des Wettbewerbsablaufs, der Wettbewerbsklassen und -aufgaben gibt es {{% newtab "hier" "/documents/flugbetrieb/wettbewerbe.pdf" %}}.
+<br>Dabei gibt es beispielsweise Wettbewerbe im Strecken- oder Kunstflug in verschiedenen Klassen für verschiedene Segelflugzeugtypen.
+<br>Eine ausführliche Beschreibung des Wettbewerbsablaufs, der Wettbewerbsklassen und -aufgaben gibt es {{% newtab "hier" "/documents/flugbetrieb/wettbewerbe.pdf" %}}.
 {{% /image_right %}}
 
 {{% image_right "/img/flugbetrieb/wett_haenger.jpg" %}}
