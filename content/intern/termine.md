@@ -15,6 +15,7 @@ Theory Retreat | 14.02.20 | 16.02.20 | Theorieschulung in Zwingenberg, Anmeldung
 Jahreshauptversammlung | 28.02.20 |  |
 Akaflieg Frankfurt Wave Research Camp 2020 | 15.03.20 | 27.03.20 | für Scheininhaber und fortgeschrittene Flugschüler
 Anfliegen | 28.03.20 | | Anfliegen in Schwalmstadt-Ziegenhain
+Sommerkurs | 03.08.20 | 14.08.20 | Anfängerkurs
 
 ### Vorgemerkte Mitglieder für Flugzeugnutzung
 
