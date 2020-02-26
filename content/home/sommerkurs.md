@@ -21,7 +21,7 @@ Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an,
 {{% button "Zur Anmeldung" "/home/sommerkurs_anmeldung/" %}}
 
 <!-- {{% video_frame "https://www.youtube-nocookie.com/embed/aHpMFq7XPA8" %}} <!--Video Sommerkurs 2015-->
-{{% video_frame "https://www.youtube.com/watch?v=TfSpdaJk72c" %}} <!--Video Sommerkurs 2017-->
+{{% video_frame "https://www.youtube-nocookie.com/embed/TfSpdaJk72c" %}} <!--Video Sommerkurs 2017-->
 
 <div class="row">
 {{% two_columns %}}
