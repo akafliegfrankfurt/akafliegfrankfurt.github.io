@@ -5,6 +5,8 @@ background: "wiese2.jpg"
 draft: false
 aliases:
     - /segelfliegen/sommerkurse/
+    - /segelfliegen/Sommerkurse/
+    - /sommerkurs/
 ---
 {{% image_right "/img/sommerkurs/start_leppo.JPG" %}}
 
