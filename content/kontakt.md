@@ -69,12 +69,12 @@ Di & Fr 19.30-21.30)*
 ---- | ----
 Ausbildungsleiter & Segelflugreferent | Christof Maul (E-Mail: [ausbildung@akaflieg-frankfurt.de](mailto:ausbildung@akaflieg-frankfurt.de))
 Technische Leitung | Dr. Thomas Gerber
-Kassierer | Tim Vogel
+Kassierer | Christoph Krettler
 Wissenschaft | Prof. Dr. Alfred Ultsch
 PR & Marketing | Tobias Kemmerer
 IT | Christopher Rogos / Heinz Plajer / Tobias Kemmerer
 Elektronik / Funk / Instrumente | Uwe März
 Liegenschaften / Motorgeräte | Hans-Jürgen Vogel
-Flugsicherheit |  Andreas Goshöfer
-Jugendwart | Paul Quander
+Flugsicherheit |  Paul Quander
+Jugendwart | Elena Mascus
 Datenschutzbeauftragter | Mathias Linkerhand (E-Mail: [datenschutz@akaflieg-frankfurt.de](mailto:datenschutz@akaflieg-frankfurt.de))
