@@ -92,7 +92,7 @@ Für Teilnehmer des **Sommerkurses** fallen für die Dauer des Lehrgangs außer 
 
 # Wohnwagenstellgebühren
 {{% image_right "/img/kosten/wowa.jpg" %}}
- | **Sommersaison** | **Ganzjahr**
+Tarif | **Sommersaison** | **Ganzjahr**
 ----|----|------
 **Stellgebühr Funktionär** | 140 Euro | 240 Euro
 **Stellgebühr Allgemein** | 168 Euro | 288 Euro
