@@ -83,8 +83,10 @@ http://chmaul.de/ | Sammlung verschiedener nützlicher Weblinks, zusammengetrage
 # Interne Dokumente
 [Ordner Intern](https://drive.google.com/open?id=1YFySrCrhZF1w79rgOONtUHzQjm88o9yH) | Enthält: Einteilung
 --- | ---
-Zugriff zu **'Ordner Intern'** ist nur mit **@akaflieg-frankfurt.de Zugangsdaten** möglich. \\
+
+Zugriff zu **'Ordner Intern'** ist nur mit **@akaflieg-frankfurt.de Zugangsdaten** möglich.
 <br>
+
 *Einrichtung:*
 
 + **Desktop**: [hier](https://accounts.google.com/AddSession/identifier?service=wise&continue=https%3A%2F%2Fdrive.google.com%2Faccounts%3FcontinueUrl%3Dhttps%3A%2F%2Fdrive.google.com%2Fopen%3Fid%253D1YFySrCrhZF1w79rgOONtUHzQjm88o9yH&continue=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1YFySrCrhZF1w79rgOONtUHzQjm88o9yH&flowName=GlifWebSignIn&flowEntry=AddSession) klicken und mit vorname.nachname@akaflieg-frankfurt.de anmelden
