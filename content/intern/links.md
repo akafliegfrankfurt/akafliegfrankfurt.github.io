@@ -34,7 +34,7 @@ _**Segelflugwetter**_ |
 [Segelflugwetter](https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/gafor/node_43) | Segelflugwetterbericht des DWD in Textform (inkl. Sonnenauf-/untergang, Bodenwind, Thermikbeginn etc.)
 [3-Tage-Prognose](https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/fbdl60_edzf_node.html) | 3-Tage-Prognose des DWD
 [Dämmerungszeiten](https://www.dwd.de/DE/fachnutzer/luftfahrt/teaser/luftsportberichte/edvk/node.html) | Dämmerungszeiten des DWD für Kassel/Calden
-[TopMeteo] (https://europe.topmeteo.eu/de/) | Segelflugwetter-Voraussagekarten *(Login Daten erforderlich)*
+[TopMeteo](https://europe.topmeteo.eu/de/) | Segelflugwetter-Voraussagekarten *(Login Daten erforderlich)*
 {{% /image_right %}}
 
 
@@ -81,11 +81,7 @@ http://chmaul.de/ | Sammlung verschiedener nützlicher Weblinks, zusammengetrage
 <a name="Ordner-Intern"></a>
 
 # Interne Dokumente
-[Ordner Intern](https://drive.google.com/open?id=1YFySrCrhZF1w79rgOONtUHzQjm88o9yH) | Enthält: Einteilung
---- | ---
-
-Zugriff zu **'Ordner Intern'** ist nur mit **@akaflieg-frankfurt.de Zugangsdaten** möglich.
-<br>
+Zugriff zu ['Ordner Intern'](https://drive.google.com/open?id=1YFySrCrhZF1w79rgOONtUHzQjm88o9yH) ist nur mit **@akaflieg-frankfurt.de Zugangsdaten** möglich.
 
 *Einrichtung:*
 
