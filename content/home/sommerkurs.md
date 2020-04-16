@@ -18,9 +18,11 @@ Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an,
 
 {{% /image_right %}}
 
-{{% button "Zur Anmeldung" "/home/sommerkurs_anmeldung/" %}}
+***Hinweis zur Corona-Situation:***  
+Wir beabsichtigen auch 2020, den Kurs wie geplant durchzuführen.  
+Sollte die Situation im August schlimmstenfalls einen Kurs unmöglich machen, werden bereits gezahlte Kursgebühren zurückerstattet.
 
-*Sollte es uns selbst im August Corona-bedingt oder aufgrund zu weniger Kursanmeldungen nicht möglich sein den Kurs durchzuführen, werden bereits gezahlte Kursgebühren zurückerstattet!*
+{{% button "Zur Anmeldung" "/home/sommerkurs_anmeldung/" %}}
 
 <!-- {{% video_frame "https://www.youtube-nocookie.com/embed/aHpMFq7XPA8" %}} <!--Video Sommerkurs 2015-->
 {{% video_frame "https://www.youtube-nocookie.com/embed/TfSpdaJk72c" %}} <!--Video Sommerkurs 2017-->
