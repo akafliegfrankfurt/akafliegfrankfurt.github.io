@@ -26,8 +26,8 @@ Tag der Naturwissenschaften | 22.09.20 | 23.09.20 | Campus Riedberg
 
 **Wer** | **Flugzeug** | **Von** | **Bis** | **Ort**
 ---- | ---- | ---- | ---- | ----
-Christoph + Joachim | 2 Einsitzer | 25.04.20 | 02.05.20 | Wetzlarer Woche
 Paul + Alu | ASG32 | 16.05.20 | 23.05.20 | Ohlstädter Vergleichsfliegen
 Joachim | 1 Einsitzer | 05.06.20 | 13.06.20 | Meißner Cup
-Elena + Marie | 2 Einsitzer | 03.07.20 | 11.07.20 | DM Frauen Brandenburg
-Christopher + Julius | 2 Einsitzer | 06.08.20 | 15.08.20 | Qualifikation Lachen
+Elena | ASG32 | 11.07.20 | 18.07.20 | Feuerstein
+Christoph + Joachim | 2 Einsitzer | 01.08.20 | 07.08.20 | Wetzlarer Woche
+Elena | 1 Einsitzer | 03.08.20 | 14.08.20 | DM Junioren
