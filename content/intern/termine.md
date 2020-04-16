@@ -14,7 +14,7 @@ aliases:
 Theory Retreat | 14.02.20 | 16.02.20 | Theorieschulung in Zwingenberg, Anmeldung bei Christof Maul
 Jahreshauptversammlung | 28.02.20 | | HV am Campus Ginnheim
 Akaflieg Frankfurt Wave Research Camp 2020 | 15.03.20 | 27.03.20 | Gebirgsfliegen für Scheininhaber und fortgeschrittene Flugschüler
-Anfliegen | 28.03.20 | | Anfliegen in Schwalmstadt-Ziegenhain
+Anfliegen | ??.??.20 | | Flugbetrieb momentan Corona-bedingt ausgesetzt (Saisonstart-Datum folgt, sobald es absehbar ist)
 NoS | 19.06.20 | | Night of Science am Campus Riedberg
 Campus-Sommerfest | 26.06.20 | | Sommerfest der Goethe Universität am Campus Westend
 Fortgeschrittenenwoche | 20.07.20 | 24.07.20 | Fluglager für Fortgeschrittenen Flugschüler
