@@ -1,7 +1,7 @@
 ---
 title: "Flugbetrieb"
 date: 2019-03-14T16:57:14+01:00
-background: "clouds1.jpg"
+background: "clouds7.jpg"
 draft: false
 aliases:
         - /segelfliegen/wie-werde-ich-segelflieger/
