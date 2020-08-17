@@ -19,7 +19,7 @@ NoS | 19.06.20 | | Night of Science am Campus Riedberg
 Campus-Sommerfest | 26.06.20 | | Sommerfest der Goethe Universität am Campus Westend
 Fortgeschrittenenwoche | 20.07.20 | 24.07.20 | Fluglager für Fortgeschrittenen Flugschüler
 Sommerkurs | 10.08.20 | 21.08.20 | Akaflieg-Anfängerkurs
-Sommerfest | 22.08.20 | | Akaflieg Sommerfest in Ziegenhain
+Sommerfest | leider abgesagt | | Akaflieg Sommerfest in Ziegenhain
 Tag der Naturwissenschaften | 22.09.20 | 23.09.20 | Campus Riedberg
 
 ### Vorgemerkte Mitglieder für Flugzeugnutzung

@@ -240,7 +240,7 @@ googleAnalytics = ""
           image = "/img/home/FE_960.png"
           title = "OLC - Online Gliding Contest"
           text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen."
-          url = "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=C0&sc=&sp=2019"
+          url = "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=DE&sc=he&sp=2020"
           newtab = "True"
           button_text="Flüge der Akaflieg ansehen"
 
@@ -254,7 +254,7 @@ googleAnalytics = ""
             icon_pack = "fas"
             accent = "1"
             title = "Flugplatz"
-            text = "<p><b>GPS:</b> 50°53’33” N 09°15′ O </p><p><b>Pisten:</b> 03 / 21 | 15 &#47; 33, jeweils ~ 900 m, Gras </p><p><b>Funk:</b> SCHWALMSTADT INFO @ 128,860 MHz</p><strong>Telefon</strong> (an Flugsaisonwochenenden erreichbar): <br> <a href='tel:+4966915405'>06691/5405</a>" 
+            text = "<p><b>GPS:</b> 50°53’33” N 09°15′ O </p><p><b>Pisten:</b> 03 / 21 | 15 &#47; 33, jeweils ~ 900 m, Gras </p><p><b>Funk:</b> SCHWALMSTADT INFO @ 128,860 MHz</p><strong>Telefon</strong> (an Flugsaisonwochenenden erreichbar): <br> <a href='tel:+4966915405'>06691/5405</a>"
             weight = 1
 
           [[params.landing.feature_icons.tile]]
