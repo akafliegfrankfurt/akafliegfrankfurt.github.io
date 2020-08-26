@@ -96,7 +96,7 @@
 							<div class="features-row">
 								{{ range $index, $key := $tiles}}
 									<section>
-										{{ if ($key.icon) "" }}
+										{{ if ($key.icon) }}
 										<span class="icon major {{ $key.icon_pack }} {{ $key.icon }} accent{{- $key.accent -}}"></span>
 										{{ end }}
 										<h2>{{ $key.title }}</h2>
