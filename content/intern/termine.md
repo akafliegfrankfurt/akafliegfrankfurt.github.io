@@ -8,16 +8,18 @@ aliases:
 ---
 
 ### Terminplan
+Termine für 2021 gelten zurzeit noch unter Vorbehalt.
 
 **Ereignis** | **Von** | **Bis** | **Beschreibung**
 ---- | ---- | ---- | ----
-Theory Retreat | 14.02.20 | 16.02.20 | Theorieschulung in Zwingenberg, Anmeldung bei Christof Maul
-Jahreshauptversammlung | 28.02.20 | | HV am Campus Ginnheim
-Akaflieg Frankfurt Wave Research Camp 2020 | 15.03.20 | 27.03.20 | Gebirgsfliegen für Scheininhaber und fortgeschrittene Flugschüler
-Anfliegen | 09.05.20 | | Anfliegen unter Auflagen
-Fortgeschrittenenwoche | 20.07.20 | 24.07.20 | Fluglager für Fortgeschrittenen Flugschüler
-Sommerkurs | 10.08.20 | 21.08.20 | Akaflieg-Anfängerkurs
-Sommerfest | leider abgesagt | | Akaflieg Sommerfest in Ziegenhain
+Weihnachtsfeier 2020 | leider abgesagt | | Akaflieg Weihnachtsfeier
+Theorie Unterricht | Winter 2020 | wöchentlich ab Dezember | Digitale Theorieschulung, Anmeldung und Termine bei [Christof Maul](/kontakt)
+Jahreshauptversammlung | tbd | |
+Akaflieg Frankfurt Wave Research Camp 2021 | 20.03.21 | 03.04.21 | Gebirgsfliegen für Scheininhaber und fortgeschrittene Flugschüler
+Anfliegen | 27./28.03.21 | | Anfliegen in Ziegenhain
+Fortgeschrittenenwoche | 26.07.21 | 30.07.21 | Fluglager für Fortgeschrittenen Flugschüler
+Sommerkurs | 09.08.21 | 20.08.21 | Akaflieg-Anfängerkurs
+Sommerfest | tbd | | Akaflieg Sommerfest in Ziegenhain
 
 ### Vorgemerkte Mitglieder für Flugzeugnutzung
 

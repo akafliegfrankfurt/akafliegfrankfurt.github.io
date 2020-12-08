@@ -14,13 +14,13 @@ Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an,
 <br>Es sind **keine theoretischen oder praktischen Vorkenntnisse nötig!**
 <br>Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedingungen ist **der erste Soloflug bereits zum Ende des Kurses möglich**, sonst kann er im Rahmen der regulären [Wochenendschulung](/ueber_uns/flugbetrieb/#wochenendschulung) bis zum Saisonende absolviert werden.
 
-**Kursdaten: 10.08.20 bis 21.08.20**
+**Kursdaten: 09.08.20 bis 20.08.21**
 
 {{% /image_right %}}
 
-***Hinweis zur Corona-Situation:***  
+<!--***Hinweis zur Corona-Situation:***  
 Wir beabsichtigen auch 2020, den Kurs wie geplant durchzuführen.  
-Sollte die Situation im August schlimmstenfalls einen Kurs unmöglich machen, werden bereits gezahlte Kursgebühren zurückerstattet.
+Sollte die Situation im August schlimmstenfalls einen Kurs unmöglich machen, werden bereits gezahlte Kursgebühren zurückerstattet.-->
 
 {{% button "Zur Anmeldung" "/home/sommerkurs_anmeldung/" %}}
 
