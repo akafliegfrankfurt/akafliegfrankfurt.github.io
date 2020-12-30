@@ -18,7 +18,7 @@ Jahreshauptversammlung | tbd | |
 Akaflieg Frankfurt Wave Research Camp 2021 | 20.03.21 | 03.04.21 | Gebirgsfliegen für Scheininhaber und fortgeschrittene Flugschüler
 Anfliegen | 27./28.03.21 | | Anfliegen in Ziegenhain
 Fortgeschrittenenwoche | 26.07.21 | 30.07.21 | Fluglager für Fortgeschrittenen Flugschüler
-Sommerkurs | 09.08.21 | 20.08.21 | Akaflieg-Anfängerkurs
+Sommerkurs | 16.08.21 | 27.08.21 | Akaflieg-Anfängerkurs
 Sommerfest | tbd | | Akaflieg Sommerfest in Ziegenhain
 
 ### Vorgemerkte Mitglieder für Flugzeugnutzung
