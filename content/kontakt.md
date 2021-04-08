@@ -51,8 +51,8 @@ Di & Fr 19.30-21.30)*
 
 {{% three_columns %}}
 ### 2. Vorsitzender
-#### [Julius Lübstorf](mailto:vorstand@akaflieg-frankfurt.de)
-{{% image  "/img/kontakt/julius2.jpg" %}}
+#### [Paul Quander](mailto:vorstand@akaflieg-frankfurt.de)
+{{% image  "/img/kontakt/paul.jpg" %}}
 {{% /three_columns %}}
 
 {{% three_columns %}}
@@ -72,9 +72,9 @@ Technische Leitung | Dr. Thomas Gerber
 Kassierer | Christoph Krettler
 Wissenschaft | Prof. Dr. Alfred Ultsch
 PR & Marketing | Tobias Kemmerer
-IT | Christopher Rogos / Heinz Plajer / Tobias Kemmerer
+IT | Christopher Rogos / Heinz Plajer / Marie Schade
 Elektronik / Funk / Instrumente | Uwe März
 Liegenschaften / Motorgeräte | Hans-Jürgen Vogel
-Flugsicherheit |  Paul Quander
+Flugsicherheit |  Christopher Rogos
 Jugendwart | Elena Mascus
 Datenschutzbeauftragter | Mathias Linkerhand (E-Mail: [datenschutz@akaflieg-frankfurt.de](mailto:datenschutz@akaflieg-frankfurt.de))
