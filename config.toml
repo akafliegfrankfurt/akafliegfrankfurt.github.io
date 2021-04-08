@@ -239,10 +239,10 @@ googleAnalytics = ""
         [[params.landing.feature_images.tile]]
           image = "/img/home/FE_960.png"
           title = "OLC - Online Gliding Contest"
-          text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen."
+          text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen. Unsere aktuellsten Flüge findet ihr auch auf [WeGlide](https://weglide.org/flight/map?club=Akaflieg%2520Frankfurt,107&order_by=-scoring_date)."
           url = "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=DE&sc=he&sp=2020"
           newtab = "True"
-          button_text="Flüge der Akaflieg ansehen"
+          button_text="OLC Flüge der Akaflieg ansehen"
 
         [params.landing.feature_icons]
           #These feature icons look best if there's an even number of them.
