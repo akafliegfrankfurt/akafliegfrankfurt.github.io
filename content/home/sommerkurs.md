@@ -59,6 +59,7 @@ ___
 ### Mitzubringen sind
 + Schlafsack oder Bettzeug
 + festes Schuhwerk
++ Wechselschuhe oder Gummistiefel (falls die Wiese morgens nass ist)
 + wetterfeste Kleidung
 + entsprechende sommerliche Variante
 + ein Thermikhut, da es unter der Haube recht schnell heiß wird

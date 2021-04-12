@@ -57,7 +57,13 @@ googleAnalytics = ""
     name = "Wochenendschulung"
     url = "/ueber_uns/flugbetrieb#Wochenendschulung"
     parent = "Home"
-    weight = 3
+    weight = 4
+
+  [[menu.main]]
+    name = "Streckenflüge"
+    url = "/home/fluege"
+    parent = "Home"
+    weight = 5
 
   [[menu.main]]
     name = "Über Uns"
@@ -204,6 +210,12 @@ googleAnalytics = ""
         [[params.landing.banner.button]]
         url = "/galerie"
         text = "Galerie"
+        type = "special"
+
+        [[params.landing.banner.button]]
+        url = "/home/fluege"
+        text = "Streckenflüge"
+        type = "special"
 
     #Details for the box below the banner
     [params.landing.services]
@@ -237,12 +249,12 @@ googleAnalytics = ""
           button_text = "Kontakt"
 
         [[params.landing.feature_images.tile]]
-          image = "/img/home/FE_960.png"
-          title = "OLC - Online Gliding Contest"
-          text = "Das OLC Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen. Unsere aktuellsten Flüge findet ihr auch auf [WeGlide](https://weglide.org/flight/map?club=Akaflieg%2520Frankfurt,107&order_by=-scoring_date)."
-          url = "https://www.onlinecontest.org/olc-3.0/gliding/club.html?cc=195&st=olcp&rt=olc&c=DE&sc=he&sp=2020"
-          newtab = "True"
-          button_text="OLC Flüge der Akaflieg ansehen"
+          image = "/img/home/weglide5.png"
+          title = "WeGlide"
+          text = "Das WeGlide Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen."
+          url = "/home/fluege"
+          #newtab = "True"
+          button_text="Aktuelle Flüge der Akaflieg ansehen"
 
         [params.landing.feature_icons]
           #These feature icons look best if there's an even number of them.
@@ -250,7 +262,7 @@ googleAnalytics = ""
 
           #Accent is a colour defined in the CSS file. Choose between 1 and 5
           [[params.landing.feature_icons.tile]]
-            icon = "fa-plane"
+            icon = "fa-plane-departure"
             icon_pack = "fas"
             accent = "1"
             title = "Flugplatz"
@@ -295,6 +307,26 @@ googleAnalytics = ""
             image = "<div class='map-container'><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2557.529681602843!2d8.6440726!3d50.1325222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd091455d433ff%3A0x4ddc44084c0d4abf!2sAkaflieg+Frankfurt+e.V.+-+Werkstatt!5e0!3m2!1sde!2sde!4v1555053968035!5m2!1sde!2sde' width='350' height='450' frameborder='0' style='border:0' allowfullscreen></iframe></div>"
             text = "*Lage Werkstatt und Büro*"
             weight = 1
+
+            [params.landing.feature_icons_3]
+              #These feature icons look best if there's an even number of them.
+              enable = false
+
+            [[params.landing.feature_icons_3.tile]]
+              icon = "fa-plane"
+              icon_pack = "fas"
+              accent = "1"
+              title = "Streckenflüge"
+              text = "<img style=border-radius:10px; src='/img/home/weglide.png'>"
+              #image = "Wöchentliche Werkstattarbeit:<br/>November bis März<br/>Dienstag und Freitag<br/>ca. 19.30 Uhr bis 21.30 Uhr<br>Telefon: [069/79824-528](tel:+496979824528)"
+              weight = 1
+
+            [[params.landing.feature_icons_3.tile]]
+              accent = "1"
+              image = "*Aktuellste Flüge der Akaflieg Frankfurt:*"
+              text = "<div class='map-container'><iframe src='https://weglide.org/embedded/club/107' width='350' height='450' frameborder='0' style='border:0' allowfullscreen></iframe></div>"
+
+              weight = 1
 
     [params.footer]
       copyright = ["<strong>[Kontakt:](/kontakt)</strong><br/>*vorstand@akaflieg-frankfurt.de*<br/>Akaflieg Frankfurt<br/>Ginnheimer Landstraße 39<br/>60487 Frankfurt am Main<br><br>[Impressum](/impressum)",

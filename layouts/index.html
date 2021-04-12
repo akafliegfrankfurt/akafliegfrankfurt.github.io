@@ -112,6 +112,35 @@
 							<!-- {{ partial "map" . }} -->
 						</section>
 					{{ end }}
+
+					{{ if .Site.Params.Landing.Feature_icons_3.enable }}
+						{{ $tiles := .Site.Params.Landing.Feature_icons_3.tile }}
+						{{ $len := (len $tiles) }}
+						<a name="feature-icons"></a>
+						<section class="box special features">
+							<!--<header class="major">
+								<h2>{{ .Site.Params.Landing.Anreise.title }}</h2><a name="anreise"></a>
+							</header>-->
+							<div class="features-row">
+								{{ range $index, $key := $tiles}}
+									<section>
+										{{ if ($key.icon) }}
+										<span class="icon major {{ $key.icon_pack }} {{ $key.icon }} accent{{- $key.accent -}}"></span>
+										{{ end }}
+										<h2>{{ $key.title }}</h2>
+										<p>{{ $key.image | markdownify }}</p>
+										<p>{{ $key.text | markdownify }}</p>
+									</section>
+									{{ if and (mod $index 2) (lt (add $index 1) $len) }}
+											</div>
+											<div class="features-row">
+									{{ end }}
+								{{ end }}
+							</div>
+							<!-- {{ partial "map" . }} -->
+						</section>
+					{{ end }}
+
 				</section>
 
 				<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
