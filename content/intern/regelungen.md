@@ -66,7 +66,7 @@ nach Lizenzerwerb:
 <br>ODER
 + 30 Starts  
 
-\+Überprüfungsstart mit Fluglehrer, der die Kompetenz zur Mitnahme von Fluggästen bestätigt
+\+ Überprüfungsstart mit Fluglehrer, der die Kompetenz zur Mitnahme von Fluggästen bestätigt
 
 ## Voraussetzungen zum Erwerb der Kunstflugberechtigung
 nach Lizenzerwerb:
