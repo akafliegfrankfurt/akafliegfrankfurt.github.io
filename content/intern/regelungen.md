@@ -35,7 +35,7 @@ ASG 32 | <ul><li>Gültiger SPL</li><li>Windenfahrerschein</li></ul> | Gemäß du
 
 ## Voraussetzungen zum SPL-Lizenzerwerb
 {{% image_right "/img/regelungen/vario.jpg" %}}
-+ Mindestalter 16 Jahre (14 Jahre zu Ausbildungsbeginn)
++ Mindestalter 16 Jahre (14 Jahre für erste Alleinflüge)
 + Mindestens 15 Flugstunden, davon
 + ... mindestens 10 Stunden Flugausbildung mit Lehrer
 + ... mindestens 2 Stunden überwachter Alleinflug
@@ -64,7 +64,9 @@ nach Lizenzerwerb:
 
 + 10 Stunden Flugzeit als PIC
 <br>ODER
-+ 30 Starts
++ 30 Starts  
+
+\+Überprüfungsstart mit Fluglehrer, der die Kompetenz zur Mitnahme von Fluggästen bestätigt
 
 ## Voraussetzungen zum Erwerb der Kunstflugberechtigung
 nach Lizenzerwerb:
