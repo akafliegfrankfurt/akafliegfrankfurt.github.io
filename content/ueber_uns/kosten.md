@@ -82,10 +82,10 @@ keine Funktion | (Anzahl Starts + Anzahl Flugstunden) * 2 | 40 Stunden
 
 **Aktiv (Schüler/Student)** | 50 Euro
 ----|----
-**Vollzahler** | 160 Euro
+**Aktiv (Vollzahler)** | 160 Euro
 
 ### Hinweis
-Für Teilnehmer des **Sommerkurses** fallen für die Dauer des Lehrgangs außer der Kursgebühr an sich **keine Mitgliedsbeiträge oder weitere Flugkosten** an!
+Für Teilnehmer des **Sommerkurses** fallen für Flüge im Rahmen des Lehrgangs außer der Kursgebühr an sich **keine Mitgliedsbeiträge oder weitere Flugkosten** an!
 <br/>*Bis zum Saisonende des jeweiligen Jahres können Kursschüler, wenn sie über die 50 Kursstarts hinaus fliegen möchten, ohne Mitgliedbeiträge zahlen zu müssen zu regulären Akaflieg Tarifen am Vereinsflugbetrieb teilnehmen.*
 
 <a name="Wohnwagenstellgebuehren"> </a>

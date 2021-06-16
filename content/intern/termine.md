@@ -13,7 +13,7 @@ Termine für 2021 gelten unter Vorbehalt.
 **Ereignis** | **Von** | **Bis** | **Beschreibung**
 ---- | ---- | ---- | ----
 Weihnachtsfeier 2020 | leider abgesagt | | Akaflieg Weihnachtsfeier
-[Theorie Unterricht](\https://chmaul.de/theory) | Winter 20/21 | wöchentlich ab Dezember | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
+[Theorie Unterricht](https://chmaul.de/theory) | Winter 20/21 | wöchentlich ab Dezember | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
 Jahreshauptversammlung | 26.03.2021 | | Digitale Hauptversammlung
 Akaflieg Frankfurt Wave Research Camp 2021 | 20.03.21 | 03.04.21 | Leider ausgefallen...
 Anfliegen | 27./28.03.21 | | Anfliegen in Ziegenhain (unter Auflagen)
