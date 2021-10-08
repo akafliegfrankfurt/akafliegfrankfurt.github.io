@@ -57,7 +57,7 @@ Di & Fr 19.30-21.30)*
 
 {{% three_columns %}}
 ### Geschäftsführerin
-#### [Marie Schade](mailto:vorstand@akaflieg-frankfurt.de)
+#### [Marie Rogos](mailto:vorstand@akaflieg-frankfurt.de)
 {{% image  "/img/kontakt/puimarie2.jpg" %}}
 {{% /three_columns %}}
 </div>
