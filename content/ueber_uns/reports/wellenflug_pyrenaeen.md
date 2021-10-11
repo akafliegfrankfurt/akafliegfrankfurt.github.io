@@ -107,8 +107,6 @@ Wenigstens ist nun schon ein Flugplatz weiter östlich in Reichweite, sodass wir
 
 Der Flieger setzt auf, rollt aus und bleibt stehen. Erstmal tief ein- und ausatmen. Geschafft! Wir haben Grund unter dem Fahrwerk, zwar französischen, aber das ist egal. Laufen auf ihm geht nach so langem Sitzen nicht mehr wirklich. Das bemerke ich, als ich beim Aussteigen aus dem Flieger falle.
 
-{{% photo_caption "/img/reports/wellenflug_pyr/wpyr_10.jpg" "60%" "Trotz allem müssen Christof und ich ziemlich grinsen." %}}
-
 {{% photo_caption "/img/reports/wellenflug_pyr/wpyr_11.jpg" "60%" "Bevor wir sämtliche Gliedmaßen fertig gestreckt und uns gesammelt haben, ist auch schon Sébastien mit seiner Golfette da und heißt uns herzlich Willkommen in Saint-Gaudens." %}}
 
 Wir bringen die Bravo Yankee über Nacht hier auf dem Flugplatz unter. Sie ist nicht die einzige Spanierin unter all den Franzosen, sondern hat gute Gesellschaft von der Lima Echo, einer alten Bekannten aus dem Heimathangar - Sergi ist es wie uns ergangen, war eine Stunde vor uns mit seiner Lak hier gelandet und schon auf dem Rückweg nach La Cerdanya.
@@ -123,8 +121,6 @@ Bei französischen Köstlichkeiten und einem erfrischenden Bierchen lassen wir d
 Es ist vielleicht nicht der Plan gewesen hier außenzulanden, aber wir sind uns einig, dass wir heute einen ziemlich tollen Flug hatten und, dass es gar nicht so schlecht ist, morgens in Spanien zu starten, um über den Pyrenäen 800 Kilometer in der Luft ohne Motor zurückzulegen bis einem die Natur zeigt, dass sie doch mächtiger ist als man selbst in seinem Segelflugzeug und einen am Abend zur Landung in Frankreich zwingt. Unser Grinsen ist zumindest immer noch nicht aus unseren Gesichtern verschwunden. Wahrscheinlich sind wir noch immer etwas „high“.
 
 Am nächsten Tag ist leider zu schlechtes Wetter, als dass wir uns von Gilbert durch die Luft hätten abholen lassen können. Das bedeutet, dass wir am Boden nach La Cerdanya zurückkehren müssen. Wir geben Robert Bescheid, der sich gleich auf den Weg macht. Es wird wohl trotzdem noch dauern bis er mit dem Volvo und dem Bravo-Yankee-Hänger über die Passstraßen auf die andere Seite der Pyrenäen gefahren ist.
-
-{{% photo_caption "/img/reports/wellenflug_pyr/wpyr_07.jpg" "30%" %}}
 
 Uns bleibt also nichts anderes übrig als zu warten, ausgiebig zu frühstücken und das beste Café in Saint-Gaudens auszutesten. Wir werden neugierig beäugt, müssen exotisch aussehen. Mit unserer viel zu warmen Fliegerkleidung und
 der zusammengebundenen, vollgestopften Hose, die ich mir als Gepäckstück über die Schulter werfe, sind wir nicht einzuordnen. Na so sieht man nunmal aus, wenn man vom Himmel fällt!
