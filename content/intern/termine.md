@@ -20,7 +20,7 @@ Anfliegen | 27./28.03.21 | | Anfliegen in Ziegenhain (unter Auflagen)
 Fortgeschrittenenwoche | 02.08.21 | 06.08.21 | Fluglager für fortgeschrittene Flugschüler
 Sommerkurs | 16.08.21 | 27.08.21 | Akaflieg-Anfängerkurs
 Sommerfest | 14.08.21 | | Akaflieg Sommerfest in Ziegenhain
-Weihnachtsfeier | 03.12.2021 | | Akaflieg Weihnachtsfeier, dieses Jahr in Offenbach (2G), siehe Einladung per Mail
+Alpenfluglager | 28.08.2021 | 12.09.2021 | Fluglager in Puimoisson, Organisation durch Alfred Ultsch
 
 ### Vorgemerkte Mitglieder für Flugzeugnutzung
 

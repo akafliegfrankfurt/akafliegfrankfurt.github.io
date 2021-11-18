@@ -4,10 +4,9 @@ date: 2019-03-14T16:57:54+01:00
 background: "clouds7.jpg"
 draft: false
 ---
-
 {{% image_right "/img/flugzeugpark/32.JPG" %}}
 # ASG 32 FA
-Einsatzzweck: | Streckenflug und Wettbewerbe
+Einsatzzweck: | Wettbewerbe, Streckenflug und Fortgeschrittenenschulung
 --- | ---
 Hersteller: | Alexander Schleicher Flugzeugbau
 im Verein seit: | April 2019
@@ -52,15 +51,3 @@ Einsatzzweck: | Anfängerschulung, Kunstflug
 Hersteller: | Alexander Schleicher Flugzeugbau
 im Verein seit: | 2005
 {{% /image_right %}}
-
----
-
-{{% image_left "/img/flugzeugpark/discus_schweiz2.jpeg" %}}
-# Discus b YS
-Einsatzzweck: | Streckenflug und Wettbewerbe
---- | ---
-Hersteller: | Schempp-Hirth
-im Verein ab: | Saison 2022 (Wird momentan vorbereitet und umgemeldet)
-{{% /image_left %}}
-
----
