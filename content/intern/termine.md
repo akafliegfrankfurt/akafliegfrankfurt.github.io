@@ -20,7 +20,7 @@ Sommerfest | 14.08.21 | | Akaflieg Sommerfest in Ziegenhain
 Weihnachtsfeier | 03.12.2021 | | Akaflieg Weihnachtsfeier, dieses Jahr in Offenbach (2G), siehe Einladung per Mail-->
 [Theorie Unterricht](https://chmaul.de/theory) | Winter 21/22 | wöchentlich ab Ende November | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
 Jahreshauptversammlung | 25.02.2022 | | (voraussichtlich digitale) Hauptversammlung (Einladung folgt per Email)
-Akaflieg Frankfurt Wave Research Camp 2021 | 20.03.22 | 03.04.22 | Gebirgsfliegerei in den Pyrenäen
+<!--Akaflieg Frankfurt Wave Research Camp 2022 | 19.03.22 | 03.04.22 | Gebirgsfliegerei in den Pyrenäen-->
 Anfliegen | 26./27.03.22 | | Anfliegen und Ausräumen in Ziegenhain
 Sommerfest | 13.08.22 | | Akaflieg Sommerfest in Ziegenhain
 Sommerkurs | 15.08.22 | 26.08.22 | Akaflieg-Anfängerkurs
