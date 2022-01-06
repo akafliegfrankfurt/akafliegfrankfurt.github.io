@@ -22,8 +22,8 @@ aliases:
 Flugplatztelefon: [06691/5405](tel:+4966915405) <br>
 *(erreichbar an Flugsaisonwochenenden)* <br>
 Werkstatttelefon: [069/79824-528](tel:+496979824528) <br>
-*(erreichbar November-März <br>
-Di & Fr 19.30-21.30)*
+<!--*(erreichbar November-März <br>
+Di & Fr 19.30-21.30)*-->
 <br><br>
 {{% /three_columns %}}
 
