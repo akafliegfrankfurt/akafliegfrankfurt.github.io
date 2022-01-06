@@ -8,7 +8,6 @@ aliases:
 ---
 
 ### Terminplan
-Termine für 2021 gelten unter Vorbehalt.
 
 **Ereignis** | **Von** | **Bis** | **Beschreibung**
 ---- | ---- | ---- | ----
