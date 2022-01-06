@@ -289,9 +289,10 @@ googleAnalytics = ""
             text = "<b>... mit dem Auto:</b><br><b>--></b> Parkplätze stehen vor unserer Unterkunft zur Verfügung<br><br><b>... mit dem Zug:</b><br><b>--></b>Ausstieg Bahnhof Treysa (mit hessischem Semesterticket kostenlos zu erreichen) <br><b>--></b> 5km von Treysa zum Flugplatz mit dem Fahrrad/[Abholung vereinbaren](/kontakt)"
             weight = 1
 
+          # set enable to true, to show Werkstatt
           [params.landing.feature_icons_2]
             #These feature icons look best if there's an even number of them.
-            enable = true
+            enable = false
 
           [[params.landing.feature_icons_2.tile]]
             icon = "fa-tools"
