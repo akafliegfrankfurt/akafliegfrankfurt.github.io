@@ -106,9 +106,11 @@ Zugriff zu ['Ordner Intern'](https://drive.google.com/open?id=1YFySrCrhZF1w79rgO
 --- | ---
 {{< newtab "Colibri" "/documents/links/colibri(T,WJ).pdf" >}} | Logger ASK21, LS4
 {{< newtab "LX160s" "/documents/links/LX160s(WJ).pdf" >}} | WJ
-LX Eos | ASG 32
-
-<!-- {{< newtab "LX Eos" "/documents/links/documentname.pdf" >}} | ASG 32 -->
+{{< newtab "LX Eos" "/documents/links/D-0832_LX Eos_users_manual_1_5_GER(FA).pdf" >}} | ASG32
+{{< newtab "LX Eos" "/documents/links/D-0832_Transponder_Handbuch(FA).pdf" >}} | Transponder ASG32  
+{{< newtab "LX9070" "/documents/links/Segelflugrechner_LX9070_Operations_Manual(YS).pdf" >}} | YS  
+{{< newtab "Funkgerät Trig TY91" "/documents/links/Funkgerät_Trig_TY91_Operations_Manual(YS).pdf" >}} | Funkgerät YS  
+{{< newtab "TT22 Transponder" "/documents/links/Transponder_Trig_TT22_Bedienung(YS).pdf" >}} | Transponder YS  
 
 <a name="Winde"></a>
 
