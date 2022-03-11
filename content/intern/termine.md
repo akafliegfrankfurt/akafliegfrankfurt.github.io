@@ -16,7 +16,7 @@ Jahreshauptversammlung | 25.02.2022 | | (voraussichtlich digitale) Hauptversamml
 Anfliegen | 26./27.03.22 | | Anfliegen und Ausräumen in Ziegenhain
 Sommerfest | 13.08.22 | | Akaflieg Sommerfest in Ziegenhain
 Sommerkurs | 15.08.22 | 26.08.22 | Akaflieg-Anfängerkurs
-Abfliegen | 29./30.10.22 | | Abfliegen und Einräumen in Ziegenhain
+Abfliegen | 22./23.10.22 | | Abfliegen und Einräumen in Ziegenhain
 
 <!--Akaflieg Frankfurt Wave Research Camp 2022 | 19.03.22 | 03.04.22 | Gebirgsfliegerei in den Pyrenäen
 Fortgeschrittenenwoche | 02.08.21 | 06.08.21 | Fluglager für fortgeschrittene Flugschüler
