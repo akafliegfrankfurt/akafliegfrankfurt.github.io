@@ -58,7 +58,7 @@ Di & Fr 19.30-21.30)*-->
 {{% three_columns %}}
 ### Geschäftsführerin
 #### [Marie Rogos](mailto:vorstand@akaflieg-frankfurt.de)
-{{% image  "/img/kontakt/puimarie2.jpg" %}}
+{{% image  "/img/kontakt/bitterwasser2.jpg" %}}
 {{% /three_columns %}}
 </div>
 
@@ -67,14 +67,14 @@ Di & Fr 19.30-21.30)*-->
 
 **Funktion** | **Name**
 ---- | ----
-Ausbildungsleiter & Segelflugreferent | Christof Maul (E-Mail: [ausbildung@akaflieg-frankfurt.de](mailto:ausbildung@akaflieg-frankfurt.de))
+Ausbildungsleiter & Referent für Wissenschaft | Christof Maul (E-Mail: [ausbildung@akaflieg-frankfurt.de](mailto:ausbildung@akaflieg-frankfurt.de))
 Technische Leitung | Dr. Thomas Gerber
 Kassierer | Christoph Krettler
-Wissenschaft | Prof. Dr. Alfred Ultsch
+Segelflugreferentin | Elena Mascus
 PR & Marketing | Tobias Kemmerer
-IT | Christopher Rogos / Heinz Plajer / Marie Schade
+IT | Christopher Rogos / Heinz Plajer / Marie Rogos
 Elektronik / Funk / Instrumente | Uwe März
 Liegenschaften / Motorgeräte | Hans-Jürgen Vogel
 Flugsicherheit |  Christopher Rogos
-Jugendwart | Elena Mascus
+Jugendwart | Chris Jung
 Datenschutzbeauftragter | Mathias Linkerhand (E-Mail: [datenschutz@akaflieg-frankfurt.de](mailto:datenschutz@akaflieg-frankfurt.de))
