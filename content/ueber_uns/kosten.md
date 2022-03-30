@@ -24,7 +24,7 @@ aliases:
 
 **Startart** | **Preis**
 ----|----
-Windenstart | 3,70 Euro
+Windenstart | 4,00 Euro
 Flugzeugschlepp (durchgeführt durch FSV Schwalm) | 3,30 Euro / 100m (mind. 13,20 Euro)
 
 <div class="row">
