@@ -31,3 +31,4 @@ Akaflieg | FA | 20.03.2022 | 03.04.2022 | La Cerdanya
 Markus | YS | 20.03.2022 | 03.04.2022 | La Cerdanya
 Akaflieg | FA | 30.04.2022 | 07.05.2022 | Wetzlarer Woche
 Christoph | T | 30.04.2022 | 07.05.2022 | Wetzlarer Woche
+Elena & Marie | YS & WJ | 19.05.2022 | 29.05.2022 | DMF Landau
