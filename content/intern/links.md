@@ -104,11 +104,11 @@ Zugriff zu ['Ordner Intern'](https://drive.google.com/open?id=1YFySrCrhZF1w79rgO
 # Bedienungsanleitungen (Instrumente)
 **Link** | **Beschreibung**
 --- | ---
-{{< newtab "Colibri" "/documents/links/colibri(T,WJ).pdf" >}} | Logger ASK21, LS4
-{{< newtab "LX160s" "/documents/links/LX160s(WJ).pdf" >}} | WJ
-{{< newtab "LX Eos" "/documents/links/D-0832_LX Eos_users_manual_1_5_GER(FA).pdf" >}} | ASG32
-{{< newtab "LX Eos" "/documents/links/D-0832_Transponder_Handbuch(FA).pdf" >}} | Transponder ASG32  
-{{< newtab "LX9070" "/documents/links/Segelflugrechner_LX9070_Operations_Manual(YS).pdf" >}} | YS  
+{{< newtab "Colibri II" "/documents/links/Colibri_II_german13.7.14(ASK21,AN).pdf" >}} | Logger ASK21, AN
+{{< newtab "LX160s" "/documents/links/LX160s(WJ).pdf" >}} | Segelflugrechner WJ, T
+{{< newtab "LX Eos" "/documents/links/D-0832_LX Eos_users_manual_1_5_GER(FA).pdf" >}} | Segelflugrechner FA
+{{< newtab "Garrecht VT-01" "/documents/links/D-0832_Transponder_Handbuch(FA).pdf" >}} | Transponder FA  
+{{< newtab "LX9070" "/documents/links/Segelflugrechner_LX9070_Operations_Manual(YS).pdf" >}} | Segelflugrechner YS  
 {{< newtab "Funkgerät Trig TY91" "/documents/links/Funkgerät_Trig_TY91_Operations_Manual(YS).pdf" >}} | Funkgerät YS  
 {{< newtab "TT22 Transponder" "/documents/links/Transponder_Trig_TT22_Bedienung(YS).pdf" >}} | Transponder YS  
 

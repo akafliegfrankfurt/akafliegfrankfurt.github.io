@@ -15,7 +15,17 @@ im Verein seit: | April 2019
 
 ---
 
-{{% image_left "/img/flugzeugpark/wj1.JPG" %}}
+{{% image_left "/img/flugzeugpark/discus_schweiz2.jpeg" %}}
+# Discus b YS
+Einsatzzweck: | Streckenflug und Wettbewerbe
+--- | ---
+Hersteller: | Schempp-Hirth Flugzeugbau
+im Verein seit: | 2022
+{{% /image_left %}}
+
+---
+
+{{% image_right "/img/flugzeugpark/wj1.JPG" %}}
 # LS4-a WJ
 Einsatzzweck: | Wettbewerbe, Streckenflug und Fortgeschrittenenschulung
 --- | ---
@@ -25,7 +35,7 @@ im Verein seit: | 1989
 
 ---
 
-{{% image_right "/img/flugzeugpark/tango.jpg" %}}
+{{% image_left "/img/flugzeugpark/tango.jpg" %}}
 # LS4-a T
 Einsatzzweck: | Wettbewerbe, Streckenflug und Fortgeschrittenenschulung
 --- | ---
@@ -35,7 +45,7 @@ im Verein seit: | 1999
 
 ---
 
-{{% image_left "/img/flugzeugpark/junior.jpg" %}}
+{{% image_right "/img/flugzeugpark/junior.jpg" %}}
 # SZD-51-1 Junior
 Einsatzzweck: | Anfängerschulung
 --- | ---
@@ -45,22 +55,12 @@ im Verein seit: | Mai 2018
 
 ---
 
-{{% image_right "/img/flugzeugpark/21_winde.jpg" %}}
+{{% image_left "/img/flugzeugpark/21_winde.jpg" %}}
 # ASK 21
 Einsatzzweck: | Anfängerschulung, Kunstflug
 --- | ---
 Hersteller: | Alexander Schleicher Flugzeugbau
 im Verein seit: | 2005
 {{% /image_right %}}
-
----
-
-{{% image_left "/img/flugzeugpark/discus_schweiz2.jpeg" %}}
-# Discus b YS
-Einsatzzweck: | Streckenflug und Wettbewerbe
---- | ---
-Hersteller: | Schempp-Hirth
-im Verein ab: | Saison 2022 (Wird momentan vorbereitet und umgemeldet)
-{{% /image_left %}}
 
 ---
