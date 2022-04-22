@@ -105,7 +105,8 @@ Zugriff zu ['Ordner Intern'](https://drive.google.com/open?id=1YFySrCrhZF1w79rgO
 **Link** | **Beschreibung**
 --- | ---
 {{< newtab "Colibri II" "/documents/links/Colibri_II_german13.7.14(ASK21,AN).pdf" >}} | Logger ASK21, AN
-{{< newtab "LX160s" "/documents/links/LX160s(WJ).pdf" >}} | Segelflugrechner WJ, T
+{{< newtab "LX160s" "/documents/links/LX160s(T).pdf" >}} | Segelflugrechner T
+[XC Vario](https://xcvario.de/handbuch) | Segelflugrechner WJ
 {{< newtab "LX Eos" "/documents/links/D-0832_LX Eos_users_manual_1_5_GER(FA).pdf" >}} | Segelflugrechner FA
 {{< newtab "Garrecht VT-01" "/documents/links/D-0832_Transponder_Handbuch(FA).pdf" >}} | Transponder FA  
 {{< newtab "LX9070" "/documents/links/Segelflugrechner_LX9070_Operations_Manual(YS).pdf" >}} | Segelflugrechner YS  
