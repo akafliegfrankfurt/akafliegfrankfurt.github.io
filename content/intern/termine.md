@@ -14,7 +14,7 @@ aliases:
 [Theorie Unterricht](https://chmaul.de/theory) | Winter 21/22 | wöchentlich ab Ende November | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
 Jahreshauptversammlung | 25.02.2022 | | (voraussichtlich digitale) Hauptversammlung (Einladung folgt per Email)
 Anfliegen | 26./27.03.22 | | Anfliegen und Ausräumen in Ziegenhain
-Fortgeschrittenenwoche | 01.08.22 | 05.08.22 | Fluglager für fortgeschrittene Fluglehrer
+Fortgeschrittenenwoche | 01.08.22 | 05.08.22 | Fluglager für fortgeschrittene Flugschüler
 Sommerfest | 13.08.22 | | Akaflieg Sommerfest in Ziegenhain
 Sommerkurs | 15.08.22 | 26.08.22 | Akaflieg-Anfängerkurs
 Abfliegen | 22./23.10.22 | | Abfliegen und Einräumen in Ziegenhain
