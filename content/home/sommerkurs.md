@@ -14,7 +14,7 @@ Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an,
 <br>Es sind **keine theoretischen oder praktischen Vorkenntnisse nötig!**
 <br>Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedingungen ist **der erste Soloflug bereits zum Ende des Kurses möglich**, sonst kann er im Rahmen der regulären [Wochenendschulung](/ueber_uns/flugbetrieb/#wochenendschulung) bis zum Saisonende absolviert werden.
 
-**Kursdaten: 15.08.22 bis 26.08.22**
+**Kursdaten: 15.08.22 bis 26.08.22 <br>Sobald die Kursdaten für 2023 festehen werden sie an dieser Stelle veröffentlicht.**
 
 {{% /image_right %}}
 
@@ -30,8 +30,8 @@ Sollte die Situation im August schlimmstenfalls einen Kurs unmöglich machen, we
 <div class="row">
 {{% two_columns %}}
 # Kosten
-+ Studenten/Schüler/Auszubildende: 590 Euro
-+ Sonstige Vollzahler: 690 Euro
++ Studenten/Schüler/Auszubildende: 740 Euro
++ Sonstige Vollzahler: 890 Euro
 + Bei Anmeldung vor dem 30.04. gib es 50 Euro Nachlass.
 
 {{% /two_columns %}}

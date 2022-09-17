@@ -64,3 +64,13 @@ im Verein seit: | 2005
 {{% /image_right %}}
 
 ---
+
+{{% image_right "/img/flugzeugpark/ask23.jpeg" %}}
+# ASK 23 X9
+Einsatzzweck: | Anfängerschulung
+--- | ---
+Hersteller: | Alexander Schleicher Flugzeugbau
+im Verein ab: | 2022 (Zulassung ist in den letzten Zügen)
+{{% /image_left %}}
+
+---

@@ -24,9 +24,9 @@ LS4 | <ul> <li>Flugauftrag</li><li>Windenfahrerschein</li><li>50 Alleinstarts</l
 ## Scheininhaber
 **Flugzeug** | **Am Platz** | **Überland**
 ---- | ---- | ----
-ASK 21 | Gültiger SPL | Gültiger SPL
-SZD-51-1 Junior | Gültiger SPL | <ul><li>Gültiger SPL</li> <li>Windenfahrerschein</li></ul>
-LS4 / DG300| <ul><li>Gültiger SPL</li><li>Windenfahrerschein</li></ul> | <ul><li>Gültiger SPL</li><li> Windenfahrerschein </li> <li>3 dokumentierte Ziellandungen</li></ul>
+ASK 21 | Gültiger SPL | <ul><li>Gültiger SPL</li> <li>50km Alleinflug oder 100km Segelflug mit Fluglehrer</li></ul>
+SZD-51-1 Junior | Gültiger SPL | <ul><li>Gültiger SPL</li>  <li>50km Alleinflug oder 100km Segelflug mit Fluglehrer</li> <li>Windenfahrerschein</li></ul>
+LS4 / DG300| <ul><li>Gültiger SPL</li><li>Windenfahrerschein</li></ul> | <ul><li>Gültiger SPL</li>  <li>50km Alleinflug oder 100km Segelflug mit Fluglehrer</li> <li> Windenfahrerschein </li> <li>3 dokumentierte Ziellandungen</li></ul>
 ASG 32 | <ul><li>Gültiger SPL</li><li>Windenfahrerschein</li></ul> | Gemäß durch [Segelflugreferent](/kontakt#Ansprechpartner) benannter Pilotenliste
 
 <a name="Lizenz"></a>
