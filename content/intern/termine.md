@@ -18,7 +18,8 @@ Fortgeschrittenenwoche | 01.08.22 | 05.08.22 | Fluglager für fortgeschrittene F
 Sommerfest | 13.08.22 | | Akaflieg Sommerfest in Ziegenhain
 Sommerkurs | 15.08.22 | 26.08.22 | Akaflieg-Anfängerkurs
 Abfliegen | 22./23.10.22 | | Abfliegen und Einräumen in Ziegenhain
-Segelfliegertag | 29.10.2022 | | Deutscher [Segelfliegertag](https://www.segelfliegertag.com/) in Koblenz
+Deutscher Segelfliegertag | 29.10.2022 | | Deutscher [Segelfliegertag](https://www.segelfliegertag.com/) in Koblenz
+Hessischer Segelfliegertag | 05.11.2022 | | Hessicher [Segelfliegertag](https://www.hlb-info.de/news/hessischer-segelfliegertag-am-05-november-2022-mainhausen) in Zellhausen
 
 <!--Akaflieg Frankfurt Wave Research Camp 2022 | 19.03.22 | 03.04.22 | Gebirgsfliegerei in den Pyrenäen
 Fortgeschrittenenwoche | 02.08.21 | 06.08.21 | Fluglager für fortgeschrittene Flugschüler
