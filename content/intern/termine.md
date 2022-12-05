@@ -11,15 +11,16 @@ aliases:
 
 **Ereignis** | **Von** | **Bis** | **Beschreibung**
 ---- | ---- | ---- | ----
-[Theorie Unterricht](https://chmaul.de/theory) | Winter 21/22 | wöchentlich ab Ende November | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
-Jahreshauptversammlung | 25.02.2022 | | (voraussichtlich digitale) Hauptversammlung (Einladung folgt per Email)
-Anfliegen | 26./27.03.22 | | Anfliegen und Ausräumen in Ziegenhain
-Fortgeschrittenenwoche | 01.08.22 | 05.08.22 | Fluglager für fortgeschrittene Flugschüler
-Sommerfest | 13.08.22 | | Akaflieg Sommerfest in Ziegenhain
-Sommerkurs | 15.08.22 | 26.08.22 | Akaflieg-Anfängerkurs
-Abfliegen | 22./23.10.22 | | Abfliegen und Einräumen in Ziegenhain
-Deutscher Segelfliegertag | 29.10.2022 | | Deutscher [Segelfliegertag](https://www.segelfliegertag.com/) in Koblenz
-Hessischer Segelfliegertag | 05.11.2022 | | Hessicher [Segelfliegertag](https://www.hlb-info.de/news/hessischer-segelfliegertag-am-05-november-2022-mainhausen) in Zellhausen
+[Theorie Unterricht](https://chmaul.de/theory) | Winter 22/23 | wöchentlich ab Anfang Dezember | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
+Jahreshauptversammlung | tbd | | Hauptversammlung
+Akaflieg Wave Research Camp | vsl. 19.03.2023 | 01.04.2023 | Gebirgsfliegen in La Cerdanya
+Anfliegen | 25./26.03.23 | | Anfliegen und Ausräumen in Ziegenhain
+Fortgeschrittenenwoche | vsl. Anfang August | | Fluglager für fortgeschrittene Flugschüler
+Sommerfest | tbd. | | Akaflieg Sommerfest in Ziegenhain
+Sommerkurs | 14.08.23 | 25.08.23 | Akaflieg-Anfängerkurs
+Abfliegen | vsl. 28./29.10.2023 | | Abfliegen und Einräumen in Ziegenhain
+Deutscher Segelfliegertag | 04.11.2023 | | Deutscher [Segelfliegertag](https://www.segelfliegertag.com/) in Freudenstadt (BW)
+Hessischer Segelfliegertag | tbd. | | Hessicher Segelfliegertag
 
 <!--Akaflieg Frankfurt Wave Research Camp 2022 | 19.03.22 | 03.04.22 | Gebirgsfliegerei in den Pyrenäen
 Fortgeschrittenenwoche | 02.08.21 | 06.08.21 | Fluglager für fortgeschrittene Flugschüler
@@ -30,8 +31,4 @@ Anfragen für die Nutzung eines Vereinsflugzeuges für Fluglager/Wettbewerbe sin
 
 **Wer** | **Flugzeug** | **Von** | **Bis** | **Ort**
 ---- | ---- | ---- | ---- | ----
-Akaflieg | FA | 20.03.2022 | 03.04.2022 | La Cerdanya
-Markus | YS | 20.03.2022 | 03.04.2022 | La Cerdanya
-Akaflieg | FA | 30.04.2022 | 07.05.2022 | Wetzlarer Woche
-Christoph | T | 30.04.2022 | 07.05.2022 | Wetzlarer Woche
-Elena & Marie | YS & WJ | 19.05.2022 | 29.05.2022 | DMF Landau
+Akaflieg | FA & versch. Einsitzer (tbd.) | 19.03.2023 | 01.04.2023 | La Cerdanya
