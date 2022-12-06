@@ -93,11 +93,11 @@ _Wieviele Starts sind in der Kursgebühr enthalten?_
 
 _Werde ich nach dem Kurs alleine fliegen können?_
 
-  Eine Garantie, dass das Ziel - der erste Alleinflug - erreicht wird, können wir natürlich nicht geben.
+  Eine Garantie, dass der erste Alleinflug erreicht wird, können wir natürlich nicht geben. Schüler können bei uns im Rahmen des Kursis allein fliegen, wenn sie das "Ok" von unseren Fluglehrern bekommen, und sich bereit fühlen. Erfahrungsgemäß finden im Kurs regelmäßig einige erste Alleinflüge statt.
 
 _Wieviel und wie lange fliegen wir im Kurs?_
 
-  Wir starten aus der Winde und erreichen so ungefähr 300 bis 400 Meter Höhe über Grund. Überwiegend werden Platzrunden geflogen, die zwischen 5 und 10 Minuten dauern. Täglich startet jeder Schüler durchschnittlich 6 Mal. Ein paar längere Flüge (30 bis 60 Minuten) sind aber auch dabei.
+  Wir starten aus der Winde und erreichen so ungefähr 300 bis 400 Meter Höhe über Grund. Überwiegend werden Platzrunden geflogen, die zwischen 5 und 10 Minuten dauern. Täglich startet jeder Schüler durchschnittlich 4-5 Mal. Ein paar längere Flüge (30 bis 60 Minuten) sind aber auch dabei.
 
 _Wie läuft der Flugbetrieb ab?_
 
