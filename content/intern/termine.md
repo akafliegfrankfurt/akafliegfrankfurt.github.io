@@ -19,7 +19,7 @@ Fortgeschrittenenwoche | vsl. Anfang August | | Fluglager für fortgeschrittene 
 Sommerfest | tbd. | | Akaflieg Sommerfest in Ziegenhain
 Sommerkurs | 14.08.23 | 25.08.23 | Akaflieg-Anfängerkurs
 Abfliegen | vsl. 28./29.10.2023 | | Abfliegen und Einräumen in Ziegenhain
-Deutscher Segelfliegertag | 04.11.2023 | | Deutscher [Segelfliegertag](https://www.segelfliegertag.com/) in Freudenstadt (BW)
+Deutscher Segelfliegertag | 04.11.2023 | | Deutscher Segelfliegertag in Freudenstadt (BW)
 Hessischer Segelfliegertag | tbd. | | Hessicher Segelfliegertag
 
 <!--Akaflieg Frankfurt Wave Research Camp 2022 | 19.03.22 | 03.04.22 | Gebirgsfliegerei in den Pyrenäen
