@@ -14,7 +14,7 @@ Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an,
 <br>Es sind **keine theoretischen oder praktischen Vorkenntnisse nötig!**
 <br>Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedingungen ist **der erste Soloflug bereits zum Ende des Kurses möglich**, sonst kann er im Rahmen der regulären [Wochenendschulung](/ueber_uns/flugbetrieb/#wochenendschulung) bis zum Saisonende absolviert werden.
 
-**Kursdaten: 15.08.22 bis 26.08.22 <br>Sobald die Kursdaten für 2023 festehen werden sie an dieser Stelle veröffentlicht.**
+**Kursdaten: 14.08.23 bis 25.08.23**
 
 {{% /image_right %}}
 
