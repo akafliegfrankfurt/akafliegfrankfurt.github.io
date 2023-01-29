@@ -18,7 +18,7 @@ Anfliegen | 25./26.03.23 | | Anfliegen und Ausräumen in Ziegenhain
 Fortgeschrittenenwoche | vsl. Anfang August | | Fluglager für fortgeschrittene Flugschüler
 Sommerfest | tbd. | | Akaflieg Sommerfest in Ziegenhain
 Sommerkurs | 14.08.23 | 25.08.23 | Akaflieg-Anfängerkurs
-Sommerkurs | 09.09.23 | 24.09.23 | Fluglehrer FI(S) Ausbildung am Flugplatz der Ring
+Fluglehrer Ausbildungslehrgang | 11.09.23 | 22.09.23 | FI(S) Ausbildung am Flugplatz der Ring
 Abfliegen | vsl. 28./29.10.2023 | | Abfliegen und Einräumen in Ziegenhain
 Deutscher Segelfliegertag | 04.11.2023 | | Deutscher Segelfliegertag in Freudenstadt (BW)
 Hessischer Segelfliegertag | tbd. | | Hessicher Segelfliegertag
