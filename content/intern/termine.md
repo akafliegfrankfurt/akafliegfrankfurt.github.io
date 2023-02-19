@@ -33,4 +33,6 @@ Anfragen für die Nutzung eines Vereinsflugzeuges für Fluglager/Wettbewerbe sin
 **Wer** | **Flugzeug** | **Von** | **Bis** | **Ort**
 ---- | ---- | ---- | ---- | ----
 Akaflieg | FA & versch. Einsitzer (tbd.) | 19.03.2023 | 01.04.2023 | La Cerdanya
+Mathias und Paul | tbd | 28.04.2023 | 06.05.2023 | Wetzlarer Woche
+Elena | WJ | 27.05.2023 | 03.06.2023 | Club Quali Hockenheim
 Marie | T | 28.07.2023 | 04.08.2023 | Club Quali Landau
