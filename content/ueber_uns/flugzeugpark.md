@@ -70,7 +70,7 @@ im Verein seit: | 2005
 Einsatzzweck: | Anfängerschulung
 --- | ---
 Hersteller: | Alexander Schleicher Flugzeugbau
-im Verein ab: | 2022 (Zulassung ist in den letzten Zügen)
+im Verein seit: | 2022
 {{% /image_left %}}
 
 ---
