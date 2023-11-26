@@ -11,21 +11,21 @@ aliases:
 
 **Ereignis** | **Von** | **Bis** | **Beschreibung**
 ---- | ---- | ---- | ----
-[Theorie Unterricht](https://chmaul.de/theory) | Winter 22/23 | wöchentlich ab Anfang Dezember | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
-Jahreshauptversammlung | 24.02.2023 | | Hauptversammlung am Campus Riedberg
-Akaflieg Wave Research Camp | 19.03.23 | 01.04.23 | Gebirgsfliegen in La Cerdanya
-Anfliegen | 25./26.03.23 | | Anfliegen und Ausräumen in Ziegenhain
-Refresher-Woche | 17.04.23 | 21.04.23 | Flugbetrieb unter der Woche in Ziegenhain
-Fortgeschrittenenwoche | vsl. 07.08.23 | 11.08.23 | Fluglager für fortgeschrittene Flugschüler
-Sommerfest | 12.08.2023 | | Akaflieg Sommerfest in Ziegenhain
-Sommerkurs | 14.08.23 | 25.08.23 | Akaflieg-Anfängerkurs
-Fluglehrer Ausbildungslehrgang | 11.09.23 | 22.09.23 | FI(S) Ausbildung am Flugplatz der Ring
-Abfliegen | 28./29.10.2023 | | Abfliegen und Einräumen in Ziegenhain
-Deutscher Segelfliegertag | 04.11.2023 | | Deutscher Segelfliegertag in Freudenstadt (BW)
+Theorie Unterricht | Winter 23/24 | wöchentlich ab 06.12.2023 | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
+Weihnachtsfeier | 01.12.2023 | | Weihnachtsfeier am Campus Ginnheim
+Jahreshauptversammlung | vsl. 23.02.2024 | | Hauptversammlung, Ort tbd.
+Akaflieg Wave Research Camp | 17.03.24 | 30.03.24 | Gebirgsfliegen in La Cerdanya
+Anfliegen | tbd. | | Anfliegen und Ausräumen in Ziegenhain
+Fortgeschrittenenwoche | vsl. 22.07.24 | 26.07.24 | Fluglager für fortgeschrittene Flugschüler
+Sommerfest | vsl. 10.08.2024 | | Akaflieg Sommerfest in Ziegenhain
+Sommerkurs | 12.08.24 | 23.08.24 | Akaflieg-Anfängerkurs
+Abfliegen | tbd. | | Abfliegen und Einräumen in Ziegenhain
+<!--Deutscher Segelfliegertag | 04.11.2023 | | Deutscher Segelfliegertag in Freudenstadt (BW)
 Hessischer Segelfliegertag | tbd. | | Hessicher Segelfliegertag
 
-<!--Akaflieg Frankfurt Wave Research Camp 2022 | 19.03.22 | 03.04.22 | Gebirgsfliegerei in den Pyrenäen
+Akaflieg Frankfurt Wave Research Camp 2022 | 19.03.22 | 03.04.22 | Gebirgsfliegerei in den Pyrenäen
 Fortgeschrittenenwoche | 02.08.21 | 06.08.21 | Fluglager für fortgeschrittene Flugschüler
+[Theorie Unterricht](https://chmaul.de/theory) | Winter 23/24 | wöchentlich ab 06.12.2023 | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
 Weihnachtsfeier | xx.xx.2022 | | Akaflieg Weihnachtsfeier, dieses Jahr in Offenbach (2G), siehe Einladung per Mail-->
 
 ### Vorgemerkte Mitglieder für Flugzeugnutzung
