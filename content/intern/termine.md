@@ -26,7 +26,7 @@ Hessischer Segelfliegertag | tbd. | | Hessicher Segelfliegertag
 Akaflieg Frankfurt Wave Research Camp 2022 | 19.03.22 | 03.04.22 | Gebirgsfliegerei in den Pyrenäen
 Fortgeschrittenenwoche | 02.08.21 | 06.08.21 | Fluglager für fortgeschrittene Flugschüler
 [Theorie Unterricht](https://chmaul.de/theory) | Winter 23/24 | wöchentlich ab 06.12.2023 | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
-Weihnachtsfeier | xx.xx.2022 | | Akaflieg Weihnachtsfeier, dieses Jahr in Offenbach (2G), siehe Einladung per Mail-->
+Weihnachtsfeier | xx.xx.2022 | | Akaflieg Weihnachtsfeier, dieses Jahr in Offenbach (2G), siehe Einladung per Mail -->
 
 ### Vorgemerkte Mitglieder für Flugzeugnutzung
 Anfragen für die Nutzung eines Vereinsflugzeuges für Fluglager/Wettbewerbe sind an unsere [Segelflugreferentin](/kontakt/#Ansprechpartner) zu richten.
