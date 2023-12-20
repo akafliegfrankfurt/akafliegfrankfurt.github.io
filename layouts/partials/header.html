@@ -10,7 +10,7 @@
 		{{- with .OutputFormats.Get "rss" -}}
     	
 		{{- end -}}
-		{{ .Hugo.Generator }}
+		{{ hugo.Generator }}
 		{{ template "_internal/opengraph.html" . }}
 		{{ template "_internal/twitter_cards.html" . }}
 		{{- $css := .Site.Data.libs.css -}}
