@@ -13,13 +13,14 @@ aliases:
 ---- | ---- | ---- | ----
 Theorie Unterricht | Winter 23/24 | wöchentlich ab 06.12.2023 | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
 Weihnachtsfeier | 01.12.2023 | | Weihnachtsfeier am Campus Ginnheim
-Jahreshauptversammlung | vsl. 23.02.2024 | | Hauptversammlung, Ort tbd.
+Jahreshauptversammlung | 23.02.2024 | | Hauptversammlung, Ort tbd.
 Akaflieg Wave Research Camp | 17.03.24 | 30.03.24 | Gebirgsfliegen in La Cerdanya
-Anfliegen | tbd. | | Anfliegen und Ausräumen in Ziegenhain
+Anfliegen | 29.03.2024 | | Anfliegen und Ausräumen in Ziegenhain am Karfreitag
+Refresher Woche | 08.04.2024 | 12.04.2024 | Flugwoche zum Saisonstart, insbesondere für Flugschüler
 Fortgeschrittenenwoche | vsl. 22.07.24 | 26.07.24 | Fluglager für fortgeschrittene Flugschüler
-Sommerfest | vsl. 10.08.2024 | | Akaflieg Sommerfest in Ziegenhain
+Sommerfest | 10.08.2024 | | Akaflieg Sommerfest in Ziegenhain
 Sommerkurs | 12.08.24 | 23.08.24 | Akaflieg-Anfängerkurs
-Abfliegen | tbd. | | Abfliegen und Einräumen in Ziegenhain
+Abfliegen | 26.10.2024 | 27.10.2024 | Abfliegen und Einräumen in Ziegenhain
 <!--Deutscher Segelfliegertag | 04.11.2023 | | Deutscher Segelfliegertag in Freudenstadt (BW)
 Hessischer Segelfliegertag | tbd. | | Hessicher Segelfliegertag
 
@@ -33,7 +34,5 @@ Anfragen für die Nutzung eines Vereinsflugzeuges für Fluglager/Wettbewerbe sin
 
 **Wer** | **Flugzeug** | **Von** | **Bis** | **Ort**
 ---- | ---- | ---- | ---- | ----
-Akaflieg | FA & versch. Einsitzer | 19.03.2023 | 01.04.2023 | La Cerdanya
-Mathias und Paul | tbd | 28.04.2023 | 06.05.2023 | Wetzlarer Woche
-Elena | WJ | 27.05.2023 | 03.06.2023 | Club Quali Hockenheim
-Marie | T | 28.07.2023 | 04.08.2023 | Club Quali Landau
+Akaflieg | FA & versch. Einsitzer | 17.03.2024 | 30.03.2024 | La Cerdanya
+Elena | tbd. | 31.07.2024 | 09.08.2024 | DMF Lachen Speyerdorf
