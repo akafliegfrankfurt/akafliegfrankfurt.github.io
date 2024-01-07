@@ -5,6 +5,31 @@ background: "clouds7.jpg"
 draft: false
 ---
 
+# 2024
++ Neue digitale Werkzeuge in der Segelflugausbildung, Christof Maul, Fluglehrer-Auffrischungsseminar, Wasserkuppe, 4.3.2024
+
+# 2023
++ Neue Werkzeuge in der hessischen Segelflugausbildung, Christof Maul, Fluglehrer-Auffrischungsseminar, Hessischer Luftsportbund, 25.11.2023, online
++ Digitalisierung in der Ausbildung, Christof Maul, Fluglehrer-Auffrischungsseminar, Wasserkuppe, 21.10.2023
+
+# 2022
++ Wellenfliegen in der Segelflugausbildung, Christof Maul - Richtig außenlanden, Christof Maul, Fluglehrerausbildungslehrgang, LV Mecklenburg-Vorpommern, Güstrow, 11.12.2022
++ Die zunehmende Einschränkung des Luftraumes unter besonderer Berücksichtigung militärischer Sperrgebiete, Mario Armitter, Fluglehrer-Auffrischungsseminar, Schwalmstadt, 24.9.2022
++ Die praktische SPL- Flugausbildung nach AMC2 SFCL.130 - die "neuen" 17 Übungen (Exercises) Christof Maul, Fluglehrer-Auffrischungsseminar, Schwalmstadt, 24.9.2022
++ Der Windenstart - Grundlagenauffrischung und Analyse von oft leider tödlichen Fehlern, Hans-Jürgen Vogel, Fluglehrer-Auffrischungsseminar, Schwalmstadt, 24.9.2022
++ Forschung kurz notiert: Segelflug, Christof Maul, UniReport 4/2022, 8, Goethe-Universität Frankfurt, 7.7.2022
++ Safety II for the Improvement of Safety in Competitions, Alfred Ultsch, Technical Soaring 46, 2, 2022
++ Wettbewerbe: bessere Regeln, mehr Sicherheit, Alfred Ultsch, segelfliegen 4/2022, 66
++ [Wie können wir Segelflug-Wettbewerbe sicherer machen?](https://www.flieger.news/wie-koennen-wir-segelflug-wettbewerbe-sicherer-machen/), Alfred Ultsch, flieger.news, 12.6.2022
++ Wellenfliegen in Schottland: Zwischen Nordsee und Atlantik, Christof Maul und Thomas Seiler, [Late Night Soaring, 17.2.2022](https://www.youtube.com/watch?v=EMTWHuoHTIw)
++ Wellenfliegen in den nördlichen Mittelgebirgen, Herbert Horbrügger, Christof Maul und Thomas Seiler, [Late Night Soaring, 20.1.2022](https://www.youtube.com/watch?v=c_iFZpG-J6Y)
+
+# 2021
++ Sicherheit organisieren - Alfred Ultsch, segelfliegen 5/2021, 65
++ Naïve transfer of ICAO’s organizational safety methods, such as SMS, into clubbased flying might be either useless or even harmful. Alfred Ultsch, XXXV. OSTIV Congress, 19.7.-23.7.2021
++ Moderne Flugsicherheit für den Segelflug - FLYTOP - Alfred Ultsch, [Late Night Soaring, 23.3./30.3.2021](https://www.youtube.com/watch?v=o-hcUeP9MRE)
+
+
 # 2019
 + *{{< newtab "Highlichts der Wellensaison 2018/2019" "/documents/publikationen/mtl19.pdf" >}}*, Christof Maul, Mittelgebirgs-Leewellen-Forum, Institut für Meteorologie und Klimatologie, Leibniz-Universität Hannover, 2.3.2019
 + [OSTIV Meteorolgy Panel](https://ostiv.org/sections/scientific-section/meteorological-panel.html), Frankfurt, 07./08.03.2019: **Measuring the fine structure of thermals**, Alfred Ultsch und Christof Maul \\
