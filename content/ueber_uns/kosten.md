@@ -42,7 +42,7 @@ Flugzeugschlepp (durchgeführt durch FSV Schwalm) | 3,30 Euro / 100m (mind. 13,2
 # Fluggebühren
 **Flugzeugtyp** | **Preis/Minute** | **Preis/Minute (Schüler/Student)**
 ----|----|----
-SZD 51-1 Junior | 19ct (= 11,40 Euro/h) | 14ct (= 8,40 Euro/h)
+ASK 23 | 19ct (= 11,40 Euro/h) | 14ct (= 8,40 Euro/h)
 LS 4 | 23ct (= 13,80 Euro/h) | 18ct (= 10,80 Euro/h)
 Discus b | 26ct (= 15,60 Euro/h) | 21ct (= 12,60 Euro/h)
 ASK 21 | 34ct (= 20,40 Euro/h) | 20ct (= 12,00 Euro/h)
