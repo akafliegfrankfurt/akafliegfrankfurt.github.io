@@ -17,9 +17,11 @@ Jahreshauptversammlung | 23.02.2024 | | Hauptversammlung, Ort tbd.
 Akaflieg Wave Research Camp | 17.03.24 | 30.03.24 | Gebirgsfliegen in La Cerdanya
 Anfliegen | 29.03.2024 | | Anfliegen und Ausräumen in Ziegenhain am Karfreitag
 Refresher Woche | 08.04.2024 | 12.04.2024 | Flugwoche zum Saisonstart, insbesondere für Flugschüler
-Fortgeschrittenenwoche | vsl. 22.07.24 | 26.07.24 | Fluglager für fortgeschrittene Flugschüler
+Fortgeschrittenenwoche | 22.07.24 | 26.07.24 | Fluglager für fortgeschrittene Flugschüler
 Sommerfest | 10.08.2024 | | Akaflieg Sommerfest in Ziegenhain
 Sommerkurs | 12.08.24 | 23.08.24 | Akaflieg-Anfängerkurs
+Training JVF | 23.08.24 | 25.08.24 | Trainingslager für Jugendvergleichsfliegen in ZIG
+JVF | 31.08.24 | 01.09.24 | Jugendvergleichsfliegen, begleitet von Uli
 Abfliegen | 26.10.2024 | 27.10.2024 | Abfliegen und Einräumen in Ziegenhain
 <!--Deutscher Segelfliegertag | 04.11.2023 | | Deutscher Segelfliegertag in Freudenstadt (BW)
 Hessischer Segelfliegertag | tbd. | | Hessicher Segelfliegertag
@@ -35,4 +37,5 @@ Anfragen für die Nutzung eines Vereinsflugzeuges für Fluglager/Wettbewerbe sin
 **Wer** | **Flugzeug** | **Von** | **Bis** | **Ort**
 ---- | ---- | ---- | ---- | ----
 Akaflieg | FA & versch. Einsitzer | 17.03.2024 | 30.03.2024 | La Cerdanya
+Chris & Paul | FA | 27.04.2024 | 05.05.2024 | Wetzlarer Woche
 Elena | tbd. | 31.07.2024 | 09.08.2024 | DMF Lachen Speyerdorf
