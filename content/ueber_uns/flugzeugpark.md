@@ -45,12 +45,12 @@ im Verein seit: | 1999
 
 ---
 
-{{% image_right "/img/flugzeugpark/junior.jpg" %}}
-# SZD-51-1 Junior
+{{% image_right "/img/flugzeugpark/ask23.jpeg" %}}
+# ASK 23 X9
 Einsatzzweck: | Anfängerschulung
 --- | ---
-Hersteller: | PZL Bielsko
-im Verein seit: | Mai 2018
+Hersteller: | Alexander Schleicher Flugzeugbau
+im Verein seit: | 2022
 {{% /image_left %}}
 
 ---
@@ -65,12 +65,3 @@ im Verein seit: | 2005
 
 ---
 
-{{% image_right "/img/flugzeugpark/ask23.jpeg" %}}
-# ASK 23 X9
-Einsatzzweck: | Anfängerschulung
---- | ---
-Hersteller: | Alexander Schleicher Flugzeugbau
-im Verein seit: | 2022
-{{% /image_left %}}
-
----
