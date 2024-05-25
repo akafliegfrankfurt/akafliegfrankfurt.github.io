@@ -32,3 +32,5 @@ jobs:
           message: Update thumbnails
           committer_name: "${{github.actor}}"
           committer_email: "${{github.actor}}@users.noreply.github.com"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
