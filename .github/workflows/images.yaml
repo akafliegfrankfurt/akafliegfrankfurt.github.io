@@ -27,7 +27,7 @@ jobs:
           output: 'static/thumbnails' # REQUIRED
           sizes: ${{ matrix.size }} # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
-          subfolder: format('{{{0}/{1}}}',  ${{matrix.size}}, ${{ matrix.path }})
+          subfolder: ${{ format('{0}/{1}',  matrix.size, matrix.path) }}
           filename: '%F'
           fit: 'cover'
           position: 'centre'
