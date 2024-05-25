@@ -9,6 +9,10 @@ permissions:
   contents: write
 jobs:
   generate_thumbnails:
+    strategy:
+      matrix:
+        size: [246x310, 1920]
+        path: ['static/galery','static/galery/ziegenhain','static/galery/cerdanya']
     name: Generate thumbnails
     runs-on: ubuntu-latest
     timeout-minutes: 10 # Should be enough for all runs, GH default is 360 which is unreasonable...
@@ -19,27 +23,13 @@ jobs:
         id: images-thumb
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
-          source: 'static/galery' # REQUIRED
+          source: ${{ matrix.size }} # REQUIRED
           output: 'static/thumbnails' # REQUIRED
-          sizes: 246x310 # REQUIRED
+          sizes: ${{ matrix.size }} # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
-          subfolder: 'thumbs'
+          subfolder: ${{ matrix.size + '/' + ${{ matrix.path }} }}
           filename: '%F'
           fit: 'cover'
-          position: 'centre'
-          enlarge: 'false'
-          overwrite: 'false'
-      - name: Process Images 1920
-        id: images-1920
-        uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
-        with: # Arguments:
-          source: 'static/galery' # REQUIRED
-          output: 'static/thumbnails' # REQUIRED
-          sizes: 1920 # REQUIRED
-          extensions: 'jpg, jpeg, png, webp, gif, tiff'
-          subfolder: 'images'
-          filename: '%F'
-          fit: 'outside'
           position: 'centre'
           enlarge: 'false'
           overwrite: 'false'
