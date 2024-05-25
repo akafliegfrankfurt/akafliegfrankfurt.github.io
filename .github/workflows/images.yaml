@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository # Check out the repo to access the input image folder.
         uses: actions/checkout@v4
       - name: Process Images thumb
-        id: images
+        id: images-thumb
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
           source: 'static/galery/**/*' # REQUIRED
@@ -29,8 +29,8 @@ jobs:
           position: 'centre'
           enlarge: 'false'
           overwrite: 'false'
-      - name: Process Images thumb
-        id: images
+      - name: Process Images 1920
+        id: images-1920
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
           source: 'static/galery/**/*' # REQUIRED
