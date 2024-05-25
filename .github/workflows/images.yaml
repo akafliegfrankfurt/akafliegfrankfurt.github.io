@@ -33,6 +33,9 @@ jobs:
           position: 'centre'
           enlarge: 'false'
           overwrite: 'false'
+
+  commit:
+    steps:
       - uses: EndBug/add-and-commit@v9
         with:
           message: Update thumbnails
