@@ -43,7 +43,7 @@ jobs:
           position: 'centre'
           enlarge: 'false'
           overwrite: 'false'
-     - uses: EndBug/add-and-commit@v9
+      - uses: EndBug/add-and-commit@v9
         with:
           message: Update thumbnails
           committer_name: "${{github.actor}}"
