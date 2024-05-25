@@ -19,11 +19,11 @@ jobs:
         id: images-thumb
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
-          source: 'static/galery/*' # REQUIRED
+          source: 'static/galery' # REQUIRED
           output: 'static/thumbnails' # REQUIRED
           sizes: 246x310 # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
-          subfolder: '%D'
+          subfolder: 'thumbs'
           filename: '%F'
           fit: 'cover'
           position: 'centre'
@@ -33,11 +33,11 @@ jobs:
         id: images-1920
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
-          source: 'static/galery/*' # REQUIRED
+          source: 'static/galery' # REQUIRED
           output: 'static/thumbnails' # REQUIRED
           sizes: 1920 # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
-          subfolder: '%D'
+          subfolder: 'images'
           filename: '%F'
           fit: 'outside'
           position: 'centre'
