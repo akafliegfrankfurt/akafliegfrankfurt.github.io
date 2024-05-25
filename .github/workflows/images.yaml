@@ -4,7 +4,7 @@ on:
     branches:
       - images
     paths:
-      - 'static/galery/*' # Only run on this path changes
+      - 'static/galery/**/*' # Only run on this path changes
 permissions:
   contents: write
 jobs:
