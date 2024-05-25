@@ -35,6 +35,8 @@ jobs:
           overwrite: 'false'
 
   commit:
+    needs: [ generate_thumbnails ]
+    runs-on: ubuntu-latest
     steps:
       - uses: EndBug/add-and-commit@v9
         with:
