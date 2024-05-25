@@ -1,0 +1,34 @@
+name: Generate thumbnails
+on:
+  push:
+    branches:
+      - images
+    paths:
+      - 'static/galery/*' # Only run on this path changes
+jobs:
+  generate_thumbnails:
+    name: Generate thumbnails
+    runs-on: ubuntu-latest
+    timeout-minutes: 10 # Should be enough for all runs, GH default is 360 which is unreasonable...
+    steps:
+      - name: Checkout repository # Check out the repo to access the input image folder.
+        uses: actions/checkout@master
+      - name: Process Images
+        id: images
+        uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
+        with: # Arguments:
+          source: 'static/galery' # REQUIRED
+          output: 'static/thumbnails' # REQUIRED
+          sizes: 480 # REQUIRED
+          extensions: 'jpg, jpeg, png, webp, gif, tiff'
+          subfolder: '%D'
+          filename: '%F'
+          fit: 'cover'
+          position: 'centre'
+          enlarge: 'true'
+          overwrite: 'false'
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: Update thumbnails
+          committer_name: "${{github.actor}}"
+          committer_email: "${{github.actor}}@users.noreply.github.com"
