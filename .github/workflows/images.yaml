@@ -20,7 +20,7 @@ jobs:
       - name: Checkout repository # Check out the repo to access the input image folder.
         uses: actions/checkout@v4
       - name: Process Images
-        id: images-thumb
+        id: images
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
           source: 'static/galery/cerdanya' # ${{ matrix.path }} # REQUIRED
