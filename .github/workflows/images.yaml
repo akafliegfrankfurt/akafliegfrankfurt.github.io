@@ -23,9 +23,9 @@ jobs:
         id: images-thumb
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
-          source: ${{ matrix.path }} # REQUIRED
+          source: 'static/galery/cerdanya' # ${{ matrix.path }} # REQUIRED
           output: 'static/thumbnails' # REQUIRED
-          sizes: ${{ matrix.size }} # REQUIRED
+          sizes: 1920 # ${{ matrix.size }} # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
           subfolder: ${{ format('{0}/{1}',  matrix.size, matrix.path) }}
           filename: '%F'
