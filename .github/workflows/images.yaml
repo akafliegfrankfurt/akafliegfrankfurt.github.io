@@ -42,7 +42,7 @@ jobs:
           sizes: 246x310 # ${{ matrix.size }} # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
           subfolder: ${{ format('{0}/{1}',  matrix.size, matrix.path) }}
-          filename: '%F-thumb'
+          filename: '%N-thumb%E'
           fit: 'cover'
           position: 'centre'
           enlarge: 'false'
