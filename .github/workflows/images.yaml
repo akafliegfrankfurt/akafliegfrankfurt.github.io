@@ -4,7 +4,7 @@ on:
     branches:
       - images
     paths:
-      - 'static/galery/**/*' # Only run on this path changes
+      - 'content-img/**/*' # Only run on this path changes
 permissions:
   contents: write
 jobs:
@@ -23,11 +23,10 @@ jobs:
         id: images
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
-          source: 'static/galery/cerdanya' # ${{ matrix.path }} # REQUIRED
-          output: 'static/thumbnails' # REQUIRED
+          source: 'content-img/galerie/cerdanya' # ${{ matrix.path }} # REQUIRED
+          output: 'static/img//galerie/cerdanya' # REQUIRED
           sizes: 1920 # ${{ matrix.size }} # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
-          subfolder: ${{ format('{0}/{1}',  matrix.size, matrix.path) }}
           filename: '%F'
           fit: 'cover'
           position: 'centre'
@@ -37,12 +36,37 @@ jobs:
         id: images-thumb
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
-          source: 'static/galery/cerdanya' # ${{ matrix.path }} # REQUIRED
-          output: 'static/thumbnails' # REQUIRED
+          source: 'content-img/galerie/cerdanya' # ${{ matrix.path }} # REQUIRED
+          output: 'static/img//galerie/cerdanya' # REQUIRED
           sizes: 246x310 # ${{ matrix.size }} # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
-          subfolder: ${{ format('{0}/{1}',  matrix.size, matrix.path) }}
-          filename: '%N-thumb%E'
+          filename: '%N-thumb.%E'
+          fit: 'cover'
+          position: 'centre'
+          enlarge: 'false'
+          overwrite: 'false'
+      - name: Process Images
+        id: images
+        uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
+        with: # Arguments:
+          source: 'content-img/galerie/ziegenhain' # ${{ matrix.path }} # REQUIRED
+          output: 'static/img//galerie/ziegenhain' # REQUIRED
+          sizes: 1920 # ${{ matrix.size }} # REQUIRED
+          extensions: 'jpg, jpeg, png, webp, gif, tiff'
+          filename: '%F'
+          fit: 'cover'
+          position: 'centre'
+          enlarge: 'false'
+          overwrite: 'false'
+      - name: Process Images thumb
+        id: images-thumb
+        uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
+        with: # Arguments:
+          source: 'content-img/galerie/ziegenhain' # ${{ matrix.path }} # REQUIRED
+          output: 'static/img//galerie/ziegenhain' # REQUIRED
+          sizes: 246x310 # ${{ matrix.size }} # REQUIRED
+          extensions: 'jpg, jpeg, png, webp, gif, tiff'
+          filename: '%N-thumb.%E'
           fit: 'cover'
           position: 'centre'
           enlarge: 'false'
