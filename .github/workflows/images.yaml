@@ -9,10 +9,10 @@ permissions:
   contents: write
 jobs:
   generate_thumbnails:
-    strategy:
-      matrix:
-        size: [1920] # [246x310, 1920]
-        path: ['static/galery/cerdanya'] # ['static/galery','static/galery/cerdanya']
+#    strategy:
+#      matrix:
+#        size: [1920] # [246x310, 1920]
+#        path: ['static/galery/cerdanya'] # ['static/galery','static/galery/cerdanya']
     name: Generate thumbnails
     runs-on: ubuntu-latest
     timeout-minutes: 10 # Should be enough for all runs, GH default is 360 which is unreasonable...
@@ -34,10 +34,6 @@ jobs:
           enlarge: 'false'
           overwrite: 'false'
 
-  commit:
-    needs: [ generate_thumbnails ]
-    runs-on: ubuntu-latest
-    steps:
       - uses: EndBug/add-and-commit@v9
         with:
           message: Update thumbnails
