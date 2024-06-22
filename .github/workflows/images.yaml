@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Checkout repository # Check out the repo to access the input image folder.
         uses: actions/checkout@v4
-      - name: Process Images thumb
+      - name: Process Images
         id: images-thumb
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
@@ -33,7 +33,20 @@ jobs:
           position: 'centre'
           enlarge: 'false'
           overwrite: 'false'
-
+      - name: Process Images thumb
+        id: images-thumb
+        uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
+        with: # Arguments:
+          source: 'static/galery/cerdanya' # ${{ matrix.path }} # REQUIRED
+          output: 'static/thumbnails' # REQUIRED
+          sizes: 246x310 # ${{ matrix.size }} # REQUIRED
+          extensions: 'jpg, jpeg, png, webp, gif, tiff'
+          subfolder: ${{ format('{0}/{1}',  matrix.size, matrix.path) }}
+          filename: '%F-thumb'
+          fit: 'cover'
+          position: 'centre'
+          enlarge: 'false'
+          overwrite: 'false'
       - uses: EndBug/add-and-commit@v9
         with:
           message: Update thumbnails
