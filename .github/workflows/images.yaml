@@ -9,10 +9,6 @@ permissions:
   contents: write
 jobs:
   generate_thumbnails:
-#    strategy:
-#      matrix:
-#        size: [1920] # [246x310, 1920]
-#        path: ['static/galery/cerdanya'] # ['static/galery','static/galery/cerdanya']
     name: Generate thumbnails
     runs-on: ubuntu-latest
     timeout-minutes: 10 # Should be enough for all runs, GH default is 360 which is unreasonable...
@@ -20,12 +16,12 @@ jobs:
       - name: Checkout repository # Check out the repo to access the input image folder.
         uses: actions/checkout@v4
       - name: Process Images
-        id: images
+        id: images-1
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
-          source: 'content-img/galerie/cerdanya' # ${{ matrix.path }} # REQUIRED
+          source: 'content-img/galerie/cerdanya' # REQUIRED
           output: 'static/img//galerie/cerdanya' # REQUIRED
-          sizes: 1920 # ${{ matrix.size }} # REQUIRED
+          sizes: 1920 # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
           filename: '%F'
           fit: 'cover'
@@ -33,12 +29,12 @@ jobs:
           enlarge: 'false'
           overwrite: 'false'
       - name: Process Images thumb
-        id: images-thumb
+        id: images-thumb-1
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
-          source: 'content-img/galerie/cerdanya' # ${{ matrix.path }} # REQUIRED
+          source: 'content-img/galerie/cerdanya' # REQUIRED
           output: 'static/img//galerie/cerdanya' # REQUIRED
-          sizes: 246x310 # ${{ matrix.size }} # REQUIRED
+          sizes: 246x310 # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
           filename: '%N-thumb.%E'
           fit: 'cover'
@@ -46,12 +42,12 @@ jobs:
           enlarge: 'false'
           overwrite: 'false'
       - name: Process Images
-        id: images
+        id: images-2
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
-          source: 'content-img/galerie/ziegenhain' # ${{ matrix.path }} # REQUIRED
+          source: 'content-img/galerie/ziegenhain' # REQUIRED
           output: 'static/img//galerie/ziegenhain' # REQUIRED
-          sizes: 1920 # ${{ matrix.size }} # REQUIRED
+          sizes: 1920 # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
           filename: '%F'
           fit: 'cover'
@@ -59,12 +55,12 @@ jobs:
           enlarge: 'false'
           overwrite: 'false'
       - name: Process Images thumb
-        id: images-thumb
+        id: images-thumb-2
         uses: subic/ghaction-thumbnails@v1.1 # Tag number optional, breaking changes not expected.
         with: # Arguments:
-          source: 'content-img/galerie/ziegenhain' # ${{ matrix.path }} # REQUIRED
+          source: 'content-img/galerie/ziegenhain' # REQUIRED
           output: 'static/img//galerie/ziegenhain' # REQUIRED
-          sizes: 246x310 # ${{ matrix.size }} # REQUIRED
+          sizes: 246x310 # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
           filename: '%N-thumb.%E'
           fit: 'cover'
