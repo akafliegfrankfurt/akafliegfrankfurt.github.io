@@ -11,8 +11,8 @@ jobs:
   generate_thumbnails:
     strategy:
       matrix:
-        size: [246x310, 1920]
-        path: ['static/galery','static/galery/cerdanya']
+        size: [1920] # [246x310, 1920]
+        path: ['static/galery/cerdanya'] # ['static/galery','static/galery/cerdanya']
     name: Generate thumbnails
     runs-on: ubuntu-latest
     timeout-minutes: 10 # Should be enough for all runs, GH default is 360 which is unreasonable...
