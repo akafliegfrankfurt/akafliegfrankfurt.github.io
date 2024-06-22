@@ -23,7 +23,7 @@ jobs:
           output: 'static/img//galerie/cerdanya' # REQUIRED
           sizes: 1920 # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
-          subfolder: ''
+          subfolder: false
           filename: '%F'
           fit: 'cover'
           position: 'centre'
@@ -37,7 +37,7 @@ jobs:
           output: 'static/img//galerie/cerdanya' # REQUIRED
           sizes: 246x310 # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
-          subfolder: ''
+          subfolder: false
           filename: '%N-thumb.%E'
           fit: 'cover'
           position: 'centre'
@@ -51,7 +51,7 @@ jobs:
           output: 'static/img//galerie/ziegenhain' # REQUIRED
           sizes: 1920 # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
-          subfolder: ''
+          subfolder: false
           filename: '%F'
           fit: 'cover'
           position: 'centre'
@@ -65,7 +65,7 @@ jobs:
           output: 'static/img//galerie/ziegenhain' # REQUIRED
           sizes: 246x310 # REQUIRED
           extensions: 'jpg, jpeg, png, webp, gif, tiff'
-          subfolder: ''
+          subfolder: false
           filename: '%N-thumb.%E'
           fit: 'cover'
           position: 'centre'
