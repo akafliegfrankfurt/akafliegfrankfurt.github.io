@@ -1,4 +1,4 @@
-baseURL = "https://www.akaflieg-frankfurt.de"
+baseURL = "/staging"
 languageCode = "de-de"
 title = "Akaflieg Frankfurt"
 theme = ['alpha-church-bak']
