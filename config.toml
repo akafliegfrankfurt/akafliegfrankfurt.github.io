@@ -191,7 +191,9 @@ googleAnalytics = ""
 [params]
   title = "Akaflieg Frankfurt"
   subtitle = "Akademische Fliegergruppe der Goethe-Universität Frankfurt am Main"
-  author = "Julius Lübstorf & Marie Schade"
+  [params.author]
+    name = "Julius Lübstorf & Marie Schade"
+    email = "test@example.com"
 
   customCSS = ["example.css"]
 
