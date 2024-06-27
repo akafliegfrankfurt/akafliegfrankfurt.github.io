@@ -191,14 +191,17 @@ googleAnalytics = ""
 [params]
   title = "Akaflieg Frankfurt"
   subtitle = "Akademische Fliegergruppe der Goethe-Universität Frankfurt am Main"
-  [params.author]
-    name = "Julius Lübstorf & Marie Schade"
-    email = "test@example.com"
 
   customCSS = ["example.css"]
 
   instant_page = true
+  [params.author]
+    name = "Julius Lübstorf & Marie Schade"
+    email = "test@example.com"
 
+  [params.banner]
+    image = "img/backgrounds/clouds7.jpg"
+    
   #Paramaters for the home/landing page
   [params.landing]
 
