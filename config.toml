@@ -187,23 +187,7 @@ googleAnalytics = ""
     parent = "Intern"
     weight = 4
 
-[params.banner]
-  image = "img/home/banner_1246.jpg"
 
-  [[params.banner.button]]
-    url = "/home/sommerkurs"
-    text = "Sommerkurs"
-    type = "special"
-
-  [[params.banner.button]]
-    url = "/galerie"
-    text = "Galerie"
-    type = "special"
-
-  [[params.banner.button]]
-    url = "/home/fluege"
-    text = "Streckenflüge"
-    type = "special"
 
 
 
@@ -220,7 +204,23 @@ googleAnalytics = ""
     email = "test@example.com"
 
   [params.banner]
-    image = "/img/backgrounds/clouds7.jpg"
+    image = "/img/home/banner_1246.jpg"
+
+  [[params.banner.button]]
+    url = "/home/sommerkurs"
+    text = "Sommerkurs"
+    type = "special"
+
+  [[params.banner.button]]
+    url = "/galerie"
+    text = "Galerie"
+    type = "special"
+
+  [[params.banner.button]]
+    url = "/home/fluege"
+    text = "Streckenflüge"
+    type = "special"
+
 
   #Paramaters for the home/landing page
   [params.landing]
