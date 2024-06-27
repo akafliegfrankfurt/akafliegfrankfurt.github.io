@@ -1,19 +1,17 @@
 +++
 [banner]
-  [[params.banner.button]]
+  image = "/img/home/banner_1246.jpg"
+
+  [[banner.button]]
     url = "/home/sommerkurs"
     text = "Sommerkurs"
-    type = "special"
-
-  [[params.banner.button]]
+   
+  [[banner.button]]
     url = "/galerie"
     text = "Galerie"
-    type = "special"
-
-  [[params.banner.button]]
+   
+  [[banner.button]]
     url = "/home/fluege"
     text = "Streckenflüge"
-    type = "special"
-
 
 +++
