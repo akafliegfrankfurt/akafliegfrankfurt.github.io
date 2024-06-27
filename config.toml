@@ -206,17 +206,17 @@ googleAnalytics = ""
   [params.banner]
     image = "/img/home/banner_1246.jpg"
 
-  [[params.banner.button]]
+  [[banner.button]]
     url = "/home/sommerkurs"
     text = "Sommerkurs"
     type = "special"
 
-  [[params.banner.button]]
+  [[banner.button]]
     url = "/galerie"
     text = "Galerie"
     type = "special"
 
-  [[params.banner.button]]
+  [[banner.button]]
     url = "/home/fluege"
     text = "Streckenflüge"
     type = "special"
@@ -229,7 +229,7 @@ googleAnalytics = ""
     #Details for the box below the banner
     [params.landing.services]
       title = "Willkommen!"
-      image = "img/home/aka_logo.ico"
+      image = "/img/home/aka_logo.ico"
       text = "Die Akaflieg Frankfurt ist ein Segelflugverein für Studierende, Hochschulangehörige und alle fliegerisch und wissenschaftlich Interessierten. Wir bieten **praktische und theoretische Segelflugausbildung** an und forschen in den Gebieten Flugmeteorologie und Flugsicherheit. <br/>Bei Interesse besteht die Möglichkeit, an einem unserer **Sommerkurse** teilzunehmen, im Rahmen der **Wochenendschulung** einzusteigen oder zu einen **Schnupperflug** auf unserem Platz vorbeizukommen."
 
     [params.landing.feature_images]
@@ -237,28 +237,28 @@ googleAnalytics = ""
       enable = true
 
       [[params.landing.feature_images.tile]]
-        image = "img/home/schieben.jpg"
+        image = "/img/home/schieben.jpg"
         title = "Anfängerschulung im Sommerkurs"
         text = "In zwei Wochen den Einstieg in den Flugsport finden, den Steuerknüppel selbst in die Hand nehmen und vom Fußgänger zu Segelflieger werden."
         url = "/home/sommerkurs"
         button_text = "Zur Kursbeschreibung"
 
       [[params.landing.feature_images.tile]]
-        image = "img/home/wochenendschulung.jpg"
+        image = "/img/home/wochenendschulung.jpg"
         title = "Wochenendschulung und Vereinsbetrieb"
         text = "Jedes fliegbare Wochenende innerhalb der Saison wird neben dem regulären Vereinsbetrieb auch für die Schulung genutzt."
         url = "/ueber_uns/flugbetrieb#wochenendschulung"
         button_text="Zur Wochenendschulung"
 
         [[params.landing.feature_images.tile]]
-          image = "img/home/windenstart.jpg"
+          image = "/img/home/windenstart.jpg"
           title = "Schnupperflug"
           text = "Es besteht die Möglichkeit, unverbindlich den Flugbetrieb kennenzulernen und für kleines Geld mitzufliegen."
           url = "/kontakt"
           button_text = "Kontakt"
 
         [[params.landing.feature_images.tile]]
-          image = "img/home/weglide5.png"
+          image = "/img/home/weglide5.png"
           title = "WeGlide"
           text = "Das WeGlide Portal bietet Segelfliegern die Möglichkeit, **weltweit** Flüge anzusehen und zu vergleichen."
           url = "/home/fluege"
