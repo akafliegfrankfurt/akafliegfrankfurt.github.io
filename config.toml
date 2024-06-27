@@ -188,17 +188,13 @@ googleAnalytics = ""
     weight = 4
 
 
-
-
-
 # Paramaters for the whole site
 [params]
   title = "Akaflieg Frankfurt"
   subtitle = "Akademische Fliegergruppe der Goethe-Universität Frankfurt am Main"
-
   customCSS = ["example.css"]
-
   instant_page = true
+
   [params.author]
     name = "Julius Lübstorf & Marie Schade"
     email = "test@example.com"
@@ -206,20 +202,6 @@ googleAnalytics = ""
   [params.banner]
     image = "/img/home/banner_1246.jpg"
 
-  [[banner.button]]
-    url = "/home/sommerkurs"
-    text = "Sommerkurs"
-    type = "special"
-
-  [[banner.button]]
-    url = "/galerie"
-    text = "Galerie"
-    type = "special"
-
-  [[banner.button]]
-    url = "/home/fluege"
-    text = "Streckenflüge"
-    type = "special"
 
 
   #Paramaters for the home/landing page
