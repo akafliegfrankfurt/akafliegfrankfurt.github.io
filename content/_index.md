@@ -1,4 +1,4 @@
----
++++
 [banner]
   [[params.banner.button]]
     url = "/home/sommerkurs"
@@ -16,6 +16,4 @@
     type = "special"
 
 
----
-
-test
++++
