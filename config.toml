@@ -1,7 +1,7 @@
 baseurl = "/staging"
 languageCode = "de-de"
 title = "Akaflieg Frankfurt"
-theme = ['alpha-church-bak']
+theme = ['alpha-church-git']
 themesDir = "themes"
 canonifyURLs = true
 
