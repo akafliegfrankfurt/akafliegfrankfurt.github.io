@@ -187,20 +187,20 @@ googleAnalytics = ""
     parent = "Intern"
     weight = 4
 
-[banner]
+[params.banner]
   image = "img/home/banner_1246.jpg"
 
-  [[banner.button]]
+  [[params.banner.button]]
     url = "/home/sommerkurs"
     text = "Sommerkurs"
     type = "special"
 
-  [[banner.button]]
+  [[params.banner.button]]
     url = "/galerie"
     text = "Galerie"
     type = "special"
 
-  [[banner.button]]
+  [[params.banner.button]]
     url = "/home/fluege"
     text = "Streckenflüge"
     type = "special"
@@ -220,7 +220,7 @@ googleAnalytics = ""
     email = "test@example.com"
 
   [params.banner]
-    image = "img/backgrounds/clouds7.jpg"
+    image = "/img/backgrounds/clouds7.jpg"
 
   #Paramaters for the home/landing page
   [params.landing]
