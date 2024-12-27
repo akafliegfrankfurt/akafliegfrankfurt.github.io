@@ -12,7 +12,7 @@ aliases:
 **Ereignis** | **Von** | **Bis** | **Beschreibung**
 ---- | ---- | ---- | ----
 Theorie Unterricht | Winter 24/25 | wöchentlich ab 12/2024 | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
-Jahreshauptversammlung | tbd. | | Hauptversammlung, Ort tbd.
+Jahreshauptversammlung | 28.02.2025 | | Hauptversammlung, Ort tbd.
 Anfliegen | tbd. | | Anfliegen und Ausräumen in Ziegenhain am Karfreitag
 Refresher Woche | 14.04.2025 | 17.04.2025 | Flugwoche zum Saisonstart, insbesondere für Flugschüler
 Fortgeschrittenenwoche | tbd. zw. 14.07.25 | 08.08.25 | Fluglager für fortgeschrittene Flugschüler
