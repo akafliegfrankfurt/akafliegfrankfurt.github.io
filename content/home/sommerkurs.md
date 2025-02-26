@@ -15,7 +15,7 @@ Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an,
 <br>Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedingungen ist **der erste Soloflug bereits zum Ende des Kurses möglich**, sonst kann er im Rahmen der regulären [Wochenendschulung](/ueber_uns/flugbetrieb/#wochenendschulung) bis zum Saisonende absolviert werden.
 
 **Kursdaten: 04.08.25 bis 15.08.25** 
-<b style="color:red">(geänderter Termin, jetzt in den hessischen Schulferien)</b>
+<br/><b style="color:red">(geänderter Termin, jetzt in den hessischen Schulferien)</b>
 
 
 {{% /image_right %}}
