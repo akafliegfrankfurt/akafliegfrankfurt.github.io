@@ -12,15 +12,18 @@ aliases:
 **Ereignis** | **Von** | **Bis** | **Beschreibung**
 ---- | ---- | ---- | ----
 Theorie Unterricht | Winter 24/25 | wöchentlich ab 12/2024 | Digitale Theorieschulung, Anmeldung bei [Christof Maul](/kontakt#Ansprechpartner)
-Jahreshauptversammlung | 28.02.2025 | | Hauptversammlung, Ort tbd.
-Anfliegen | tbd. | | Anfliegen und Ausräumen in Ziegenhain am Karfreitag
+Jahreshauptversammlung | 28.02.2025 | | Hauptversammlung am Campus Ginnheim
+Anfliegen | 29.03.2025 | | Anfliegen und Ausräumen in Ziegenhain
 Refresher Woche | 14.04.2025 | 17.04.2025 | Flugwoche zum Saisonstart, insbesondere für Flugschüler
-Fortgeschrittenenwoche | tbd. zw. 14.07.25 | 08.08.25 | Fluglager für fortgeschrittene Flugschüler
+Wetzlarer Woche | 27.04.2025 | 04.05.2025 | Streckenflug in Wetzlar
+Night Of Science | 13.06.2025 | | Ausstellung Segelflugzeug am Campus Riedberg
+Sommerfest Goethe Uni | 03.07.2025 | | Ausstellung Segelflugzeug am Campus Westend
+Fortgeschrittenenwoche | 12.07.2025 | 18.07.2025 | Fluglager für fortgeschrittene Flugschüler
 Sommerfest | 09.08.2025 | | Akaflieg Sommerfest in Ziegenhain
-Sommerkurs | 11.08.25 | 22.08.25 | Akaflieg-Anfängerkurs
-Vorentscheid JVF | 05.09.25 | 07.09.25 | Trainingslager für Jugendvergleichsfliegen in ZIG
-FI-Refresher | 27. oder 28.09.25 | | Fluglehrer Refresher in Ziegenhain
-Abfliegen | 26.10.2024 | 27.10.2024 | Abfliegen und Einräumen in Ziegenhain
+Sommerkurs | 04.08.2025 | 15.08.2025 | Akaflieg-Anfängerkurs
+Vorentscheid JVF | tbd Anfang September | | Jugendvergleichsfliegen Hessen
+FI-Refresher | 27. oder 28.09.2025 | | Fluglehrer Refresher in Ziegenhain
+Abfliegen | 25.10.2025 | 26.10.2025 | Abfliegen und Einräumen in Ziegenhain
 
 ### Vorgemerkte Mitglieder für Flugzeugnutzung
 Anfragen für die Nutzung eines Vereinsflugzeuges für Fluglager/Wettbewerbe sind an unsere [Segelflugreferentin](/kontakt/#Ansprechpartner) zu richten.

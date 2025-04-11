@@ -73,7 +73,7 @@ keine Funktion | (Anzahl Starts + Anzahl Flugstunden) * 2 | 40 Stunden
 <a name="Mitgliedsbeitraege"> </a>
 
 # Mitgliedsbeiträge
-**Aktiv (Schüler/Student)** | 150 Euro
+**Aktiv (Schüler/Student U30)** | 150 Euro
 ----|----
 **Aktiv (Vollzahler)** | 300 Euro
 **Passiv** | 50 Euro
@@ -81,7 +81,7 @@ keine Funktion | (Anzahl Starts + Anzahl Flugstunden) * 2 | 40 Stunden
 ## Aufnahmegebühr
 *(einmalig bei Vereinsbeitritt)*
 
-**Aktiv (Schüler/Student)** | 50 Euro
+**Aktiv (Schüler/Student U30)** | 50 Euro
 ----|----
 **Aktiv (Vollzahler)** | 160 Euro
 

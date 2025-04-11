@@ -45,20 +45,20 @@ Di & Fr 19.30-21.30)*-->
 <div class="row">
 {{% three_columns %}}
 ### 1. Vorsitzender
-#### [Uwe März](mailto:vorstand@akaflieg-frankfurt.de)
-{{% image  "/img/kontakt/uwe2.jpg" %}}
-{{% /three_columns %}}
-
-{{% three_columns %}}
-### 2. Vorsitzender
 #### [Paul Quander](mailto:vorstand@akaflieg-frankfurt.de)
 {{% image  "/img/kontakt/paul.jpg" %}}
 {{% /three_columns %}}
 
 {{% three_columns %}}
+### 2. Vorsitzender
+#### [Chris Jung](mailto:vorstand@akaflieg-frankfurt.de)
+{{% image  "/img/kontakt/chris.jpg" %}}
+{{% /three_columns %}}
+
+{{% three_columns %}}
 ### Geschäftsführerin
-#### [Marie Rogos](mailto:vorstand@akaflieg-frankfurt.de)
-{{% image  "/img/kontakt/bitterwasser2.jpg" %}}
+#### [Martin Hohlweg](mailto:vorstand@akaflieg-frankfurt.de)
+{{% image  "/img/kontakt/martin.JPG" %}}
 {{% /three_columns %}}
 </div>
 
@@ -67,14 +67,15 @@ Di & Fr 19.30-21.30)*-->
 
 **Funktion** | **Name**
 ---- | ----
-Ausbildungsleiter & Referent für Wissenschaft | Christof Maul (E-Mail: [ausbildung@akaflieg-frankfurt.de](mailto:ausbildung@akaflieg-frankfurt.de))
-Technische Leitung | Dr. Thomas Gerber
-Kassierer | Christoph Krettler
+Ausbildungsleiter | Christof Maul (E-Mail: [ausbildung@akaflieg-frankfurt.de](mailto:ausbildung@akaflieg-frankfurt.de))
+Referent für Wissenschaft | Uwe März
+Technische Leitung | Uwe März und Jonas Krautter
+Kassiererin | Nele Slomka
 Segelflugreferentin | Elena Mascus
 PR & Marketing | Tobias Kemmerer
 IT | Christopher Rogos / Heinz Plajer / Marie Rogos
 Elektronik / Funk / Instrumente | Uwe März
 Liegenschaften / Motorgeräte | Hans-Jürgen Vogel
 Flugsicherheit |  Christopher Rogos
-Jugendwart | Chris Jung
+Jugendwart | Oskar Sahner
 Datenschutzbeauftragter | Mathias Linkerhand (E-Mail: [datenschutz@akaflieg-frankfurt.de](mailto:datenschutz@akaflieg-frankfurt.de))
