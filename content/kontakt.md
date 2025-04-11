@@ -52,13 +52,13 @@ Di & Fr 19.30-21.30)*-->
 {{% three_columns %}}
 ### 2. Vorsitzender
 #### [Chris Jung](mailto:vorstand@akaflieg-frankfurt.de)
-{{% image  "/img/kontakt/chris.jpg" %}}
+{{% image  "/img/kontakt/chris2.jpg" %}}
 {{% /three_columns %}}
 
 {{% three_columns %}}
-### Geschäftsführerin
+### Geschäftsführer
 #### [Martin Hohlweg](mailto:vorstand@akaflieg-frankfurt.de)
-{{% image  "/img/kontakt/martin.JPG" %}}
+{{% image  "/img/kontakt/martin2.JPG" %}}
 {{% /three_columns %}}
 </div>
 
