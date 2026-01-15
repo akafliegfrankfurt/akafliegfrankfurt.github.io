@@ -14,8 +14,7 @@ Jedes Jahr nach Ende des Sommersemesters bieten wir einen zweiwöchigen Kurs an,
 <br>Es sind **keine theoretischen oder praktischen Vorkenntnisse nötig!**
 <br>Ziel ist, die Basis für den ersten Alleinflug zu legen - unter günstigen Bedingungen ist **der erste Soloflug bereits zum Ende des Kurses möglich**, sonst kann er im Rahmen der regulären [Wochenendschulung](/ueber_uns/flugbetrieb/#wochenendschulung) bis zum Saisonende absolviert werden.
 
-**Kursdaten: 04.08.25 bis 15.08.25** 
-<br/><b style="color:red">(geänderter Termin, jetzt in den hessischen Schulferien)</b>
+**Kursdaten: 17.08.26 bis 28.08.26**
 
 
 {{% /image_right %}}
@@ -53,7 +52,7 @@ ___
 {{% two_columns %}}
 ### Nicht im Preis enthalten:
 + An- und Abreise
-+ Verpflegung (i.d.R. ca. 40 Euro pro Woche)
++ Verpflegung (i.d.R. ca. 50 Euro pro Woche)
 + Flugtauglichkeitszeugnis
 + zusätzliche Starts (werden zu [Akaflieg-Tarifen](/ueber_uns/kosten) abrechnet)
 {{% /two_columns %}}
