@@ -142,7 +142,7 @@ Zugriff zu ['Ordner Intern'](https://drive.google.com/open?id=1YFySrCrhZF1w79rgO
 **Link** | **Beschreibung**
 --- | ---
 [Abfrage von NOTAMs](https://secais.dfs.de/pilotservice/user/login/login_edit.jsp) | Notams des DFS *(Login erforderlich)*
-{{< newtab "SBO" "/documents/links/SBO2009Sept.pdf" >}} | Segelflugbetriebsordnung des DAeC
+{{< newtab "SBO" "/documents/links/SBO2025.pdf" >}} | Segelflugbetriebsordnung des DAeC
 {{< newtab "Segelfluggeländeordnung" "/documents/links/Segelfluggelaendeordnung.pdf" >}} | Segelfluggeländeordnung Schwalmstadt "Der Ring"
 
 <a name="Flugplaetze"></a>
