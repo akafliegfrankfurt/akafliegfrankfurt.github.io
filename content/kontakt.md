@@ -45,20 +45,20 @@ Di & Fr 19.30-21.30)*-->
 <div class="row">
 {{% three_columns %}}
 ### 1. Vorsitzender
-#### [Paul Quander](mailto:vorstand@akaflieg-frankfurt.de)
+#### [Paul Quander](mailto:paul.quander@akaflieg-frankfurt.de)
 {{% image  "/img/kontakt/paul.jpg" %}}
 {{% /three_columns %}}
 
 {{% three_columns %}}
 ### 2. Vorsitzender
-#### [Chris Jung](mailto:vorstand@akaflieg-frankfurt.de)
+#### [Chris Jung](mailto:chrisdaniel.jung@akaflieg-frankfurt.de)
 {{% image  "/img/kontakt/chris2.jpg" %}}
 {{% /three_columns %}}
 
 {{% three_columns %}}
-### Geschäftsführer
-#### [Martin Hohlweg](mailto:vorstand@akaflieg-frankfurt.de)
-{{% image  "/img/kontakt/martin2.JPG" %}}
+### Geschäftsführerin
+#### [Lara Madeleine Untch](mailto:lara.untch@akaflieg-frankfurt.de)
+{{% image  "/img/kontakt/XXX" %}}
 {{% /three_columns %}}
 </div>
 
@@ -76,6 +76,6 @@ PR & Marketing | Tobias Kemmerer
 IT | Christopher Rogos / Heinz Plajer / Marie Rogos
 Elektronik / Funk / Instrumente | Uwe März
 Liegenschaften / Motorgeräte | Hans-Jürgen Vogel
-Flugsicherheit |  Christopher Rogos
-Jugendwart | Oskar Sahner
+Flugsicherheit |  Tobias Sendel
+Jugendwart | Sebastian Billing
 Datenschutzbeauftragter | Mathias Linkerhand (E-Mail: [datenschutz@akaflieg-frankfurt.de](mailto:datenschutz@akaflieg-frankfurt.de))
