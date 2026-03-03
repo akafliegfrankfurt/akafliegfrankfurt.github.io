@@ -71,7 +71,7 @@ Ausbildungsleiter | Christof Maul (E-Mail: [ausbildung@akaflieg-frankfurt.de](ma
 Referent für Wissenschaft | Uwe März
 Technische Leitung | Uwe März und Jonas Krautter
 Kassiererin | Nele Slomka
-Segelflugreferentin | Elena Mascus
+Segelflugreferentin | Elena Mascus (E-Mail: [segelflug@akaflieg-frankfurt.de](mailto:segelflug@akaflieg-frankfurt.de))
 PR & Marketing | Tobias Kemmerer
 IT | Christopher Rogos / Heinz Plajer / Marie Rogos
 Elektronik / Funk / Instrumente | Uwe März
