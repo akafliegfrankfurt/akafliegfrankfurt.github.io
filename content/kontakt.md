@@ -57,8 +57,8 @@ Di & Fr 19.30-21.30)*-->
 
 {{% three_columns %}}
 ### Geschäftsführerin
-#### [Lara Madeleine Untch](mailto:lara.untch@akaflieg-frankfurt.de)
-{{% image  "/img/kontakt/Lara_Foto_Website_Kontakt.jpeg" %}}
+#### [Lara Untch](mailto:lara.untch@akaflieg-frankfurt.de)
+{{% image  "/img/kontakt/Lara2.jpg" %}}
 {{% /three_columns %}}
 </div>
 
