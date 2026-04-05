@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Hugo Server Task",
+            "type": "vsctask",
+            "request": "launch",
+            "task": "Debug: Start Hugo Server"
+        }
+    ]
+}

@@ -1,5 +1,8 @@
 // skel.scss v3.0.2-dev | (c) skel.io | MIT licensed */
 
+
+// Silence deprecation warning for !global assignments
+$breakpoints: null;
 // Vars.
 
 	/// Breakpoints.

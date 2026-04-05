@@ -1,0 +1,15 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Debug: Start Hugo Server",
+            "type": "shell",
+            "command": "hugo server --bind 0.0.0.0 --baseURL=http://localhost:1313 --buildDrafts --buildFuture --buildExpired --disableFastRender",
+            "isBackground": true,
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}

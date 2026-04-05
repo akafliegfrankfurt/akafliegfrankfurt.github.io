@@ -1,0 +1,12 @@
+{
+    "name": "Hugo DevContainer",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "forwardPorts": [1313],
+    "postCreateCommand": "hugo version",
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+    },
+    "remoteUser": "vscode"
+}
