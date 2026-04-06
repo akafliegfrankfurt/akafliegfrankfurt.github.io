@@ -1,0 +1,3 @@
+[submodule "themes/alpha-church"]
+	path = themes/alpha-church
+	url = git@github.com:funkydan2/alpha-church.git
